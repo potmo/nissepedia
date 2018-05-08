@@ -13,10 +13,15 @@ Där `ACDC Lane` är artikelnamnet som står i fetstil och `acdclane` är namnet
 För att vara petig så är `å`, `ä`, `ö`, `ü` utbytt mot `aa`, `ae`, `oe`, `u` och så vidare.
 
 Fet stil skriver man såhär `bla bla \textbf{detta blir fet text} bla bla`.
+
 Kursiv stil gör man såhär `bla bla \textit{Taurotragus oryx} bla bla`
+
 Citat såhär `bla bla \quotetext{detta är ett citat} bla bla`
+
 Understuken text `bla bla \underline{detta är understruket} bla bla`
+
 Överstuken text `bla bla \sout{detta är överstruket} bla bla`
+
 Referenser är bara fet stil `bla bla \textbf{AC/DC}` eller om referensen inte sitter ihop med ordet som referensen pekar på så sätter man det inom parentes `Fan vad fint med lite rock'n'roll! (\\textbf{AC/DC})`
 
 Listor gör man såhär
