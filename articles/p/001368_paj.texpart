@@ -1,19 +1,19 @@
-\textbackslash ditem[Paj]\textbackslash label{paj}
- är ett ord med, åtminstonde, fem (\textbackslash textbf{femma}) betydelser.
+\ditem[Paj]\label{paj}
+ är ett ord med, åtminstonde, fem (\textbf{femma}) betydelser.
 
- \textbackslash subtitle{Inom modet}
+ \subtitle{Inom modet}
 
- Paj åsyftar här en jacka eller väst i skinn eller jeanstyg, så kallad skinnpaj eller jeanspaj. På de snyggaste plaggen står det \textbackslash quotetext{Hawkwind} skrivet för hand på ryggen.
- \textbackslash subtitle{Inom nikotinismen}
+ Paj åsyftar här en jacka eller väst i skinn eller jeanstyg, så kallad skinnpaj eller jeanspaj. På de snyggaste plaggen står det \quotetext{Hawkwind} skrivet för hand på ryggen.
+ \subtitle{Inom nikotinismen}
 
  Paj är här en bit bakat lössnus.
- \textbackslash subtitle{Paj inom mekaniken}
+ \subtitle{Paj inom mekaniken}
  
  Inom mekaniken betyder paj att något är ställt ur bruksskick.
- \textbackslash subtitle{Inom gastronomin}
+ \subtitle{Inom gastronomin}
  
  Inom gastronomin betyder paj ett slags rund macka av pajdeg och äggstanning.
- \textbackslash subtitle{Norrtäljeprofil}
+ \subtitle{Norrtäljeprofil}
  
- Pajen är en snubbe från Norrtälje/] (\textbackslash textbf{Norrtälje}) som ibland bär hatt.
+ Pajen är en snubbe från Norrtälje/] (\textbf{Norrtälje}) som ibland bär hatt.
 

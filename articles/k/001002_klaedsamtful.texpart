@@ -1,4 +1,4 @@
-\textbackslash ditem[Klädsamt ful]\textbackslash label{klaedsamtful}
- Att vara klädsamt ful är när en person är ful, enligt konstens alla regler, men att det ändå lyckats bli deras \textbackslash quotetext{grej}. Cronos i Venom är typexemplet av någon som är klädsamt ful. Sveriges (\textbackslash textbf{Sverige}) motsvarighet till Cronos, Janne Schaffer, är ett annat slående exempel.
+\ditem[Klädsamt ful]\label{klaedsamtful}
+ Att vara klädsamt ful är när en person är ful, enligt konstens alla regler, men att det ändå lyckats bli deras \quotetext{grej}. Cronos i Venom är typexemplet av någon som är klädsamt ful. Sveriges (\textbf{Sverige}) motsvarighet till Cronos, Janne Schaffer, är ett annat slående exempel.
  Engelsmän är i regel, men med undantag, klädsamt fula.
 

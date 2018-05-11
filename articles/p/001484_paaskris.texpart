@@ -1,3 +1,3 @@
-\textbackslash ditem[Påskris]\textbackslash label{paaskris}
- Ord för den förargelseväckande situation då ens plast- eller papperspåse går sönder och alla saker man har i den faller ut på parkeringen utanför Coop (\textbackslash textbf{konsumbutik}).
+\ditem[Påskris]\label{paaskris}
+ Ord för den förargelseväckande situation då ens plast- eller papperspåse går sönder och alla saker man har i den faller ut på parkeringen utanför Coop (\textbf{konsumbutik}).
 

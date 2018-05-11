@@ -1,5 +1,5 @@
-\textbackslash ditem[Margaret Thatcher]\textbackslash label{margaretthatcher}
- Kärring som knullade den brittiska arbetarklassen på det ena onämnbara sättet efter det andra. Hon har också, verkar det som, varit en förebild för \textbackslash textbf{Maud Olofsson}. Bara det är värt en hel del förakt.
+\ditem[Margaret Thatcher]\label{margaretthatcher}
+ Kärring som knullade den brittiska arbetarklassen på det ena onämnbara sättet efter det andra. Hon har också, verkar det som, varit en förebild för \textbf{Maud Olofsson}. Bara det är värt en hel del förakt.
 
  Men kanske mest känd är hon för att ha varit med i gruppen på J. Lyons and co. som uppfann mjukglassen, eller i alla fall hur man blåste upp glass med luft så att folk får mindre götta för pengarna. Lika osympatiskt som resten av hennes gärning.
 

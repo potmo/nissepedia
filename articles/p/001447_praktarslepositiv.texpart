@@ -1,5 +1,5 @@
-\textbackslash ditem[Praktarsle (positiv)]\textbackslash label{praktarslepositiv}
+\ditem[Praktarsle (positiv)]\label{praktarslepositiv}
  En på alla sätt iögonfallande ändalykt.
 
- Se även: \textbackslash textbf{Praktarsle (negativ)}.
+ Se även: \textbf{Praktarsle (negativ)}.
 

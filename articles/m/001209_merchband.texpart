@@ -1,16 +1,16 @@
-\textbackslash ditem[Merchband]\textbackslash label{merchband}
+\ditem[Merchband]\label{merchband}
  Ett merchband är ett band som tillhandahåller ett brett utbud av merch i form av tshirts, backpatches, muggar osv. men sällan släpper nytt material eller mest spelar oinspirerad fjant-rock.
 
- \textbackslash subtitle{Förtydligande exempel}
+ \subtitle{Förtydligande exempel}
 
- \textbackslash begin{itemize}
- \textbackslash item Ghost
- \textbackslash item The Misfits
- \textbackslash item Exploited
- \textbackslash item The Adicts
- \textbackslash item Dead Moon
- \textbackslash item Iron Monkey
- \textbackslash item Chicago Bulls
- \textbackslash item Millencolin
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Ghost
+ \item The Misfits
+ \item Exploited
+ \item The Adicts
+ \item Dead Moon
+ \item Iron Monkey
+ \item Chicago Bulls
+ \item Millencolin
+ \end{itemize}
 

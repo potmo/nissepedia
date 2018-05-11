@@ -1,7 +1,7 @@
-\textbackslash ditem[Dyckert]\textbackslash label{dyckert}
- är en typ av spik som i princip saknar \textbackslash textbf{huvud}. Det är ibland pyttelite bredare upptill på den men knappt så det syns. Dyckert används främst inomhus när man ska spika lister och liknande och inte vill att spiken ska synas.
+\ditem[Dyckert]\label{dyckert}
+ är en typ av spik som i princip saknar \textbf{huvud}. Det är ibland pyttelite bredare upptill på den men knappt så det syns. Dyckert används främst inomhus när man ska spika lister och liknande och inte vill att spiken ska synas.
 
- \textbackslash subtitle{Trivia}
+ \subtitle{Trivia}
  
  Inom byggsvängen kallas ibland tjänstemännen elakt för dyckertar av byggarbetarna.
 

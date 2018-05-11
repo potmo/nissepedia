@@ -1,5 +1,5 @@
-\textbackslash ditem[Praktarsle (negativ)]\textbackslash label{praktarslenegativ}
- Praktarsle kan man kalla en person som man tycker gör dåliga saker. Om en person till exempel ringer till Ticnet samma dag som det släpps biljetter till en konsert med Bruce \textbackslash quotetext{Bosse Sprängsten} Springsteen, och kommer fram, men istället bokar plåtar till ett Status Quo-coverband, ja då har man att göra med ett riktigt praktarsle.
+\ditem[Praktarsle (negativ)]\label{praktarslenegativ}
+ Praktarsle kan man kalla en person som man tycker gör dåliga saker. Om en person till exempel ringer till Ticnet samma dag som det släpps biljetter till en konsert med Bruce \quotetext{Bosse Sprängsten} Springsteen, och kommer fram, men istället bokar plåtar till ett Status Quo-coverband, ja då har man att göra med ett riktigt praktarsle.
 
- Se även: \textbackslash textbf{Praktarsle (positiv)}
+ Se även: \textbf{Praktarsle (positiv)}
 

@@ -1,10 +1,10 @@
-\textbackslash ditem[Ägmästare]\textbackslash label{aegmaestare}
- En ägmästare är någon som, medvetet eller omedvetet, får det att äga för andra. En typisk ägmästare sprider äg omkring sig och behöver bara kliva in i ett rum eller kränga på sig en \textbackslash textbf{gitarr} för att andra ska känna att allt plötsligt blev jävligt sjysst. Jag tror vi alla vet vad vi snackar om här: det kan vara en jobbpolare som tagit på sig en extra uppgift för laget, nån rättrådig glesbygdsbo som får fart på grillen, nån som kommer med taxi direkt från Texacomacken med folle eller en kines som står upp för nyliberalismen inför en pansarvagn.
- \textbackslash subtitle{Externa länkar}
+\ditem[Ägmästare]\label{aegmaestare}
+ En ägmästare är någon som, medvetet eller omedvetet, får det att äga för andra. En typisk ägmästare sprider äg omkring sig och behöver bara kliva in i ett rum eller kränga på sig en \textbf{gitarr} för att andra ska känna att allt plötsligt blev jävligt sjysst. Jag tror vi alla vet vad vi snackar om här: det kan vara en jobbpolare som tagit på sig en extra uppgift för laget, nån rättrådig glesbygdsbo som får fart på grillen, nån som kommer med taxi direkt från Texacomacken med folle eller en kines som står upp för nyliberalismen inför en pansarvagn.
+ \subtitle{Externa länkar}
 
- Här kan du studera en australiensisk (\textbackslash textbf{australien}) ägmästare
+ Här kan du studera en australiensisk (\textbf{australien}) ägmästare
 
- \textbackslash subtitle{Se även}
+ \subtitle{Se även}
  
- \textbackslash textbf{sugmästare}
+ \textbf{sugmästare}
 

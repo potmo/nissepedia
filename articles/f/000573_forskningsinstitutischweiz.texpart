@@ -1,3 +1,3 @@
-\textbackslash ditem[Forskningsinstitut i Schweiz]\textbackslash label{forskningsinstitutischweiz}
- verkar bedriva ohemult (\textbackslash textbf{ohemul}) mycket forskning om karies, tandkräm och andra områden relaterade till dentalhygien. Ingen har dock någonsin lyckats lokalisera ett sådant institut, något som tillgängligheten till Google Earth förhoppningsvis kommer att ändra på.
+\ditem[Forskningsinstitut i Schweiz]\label{forskningsinstitutischweiz}
+ verkar bedriva ohemult (\textbf{ohemul}) mycket forskning om karies, tandkräm och andra områden relaterade till dentalhygien. Ingen har dock någonsin lyckats lokalisera ett sådant institut, något som tillgängligheten till Google Earth förhoppningsvis kommer att ändra på.
 

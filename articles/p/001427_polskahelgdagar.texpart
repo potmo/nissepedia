@@ -1,54 +1,54 @@
-\textbackslash ditem[Polska helgdagar]\textbackslash label{polskahelgdagar}
+\ditem[Polska helgdagar]\label{polskahelgdagar}
  Polen är ett land som gillar att fira saker. Och vad är väl ett bättre sätt att fira än att vara ledig från kneget? För att alla ska få vara lediga och fira samtidigt ibland har Polens riksdag infört en rad nationella helgdagar. Vissa har man lånat in från andra håll i världen och vissa har man hittat på helt själv. Nissepedia kan som första webbaserade uppslagsverk presentera en redogörelse för samtliga av Polens helgdagar på svenska.
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textbf{1 Januari} En klassisk helgdag hos alla länder som kör med den gregorianska kalendern. Eftersom nyåret inträffar mitt i natten är det klart att man vill ha lite sovmorgon dagen efter. Inget konstigt med det.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item \textbf{1 Januari} En klassisk helgdag hos alla länder som kör med den gregorianska kalendern. Eftersom nyåret inträffar mitt i natten är det klart att man vill ha lite sovmorgon dagen efter. Inget konstigt med det.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textbf{6 Januari} Denna dag firar man i Polen att dom tre vise männen hittade Jesus. Redan här blir man lite misstänksam mot polackernas benägenhet att vara lediga från jobbet. Är det verkligen något att fira att tre snubbar kommer och grattar Jesus på födelsedagen flera dagar för sent?
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item \textbf{6 Januari} Denna dag firar man i Polen att dom tre vise männen hittade Jesus. Redan här blir man lite misstänksam mot polackernas benägenhet att vara lediga från jobbet. Är det verkligen något att fira att tre snubbar kommer och grattar Jesus på födelsedagen flera dagar för sent?
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textbf{Påskdagen} Jesusrelaterat igen. För de som bryr sig var det ju himla tråkigt att Jesus blev uppspikad på ett kors. Eftersom Polen är ett katolskt land förstår man att polackerna vill vara hemma och tänka lite extra på Jesus då.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item \textbf{Påskdagen} Jesusrelaterat igen. För de som bryr sig var det ju himla tråkigt att Jesus blev uppspikad på ett kors. Eftersom Polen är ett katolskt land förstår man att polackerna vill vara hemma och tänka lite extra på Jesus då.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textbf{Annandag påsk} Eftersom påskdagen alltid infaller på en söndag kan man förstå om polackerna känner sig lite blåsta på konfekten eftersom de flesta ändå redan är lediga på söndagar. Då är det klart man vill kompenseras med en ledig måndag också.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item \textbf{Annandag påsk} Eftersom påskdagen alltid infaller på en söndag kan man förstå om polackerna känner sig lite blåsta på konfekten eftersom de flesta ändå redan är lediga på söndagar. Då är det klart man vill kompenseras med en ledig måndag också.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textbf{1 Maj} Officiellt är denna dag inte arbetarrörelserelaterad i Polen. Det kan tänkas hänga ihop med att en del polacker är rätt lacka på kommunismen men fortfarande gillar att ta ledigt för att fira. Man har dock inte hittat på någon annan anledning heller så lite konstigt är det.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item \textbf{1 Maj} Officiellt är denna dag inte arbetarrörelserelaterad i Polen. Det kan tänkas hänga ihop med att en del polacker är rätt lacka på kommunismen men fortfarande gillar att ta ledigt för att fira. Man har dock inte hittat på någon annan anledning heller så lite konstigt är det.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textbf{3 Maj} Här börjar man ana ett mönster. Helgdagarna ligger ofta två och två i tät följd, vad är grejen med det? Troligtvis är polackerna lite deppiga efter den första helgdagen, det var ju så fint att vara hemma liksom. För att muntra upp dom sätter man in en helgdag till, och ångesten känns genast mindre tung.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item \textbf{3 Maj} Här börjar man ana ett mönster. Helgdagarna ligger ofta två och två i tät följd, vad är grejen med det? Troligtvis är polackerna lite deppiga efter den första helgdagen, det var ju så fint att vara hemma liksom. För att muntra upp dom sätter man in en helgdag till, och ångesten känns genast mindre tung.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textbf{7:e söndagen efter påsk} Okej, det låter lite konstigt, men spelar inte så stor roll eftersom det ändå är på en söndag.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item \textbf{7:e söndagen efter påsk} Okej, det låter lite konstigt, men spelar inte så stor roll eftersom det ändå är på en söndag.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textbf{9:e torsdagen efter påsk} Här börjar det kännas som att polackerna inte är helt seriösa när dom instiftar sina helgdagar. Är inte det här mest en ganska illa formulerad ursäkt för att kompensera för att många var osmarta nog att ta ut all semester i början av sommaren innan det hunnit bli riktigt varmt?
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item \textbf{9:e torsdagen efter påsk} Här börjar det kännas som att polackerna inte är helt seriösa när dom instiftar sina helgdagar. Är inte det här mest en ganska illa formulerad ursäkt för att kompensera för att många var osmarta nog att ta ut all semester i början av sommaren innan det hunnit bli riktigt varmt?
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textbf{15 Augusti} Jungfru Marias himlafärd. Firar man att Jesus dör i två dagar kan man väl fira att hans morsa dog i en dag, tänkte antagligen polackerna.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item \textbf{15 Augusti} Jungfru Marias himlafärd. Firar man att Jesus dör i två dagar kan man väl fira att hans morsa dog i en dag, tänkte antagligen polackerna.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textbf{1 November} Alla helgons dag. Alla andra helgdagar i Polen som har med firande av döda att göra handlar ju om folk man inte känner personligen. Någon gång kan det ju vara nice att fira dom man faktiskt träffat också.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item \textbf{1 November} Alla helgons dag. Alla andra helgdagar i Polen som har med firande av döda att göra handlar ju om folk man inte känner personligen. Någon gång kan det ju vara nice att fira dom man faktiskt träffat också.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textbf{11 November} Påvens födelsedag. Enligt Polsk-katolsk tro fyller alla påvar år denna dag. Fast egentligen handlar det nog mest om att polackerna tycker det är rätt spejsat med ett datum som bara består av 1:or. Och så är det ju lätt att komma ihåg därför också, vilket säkert var viktigt förr i tiden när man inte gick så länge i skolan och samtidigt ofta var undernärd.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item \textbf{11 November} Påvens födelsedag. Enligt Polsk-katolsk tro fyller alla påvar år denna dag. Fast egentligen handlar det nog mest om att polackerna tycker det är rätt spejsat med ett datum som bara består av 1:or. Och så är det ju lätt att komma ihåg därför också, vilket säkert var viktigt förr i tiden när man inte gick så länge i skolan och samtidigt ofta var undernärd.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textbf{25 December} Den stora finalen på alla andra Jesusrelaterade dagar man firat under året. Och så får man ju dricka \textbackslash textbf{glögg} också.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item \textbf{25 December} Den stora finalen på alla andra Jesusrelaterade dagar man firat under året. Och så får man ju dricka \textbf{glögg} också.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textbf{26 December} Då är det klart att man vill fira lite extra och lyxa på med två lediga dagar på rad.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item \textbf{26 December} Då är det klart att man vill fira lite extra och lyxa på med två lediga dagar på rad.
+ \end{itemize}
 

@@ -1,3 +1,3 @@
-\textbackslash ditem[Muttersvarvare]\textbackslash label{muttersvarvare}
- Nedvärderande benämning på den svenska uppfinningen skiftnyckeln (\textbackslash textbf{skiftnyckel}). Alla vet att det är \textbackslash textbf{fasta nycklar} som gäller.
+\ditem[Muttersvarvare]\label{muttersvarvare}
+ Nedvärderande benämning på den svenska uppfinningen skiftnyckeln (\textbf{skiftnyckel}). Alla vet att det är \textbf{fasta nycklar} som gäller.
 

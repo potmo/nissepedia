@@ -1,11 +1,11 @@
-\textbackslash ditem[Träffningen vid Ratan]\textbackslash label{traeffningenvidratan}
+\ditem[Träffningen vid Ratan]\label{traeffningenvidratan}
  var ett slag under finska kriget som rasade mellan 1808-1809. Slaget, eller snarare det fredsavtal som följde har en plats i allas våra hjärtan av två anledningar.
-\textbackslash begin{enumerate}
-\textbackslash item Sedan Träffningen vid Ratan har ingen krigshandling officiellt ägt rum på svensk mark.
-\textbackslash item Genom fredsavtalet efter slaget slapp vi \textbackslash textbf{Finland}, som ryssarna istället åtog sig att fostra och förvalta.
-\textbackslash end{enumerate}
- \textbackslash subtitle{Se även}
+\begin{enumerate}
+\item Sedan Träffningen vid Ratan har ingen krigshandling officiellt ägt rum på svensk mark.
+\item Genom fredsavtalet efter slaget slapp vi \textbf{Finland}, som ryssarna istället åtog sig att fostra och förvalta.
+\end{enumerate}
+ \subtitle{Se även}
  
- \textbackslash textbf{Finland}
- \textbackslash textbf{Ålandskrisen}
+ \textbf{Finland}
+ \textbf{Ålandskrisen}
 

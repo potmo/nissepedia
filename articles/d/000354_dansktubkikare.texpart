@@ -1,3 +1,3 @@
-\textbackslash ditem[Dansk tubkikare]\textbackslash label{dansktubkikare}
- Kika ner i Tuborgbuteljen (\textbackslash textbf{Tuborg}) \textbackslash textit{and Bob's your uncle}, som engelsmännen säger.
+\ditem[Dansk tubkikare]\label{dansktubkikare}
+ Kika ner i Tuborgbuteljen (\textbf{Tuborg}) \textit{and Bob's your uncle}, som engelsmännen säger.
 

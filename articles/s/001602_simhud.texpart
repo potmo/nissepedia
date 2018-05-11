@@ -1,3 +1,3 @@
-\textbackslash ditem[Simhud]\textbackslash label{simhud}
- är en tunt lager skinn mellan fingrar och/eller tår. Dess praktiska användning varierar men de flesta djur använder simhuden till att simma med medan exempelvis fladdermusen istället använder den till att flyga. Andra djur som har simhud är vattensvin (\textbackslash textit{Hydrochaeris hydrochaeris}), myskanka (\textbackslash textit{Cairina moschata}) och italiens långbensgroda (\textbackslash textit{Rana latastei}).
+\ditem[Simhud]\label{simhud}
+ är en tunt lager skinn mellan fingrar och/eller tår. Dess praktiska användning varierar men de flesta djur använder simhuden till att simma med medan exempelvis fladdermusen istället använder den till att flyga. Andra djur som har simhud är vattensvin (\textit{Hydrochaeris hydrochaeris}), myskanka (\textit{Cairina moschata}) och italiens långbensgroda (\textit{Rana latastei}).
 

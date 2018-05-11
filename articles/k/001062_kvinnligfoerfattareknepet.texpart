@@ -1,16 +1,16 @@
-\textbackslash ditem[Kvinnlig författare-knepet]\textbackslash label{kvinnligfoerfattareknepet}
+\ditem[Kvinnlig författare-knepet]\label{kvinnligfoerfattareknepet}
  Ett beprövat knep hos unga män som önskar att få ligga med medelklasstjejer. Tillfrågad om vem som är den unge mannens favoritförfattare drar han till med en kvinnlig sådan, för att framstå som en fördomsfri och härlig person som man kan diskutera Mare Kandre och Virginia Woolf med under filten när hösten faller på. Detta, hoppas han, ske leda till att den unga kvinna erbjuder sig att ligga med honom. Detta händer också, men inte så ofta. Det beror på hur han ser ut.
- \textbackslash subtitle{Exempel på kvinnliga författare}
+ \subtitle{Exempel på kvinnliga författare}
  
- \textbackslash begin{itemize}
- \textbackslash item Sylvia Plath
- \textbackslash item Susanne Brøgger
- \textbackslash item Toni Morrison
- \textbackslash item Hanne Vibeke-Holst
- \textbackslash item Joyce Carol Oates
- \textbackslash item Margaret Atwood
- \textbackslash item Carolyn Cassidy
- \textbackslash item \textbackslash textbf{Ayn Rand}
- \textbackslash item Selma Lagerlöf
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Sylvia Plath
+ \item Susanne Brøgger
+ \item Toni Morrison
+ \item Hanne Vibeke-Holst
+ \item Joyce Carol Oates
+ \item Margaret Atwood
+ \item Carolyn Cassidy
+ \item \textbf{Ayn Rand}
+ \item Selma Lagerlöf
+ \end{itemize}
 

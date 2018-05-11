@@ -1,10 +1,10 @@
-\textbackslash ditem[Smidesstäd]\textbackslash label{smidesstaed}
+\ditem[Smidesstäd]\label{smidesstaed}
  et är förbannat tungt och är en typ av arbetsbänk för smidesarbeten.
- Precis som järnspettet (\textbackslash textbf{järnspett}) så är städet homogent, dvs tillverkat av 100\textbackslash % solitt stål.
+ Precis som järnspettet (\textbf{järnspett}) så är städet homogent, dvs tillverkat av 100\% solitt stål.
 
- \textbackslash subtitle{Tillverkning}
+ \subtitle{Tillverkning}
  
  Man tillverkar egentligen inte smidesstäd utan letar upp ett järnvägsspår, kapar ur en lämplig bit (ca 80Cm) med en vinkelslip och monterar sedan rälsbiten på en stubbe i lämplig höjd.
 
- Det finns 1000-tals kilometer järnvägsräls i \textbackslash textbf{Sverige} så ingen kommer att märka om det fattas en liten bit.
+ Det finns 1000-tals kilometer järnvägsräls i \textbf{Sverige} så ingen kommer att märka om det fattas en liten bit.
 

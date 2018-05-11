@@ -1,3 +1,3 @@
-\textbackslash ditem[Dansk semester]\textbackslash label{dansksemester}
+\ditem[Dansk semester]\label{dansksemester}
  Sjukskriva sig och hänvisa till plötslig magsjuka.
 

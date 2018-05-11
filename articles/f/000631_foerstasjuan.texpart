@@ -1,5 +1,5 @@
-\textbackslash ditem[Första sjuan]\textbackslash label{foerstasjuan}
- Inom de flesta obskyra musikstilar börjar de flesta banden med att släppa en \textbackslash textbf{sjua}.
+\ditem[Första sjuan]\label{foerstasjuan}
+ Inom de flesta obskyra musikstilar börjar de flesta banden med att släppa en \textbf{sjua}.
 
  Den här är alltid bättre än nästkommande släpp oavsett hur det låter, i alla fall om du frågar en konnässör. Framförallt så är den jättedyr och skivsamlare får halvfralla/smygväta om de skulle bläddra fram en sådan i en skivback.
 
@@ -23,7 +23,7 @@
  Atomångest - Kasta gatsten
 
  Joni Mitchell - Night in the city
- \textbackslash subtitle{ Se även }
+ \subtitle{ Se även }
 
- \textbackslash textbf{Första skivanalibi}
+ \textbf{Första skivanalibi}
 

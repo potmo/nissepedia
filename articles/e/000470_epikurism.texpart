@@ -1,5 +1,5 @@
-\textbackslash ditem[Epikurism]\textbackslash label{epikurism}
- är en filosofisk åskådning namngiven efter Epikuros, en grekisk man som levde på 300talet före kristi (\textbackslash textbf{jesus}) födelse. I korthet går läran ut på att människans främsta uppgift är att eftersträva ett ganska sjysst, lugnt och tillbakalutat liv med mycket njutning i glada vänners lag. Människan ska undvika sådant som orsakar själslig och kroppslig smärta i henne själv och i andra. Är man törstig ska man dricka. Är man hungrig ska man käka. Är man taggad på att lyssna på The Who's \textbackslash textit{Live at Leeds} på \textbackslash textbf{helgvolym} ska man, får man anta, göra det.
- Detta låter ju ganska bra kan vissa tycka, och framförallt har epikurismen efterlämnat sig ett lika underanvänt som tokbra adjektiv, nämligen \textbackslash textit{epikurisk}.
- i\textbackslash quotetext{TB. Det är den där epikuriska mannen som bor på Berghem och bär gröna småbyxor.}
+\ditem[Epikurism]\label{epikurism}
+ är en filosofisk åskådning namngiven efter Epikuros, en grekisk man som levde på 300talet före kristi (\textbf{jesus}) födelse. I korthet går läran ut på att människans främsta uppgift är att eftersträva ett ganska sjysst, lugnt och tillbakalutat liv med mycket njutning i glada vänners lag. Människan ska undvika sådant som orsakar själslig och kroppslig smärta i henne själv och i andra. Är man törstig ska man dricka. Är man hungrig ska man käka. Är man taggad på att lyssna på The Who's \textit{Live at Leeds} på \textbf{helgvolym} ska man, får man anta, göra det.
+ Detta låter ju ganska bra kan vissa tycka, och framförallt har epikurismen efterlämnat sig ett lika underanvänt som tokbra adjektiv, nämligen \textit{epikurisk}.
+ i\quotetext{TB. Det är den där epikuriska mannen som bor på Berghem och bär gröna småbyxor.}
 

@@ -1,4 +1,4 @@
-\textbackslash ditem[Korv i smörpapper]\textbackslash label{korvismoerpapper}
- är den matvara som främst bidragit till konungariket Sveriges (\textbackslash textbf{Sverige}) utveckling.
+\ditem[Korv i smörpapper]\label{korvismoerpapper}
+ är den matvara som främst bidragit till konungariket Sveriges (\textbf{Sverige}) utveckling.
  Någon gång i mitten av 1900-talet amerikaniserades dessvärre korvätandet och smörpappret byttes ut mot ett bröd.
 

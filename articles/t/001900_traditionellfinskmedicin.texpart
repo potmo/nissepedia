@@ -1,9 +1,9 @@
-\textbackslash ditem[Traditionell finsk medicin]\textbackslash label{traditionellfinskmedicin}
+\ditem[Traditionell finsk medicin]\label{traditionellfinskmedicin}
  Läran om att dricka läkarsprit, bada bastu och amputera med morakniv.
 
- \textbackslash quotetext{Där varken bastu, \textbackslash textbf{brännvin} eller tjära hjälper finns ingen bot}
- \textbackslash subtitle{ Se även: }
+ \quotetext{Där varken bastu, \textbf{brännvin} eller tjära hjälper finns ingen bot}
+ \subtitle{ Se även: }
 
  
- \textbackslash textbf{Traditionell kinesisk medicin}.
+ \textbf{Traditionell kinesisk medicin}.
 

@@ -1,24 +1,24 @@
-\textbackslash ditem[Jävelskap]\textbackslash label{jaevelskap}
- är sånt man kan hitta på när man vill busa. Ibland händer det att det drabbar andra och det är lite olyckligt men ofta oundvikligt. Det första kända jävelskapet utfördes av en lokal byfåne i Chan Chan, nuvarande \textbackslash textbf{Peru}. Byfånen lär ha fångat ett bältdjur och sedan gömt det i sin farfars mockasinlåda.
+\ditem[Jävelskap]\label{jaevelskap}
+ är sånt man kan hitta på när man vill busa. Ibland händer det att det drabbar andra och det är lite olyckligt men ofta oundvikligt. Det första kända jävelskapet utfördes av en lokal byfåne i Chan Chan, nuvarande \textbf{Peru}. Byfånen lär ha fångat ett bältdjur och sedan gömt det i sin farfars mockasinlåda.
 
- \textbackslash subtitle{Välkända jävelskap:}
- \textbackslash begin{itemize}
- \textbackslash item Lasse Brandeby lurar Robert Gustavsson att dricka sig full i tv-serien Rena Rama Rolf.
- \textbackslash end{itemize}
+ \subtitle{Välkända jävelskap:}
+ \begin{itemize}
+ \item Lasse Brandeby lurar Robert Gustavsson att dricka sig full i tv-serien Rena Rama Rolf.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item Jöns Skalman får i uppdrag att rita ett första utkast till Vasaskeppet och lägger till ett extra kanondeck. Ingen upptäcker sprattet innan det är för sent.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Jöns Skalman får i uppdrag att rita ett första utkast till Vasaskeppet och lägger till ett extra kanondeck. Ingen upptäcker sprattet innan det är för sent.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item Den första januari 1994 intar över 3000 beväpnade zapatister en rad olika städer och byar i Chiapas, Mexiko, för att dagen efter lämna dem igen.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Den första januari 1994 intar över 3000 beväpnade zapatister en rad olika städer och byar i Chiapas, Mexiko, för att dagen efter lämna dem igen.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item Noshörningskungen Rataxes låter aldrig Babar vara ifred.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Noshörningskungen Rataxes låter aldrig Babar vara ifred.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item Umeå kommun anlitar balticgtuppen för att skämta till det lite med sina invånare inför \textbackslash textit{Kulturhuvudstad 2014}. Ingen är riktigt klar över vad skämtet består i. Men det är ju så det är med postmodern kultur så allt är i sin ordning. Att pengarna går in i fickorna på Krister Olsson är en del av det postmoderna skämtet.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Umeå kommun anlitar balticgtuppen för att skämta till det lite med sina invånare inför \textit{Kulturhuvudstad 2014}. Ingen är riktigt klar över vad skämtet består i. Men det är ju så det är med postmodern kultur så allt är i sin ordning. Att pengarna går in i fickorna på Krister Olsson är en del av det postmoderna skämtet.
+ \end{itemize}
 

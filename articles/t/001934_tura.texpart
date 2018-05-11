@@ -1,5 +1,5 @@
-\textbackslash ditem[Tura]\textbackslash label{tura}
- Att tura är att åka fram och tillbaka över Öresund mellan Helsingborg och Helsingør (\textbackslash textbf{Danmark}) i syfte att i första hand bli full, i andra hand att äta mat. Det är inte mycket att se längs denna farled, förutom Hamlets (\textbackslash textbf{Hamlet}) slott.
- \textbackslash subtitle{ Se även }
- \textbackslash textbf{Dieselbil med lastgaller}
+\ditem[Tura]\label{tura}
+ Att tura är att åka fram och tillbaka över Öresund mellan Helsingborg och Helsingør (\textbf{Danmark}) i syfte att i första hand bli full, i andra hand att äta mat. Det är inte mycket att se längs denna farled, förutom Hamlets (\textbf{Hamlet}) slott.
+ \subtitle{ Se även }
+ \textbf{Dieselbil med lastgaller}
 

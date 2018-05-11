@@ -1,12 +1,12 @@
-\textbackslash ditem[Dansk skrock]\textbackslash label{danskskrock}
- Även haschrökande (\textbackslash textbf{hasch}) nakennihilistister drabbas ibland av föreställningar som saknar logisk mening men ändå framstår för individen som av naturen givna. En vardaglig handling som att snatta mat till middagen kan hos en skrockfull dansk upplevas ge närmast övernaturliga konsekvenser om den inte utförs på rätt sätt. Om fenomenet ska ses som en folklig form av religion eller bara är resultatet av utbredd tillgång till kemiska droger bråkar den danska forskarvärlden fortfarande om (LSD framställs ju som bekant i laboratorier så forskarvärlden har mycket annat att ta i tu med först). Skrock är dock vanligare hos äldre, vilket talar för att det hänger ihop med långt gången delirium. Om du mot förmodan skulle befinna dig i \textbackslash textbf{Danmark} kan det vara bra att känna till att nedanstående fenomen inte är något att oroa sig för. Det är inge dåre som gör detta, det är bara en vanlig skrockfull dansk:
+\ditem[Dansk skrock]\label{danskskrock}
+ Även haschrökande (\textbf{hasch}) nakennihilistister drabbas ibland av föreställningar som saknar logisk mening men ändå framstår för individen som av naturen givna. En vardaglig handling som att snatta mat till middagen kan hos en skrockfull dansk upplevas ge närmast övernaturliga konsekvenser om den inte utförs på rätt sätt. Om fenomenet ska ses som en folklig form av religion eller bara är resultatet av utbredd tillgång till kemiska droger bråkar den danska forskarvärlden fortfarande om (LSD framställs ju som bekant i laboratorier så forskarvärlden har mycket annat att ta i tu med först). Skrock är dock vanligare hos äldre, vilket talar för att det hänger ihop med långt gången delirium. Om du mot förmodan skulle befinna dig i \textbf{Danmark} kan det vara bra att känna till att nedanstående fenomen inte är något att oroa sig för. Det är inge dåre som gör detta, det är bara en vanlig skrockfull dansk:
 
- \textbackslash begin{itemize}
- \textbackslash item Lägg inte nycklarna på bordet. Då kan det hända att ägaren tar tillbaka dom.
- \textbackslash item Om du ser en svart katt gå över vägen får du sju års bakfylla om du inte kastar katten över din högra axel.
- \textbackslash item Om du hör en låt med Kim Larsen måste du dricka fem bärs.
- \textbackslash item Knarka alltid tre gånger innan du går in genom kyrkporten.
- \textbackslash item Om du krossar en spegel måste du krossa en till så det inte blir ojämt.
- \textbackslash item Går du under en stege är du tvungen att gå passgång ända tills du somnar av utmattning.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Lägg inte nycklarna på bordet. Då kan det hända att ägaren tar tillbaka dom.
+ \item Om du ser en svart katt gå över vägen får du sju års bakfylla om du inte kastar katten över din högra axel.
+ \item Om du hör en låt med Kim Larsen måste du dricka fem bärs.
+ \item Knarka alltid tre gånger innan du går in genom kyrkporten.
+ \item Om du krossar en spegel måste du krossa en till så det inte blir ojämt.
+ \item Går du under en stege är du tvungen att gå passgång ända tills du somnar av utmattning.
+ \end{itemize}
 

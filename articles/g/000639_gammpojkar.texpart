@@ -1,24 +1,24 @@
-\textbackslash ditem[Gammpojkar]\textbackslash label{gammpojkar}
+\ditem[Gammpojkar]\label{gammpojkar}
  En man som trots sin ålder behållit sitt oberoende, man framlever alltså sina dagar som ogift och barnlös.
- Han bor allmänt kvar i fäderneshemmet (ofta är han hemmansägare ibland tillsammans med en bror som även han är gammpojk. Som gammpojk har man gott om tid att lägga på hembyggda  vedklyvar,  stövarjakt,starka drycker (\textbackslash textbf{brännvin}) och radiosporten.
- Man färdas stundom längs byavägen på moped eller möjligen i dieselbil med lastgaller; (\textbackslash textbf{dieselbil med lastgaller}) på väg till konsumbutiken (\textbackslash textbf{konsumbutik}) för att handla kokkaffe, ärtsoppa på burk och kanske en korv\textbackslash textbf{snärt}.
+ Han bor allmänt kvar i fäderneshemmet (ofta är han hemmansägare ibland tillsammans med en bror som även han är gammpojk. Som gammpojk har man gott om tid att lägga på hembyggda  vedklyvar,  stövarjakt,starka drycker (\textbf{brännvin}) och radiosporten.
+ Man färdas stundom längs byavägen på moped eller möjligen i dieselbil med lastgaller; (\textbf{dieselbil med lastgaller}) på väg till konsumbutiken (\textbf{konsumbutik}) för att handla kokkaffe, ärtsoppa på burk och kanske en korv\textbf{snärt}.
 
- \textbackslash subtitle{ Gammpojkar i kulturen }
+ \subtitle{ Gammpojkar i kulturen }
 
- \textbackslash begin{itemize}
- \textbackslash item Esko Männikö har skildrat gammpojkar i norra \textbackslash textbf{Finland} i en fin bok.
- \textbackslash item Euskefeurat har gett röst till gammpojken Leonard Larsson på plattan \textbackslash quotetext{Hipp Happ}
- \textbackslash item Frantz Kafka skrev uteslutande om gammpojkar, även om dessa var kontinentala sådana.
- \textbackslash item Leif Bäckström i den svenska filmen \textbackslash textit{Jägarna}, skickligt spelad av Lennart Jähkel.
- \textbackslash end{itemize}
- \textbackslash subtitle{ Synonymer till Gammpojk }
+ \begin{itemize}
+ \item Esko Männikö har skildrat gammpojkar i norra \textbf{Finland} i en fin bok.
+ \item Euskefeurat har gett röst till gammpojken Leonard Larsson på plattan \quotetext{Hipp Happ}
+ \item Frantz Kafka skrev uteslutande om gammpojkar, även om dessa var kontinentala sådana.
+ \item Leif Bäckström i den svenska filmen \textit{Jägarna}, skickligt spelad av Lennart Jähkel.
+ \end{itemize}
+ \subtitle{ Synonymer till Gammpojk }
 
- \textbackslash begin{itemize}
- \textbackslash item Gammelgoss
- \textbackslash item Ungkarl
- \textbackslash item Grovsingel
- \textbackslash end{itemize}
- \textbackslash subtitle{ Se även }
+ \begin{itemize}
+ \item Gammelgoss
+ \item Ungkarl
+ \item Grovsingel
+ \end{itemize}
+ \subtitle{ Se även }
 
- \textbackslash textbf{Gammstinta}
+ \textbf{Gammstinta}
 

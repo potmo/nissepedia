@@ -1,9 +1,9 @@
-\textbackslash ditem[Fredag]\textbackslash label{fredag}
- är den dag i veckan när man går hem från arbetet/studierna och skriker \textbackslash quotetext{BLACK SABBATH!}  och helgen börjar.
- \textbackslash subtitle{Fredagen inom judendomen}
+\ditem[Fredag]\label{fredag}
+ är den dag i veckan när man går hem från arbetet/studierna och skriker \quotetext{BLACK SABBATH!}  och helgen börjar.
+ \subtitle{Fredagen inom judendomen}
 
- Ett lustigt sammanträffande (\textbackslash textbf{Märkliga sammanträffanden}) är att sabbaten firas just under fredagen inom judendomen.
- \textbackslash subtitle{Fredag i nyliberalismens folkhem}
+ Ett lustigt sammanträffande (\textbf{Märkliga sammanträffanden}) är att sabbaten firas just under fredagen inom judendomen.
+ \subtitle{Fredag i nyliberalismens folkhem}
 
- I nyliberalismens folkhem utmärks fredagen som den dag då man ägnar sig åt sk. \textbackslash quotetext{\textbackslash textbf{fredagsmys},} vilket innebär att barnfamiljen vräker i sig chips och coca-cola och att nyförälskade par äter avokadohalvor med  räkor på.
+ I nyliberalismens folkhem utmärks fredagen som den dag då man ägnar sig åt sk. \quotetext{\textbf{fredagsmys},} vilket innebär att barnfamiljen vräker i sig chips och coca-cola och att nyförälskade par äter avokadohalvor med  räkor på.
 

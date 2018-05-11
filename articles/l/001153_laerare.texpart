@@ -1,33 +1,33 @@
-\textbackslash ditem[Lärare]\textbackslash label{laerare}
- är ett ädelt yrke som länge hade hög status i och med historiska föregångare som Thomas av Aquino (\textbackslash textbf{chapeau de paysan}) och varma mediala representationer som Ingemar Bergmans gullgubbe Caligula i filmen \textbackslash textit{Hets}. Med åren har lärarkårens status chanserat. Rent historiskt befinner sig nu lärare vid en kritisk nollpunkt i ryktbarhet. Nedan följer en historisk redogörelse för hur det västerländska läraryrket en gang var, och hur det sedermera kommit att bli.
+\ditem[Lärare]\label{laerare}
+ är ett ädelt yrke som länge hade hög status i och med historiska föregångare som Thomas av Aquino (\textbf{chapeau de paysan}) och varma mediala representationer som Ingemar Bergmans gullgubbe Caligula i filmen \textit{Hets}. Med åren har lärarkårens status chanserat. Rent historiskt befinner sig nu lärare vid en kritisk nollpunkt i ryktbarhet. Nedan följer en historisk redogörelse för hur det västerländska läraryrket en gang var, och hur det sedermera kommit att bli.
 
- \textbackslash subtitle{Antiken}
+ \subtitle{Antiken}
 
- \textbackslash textbf{De gamla grekerna} höll lärarna högt. Sokrates föreläsningar om ditten och datten gjorde honom till en togaklädd rockstjärna. Platon, en annan farbror som lärde, var så begeistrad av Sokrates att han utformade nästan alla sina kommande böcker i dialogform, där han och den då avlidne Sokrates hade påhittade samtal om gamla idéer. Det var även så fenomenet \textbackslash quotetext{coverband} uppstod.
+ \textbf{De gamla grekerna} höll lärarna högt. Sokrates föreläsningar om ditten och datten gjorde honom till en togaklädd rockstjärna. Platon, en annan farbror som lärde, var så begeistrad av Sokrates att han utformade nästan alla sina kommande böcker i dialogform, där han och den då avlidne Sokrates hade påhittade samtal om gamla idéer. Det var även så fenomenet \quotetext{coverband} uppstod.
 
- \textbackslash subtitle{Medeltiden}
+ \subtitle{Medeltiden}
 
  På medeltiden bodde de flesta lärare i kloster. Kloster på den tiden var mäktiga institutioner där alla var feta som broder Tuck och söp hela tiden. Runt omkring klostren brann ett pestdrabbat Europa. Att lära sig om det ingick dock inte i den högst begränsade läroplanen, som mest avhandlade korvstoppning och att ordagrant kopiera enorma textsjok för hand.
 
- \textbackslash subtitle{Renässansen}
+ \subtitle{Renässansen}
 
- Under renässansen flyttade lärarna ut från sina kloster och tillbaka ut i samhället. Eller en del av samhället i alla fall. De som hade råd med lärare på den tiden var italienska merkantila högdjur och tyska hertigar som fick läsa \textbackslash textit{Fursten} av Machiavelli och lära sig räkna medelst abakus. Rika, inte fattiga, med andra ord.
+ Under renässansen flyttade lärarna ut från sina kloster och tillbaka ut i samhället. Eller en del av samhället i alla fall. De som hade råd med lärare på den tiden var italienska merkantila högdjur och tyska hertigar som fick läsa \textit{Fursten} av Machiavelli och lära sig räkna medelst abakus. Rika, inte fattiga, med andra ord.
 
- \textbackslash subtitle{Upplysningen \textbackslash & Romantiken}
+ \subtitle{Upplysningen \& Romantiken}
  
- Här började det ta fart som satan för lärarna. Upplysningen innebar att \textbackslash quotetext{vetenskap} var inne och att samhället förändrades en del (fler fick tillgång till skolor). Därför blev läraren det hetaste sedan nån spillde senap på en varmkorv för första gången. Alla ville bli lärare som gick runt och berättade saker för folk. Rika som fattiga, alla ville ha en lärare!
+ Här började det ta fart som satan för lärarna. Upplysningen innebar att \quotetext{vetenskap} var inne och att samhället förändrades en del (fler fick tillgång till skolor). Därför blev läraren det hetaste sedan nån spillde senap på en varmkorv för första gången. Alla ville bli lärare som gick runt och berättade saker för folk. Rika som fattiga, alla ville ha en lärare!
 
- Romantiken var en idéströmning som löpte parallellt med upplysningen och hade lite andra ideal, typ att man var andlig och gillade naturen som estetiskt föremål - inte som ett monster som skulle betvingas med eld och järn. Men de gillade också lärare, i den känslosamma filosofiska formen, ungefär som Robin Williams i \textbackslash textit{Döda poeters sällskap}.
+ Romantiken var en idéströmning som löpte parallellt med upplysningen och hade lite andra ideal, typ att man var andlig och gillade naturen som estetiskt föremål - inte som ett monster som skulle betvingas med eld och järn. Men de gillade också lärare, i den känslosamma filosofiska formen, ungefär som Robin Williams i \textit{Döda poeters sällskap}.
 
- \textbackslash subtitle{Moderniteten}
+ \subtitle{Moderniteten}
 
  Allt skulle industrialiseras och mätas och så. Läraren fortsatte rocka loss i samhället. Visst, nu var lärarna fler och behövde undervisa barn från lägre samhällsskikt, men deras rockstjärnestatus levde vidare. Det här skulle kunna ses som läraryrkets guldålder. Många kunde bli det, ingen ifrågasatte en och lönen var rätt bra. Man fick också slå barnen.
 
- \textbackslash subtitle{1970 - 2002}
+ \subtitle{1970 - 2002}
 
- En inflation av lärare orsakade en urholkning av läraryrkets guldiga aura. Dessutom hade tjejer börjat bli lärare, något som i regel pajar ett yrkes status. På 90-talet behövdes inte längre någon riktig utbildning för att bli lärare, bara en extrem hängivelse till en hobby. Typ om man hade en LUF (\textbackslash textbf{luf}) kunde man titulera sig mattelärare och om man hade håriga handflator och gillade \textbackslash textbf{pörr} kom en heltidsanställning som biologilärare som ett brev på posten. Det var även här elevernas respekt för lärarna försvann, då folkpartister och porrsamlare sällan har någon längre utbildning i pedagogik.
+ En inflation av lärare orsakade en urholkning av läraryrkets guldiga aura. Dessutom hade tjejer börjat bli lärare, något som i regel pajar ett yrkes status. På 90-talet behövdes inte längre någon riktig utbildning för att bli lärare, bara en extrem hängivelse till en hobby. Typ om man hade en LUF (\textbf{luf}) kunde man titulera sig mattelärare och om man hade håriga handflator och gillade \textbf{pörr} kom en heltidsanställning som biologilärare som ett brev på posten. Det var även här elevernas respekt för lärarna försvann, då folkpartister och porrsamlare sällan har någon längre utbildning i pedagogik.
 
- \textbackslash subtitle{Nu och vidare}
+ \subtitle{Nu och vidare}
 
  Vad framtiden bär i sitt sköte för läraryrket är svårt att sia i. I Sverige finns nu ett krav på lärarlegitimation, vilket innebär att 90-talets entusiaster pressas ut från arbetsmarknaden. Detta skulle kunna resultera i att lärarkåren blir mer professionell och håller högre standard. Men i och med att antagningspoängen för lärarutbildningen är lägre än dito för dikesgrävare, kommer antagligen ingen större förändring att ske ändå.
 

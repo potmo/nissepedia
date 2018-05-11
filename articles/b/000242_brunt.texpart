@@ -1,7 +1,7 @@
-\textbackslash ditem[Brunt]\textbackslash label{brunt}
- Slang för lågbudgetvarianter av chokladkräm typ \textbackslash textbf{Nutella}.
- En impopulär lågbudgetvariant heter \textbackslash quotetext{Choco Nussa} och finns att inlanda i Lidl-butiker runt om i Europa.
- Används även inom uttryck som \textbackslash quotetext{Jag skulle inte göra det för allt Brunt i Husqvarna} eller inbjudningsfraser som \textbackslash quotetext{Ska du med hem på en kopp kaffe och lite Brunt?}
+\ditem[Brunt]\label{brunt}
+ Slang för lågbudgetvarianter av chokladkräm typ \textbf{Nutella}.
+ En impopulär lågbudgetvariant heter \quotetext{Choco Nussa} och finns att inlanda i Lidl-butiker runt om i Europa.
+ Används även inom uttryck som \quotetext{Jag skulle inte göra det för allt Brunt i Husqvarna} eller inbjudningsfraser som \quotetext{Ska du med hem på en kopp kaffe och lite Brunt?}
 
  bild: http://fddb.info/static/db/108/schokoladencreme-choco-nussa.jpg
 

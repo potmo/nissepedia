@@ -1,10 +1,10 @@
-\textbackslash ditem[Frukt]\textbackslash label{frukt}
+\ditem[Frukt]\label{frukt}
  är ett slags godis, har forskarna nu konstaterat efter noggranna studier. Frukt skiljer sig dock från andra sorters godis genom att växa på träd och buskage. Vanliga former av denna konfektyr är:
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textbf{Banan}
- \textbackslash item Äpple
- \textbackslash item Apelsin
- \textbackslash item Päron (\textbackslash textbf{Päronhalva})
- \textbackslash item Sviskon
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item \textbf{Banan}
+ \item Äpple
+ \item Apelsin
+ \item Päron (\textbf{Päronhalva})
+ \item Sviskon
+ \end{itemize}
 

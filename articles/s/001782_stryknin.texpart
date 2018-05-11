@@ -1,3 +1,3 @@
-\textbackslash ditem[Stryknin]\textbackslash label{stryknin}
- är ett gift som heter som det gör för att man \textbackslash quotetext{stryker med} av det.
+\ditem[Stryknin]\label{stryknin}
+ är ett gift som heter som det gör för att man \quotetext{stryker med} av det.
 

@@ -1,10 +1,10 @@
-\textbackslash ditem[Surfin' bird]\textbackslash label{surfinbird}
- är ett fågeldjur inom familjen gäddoppingar. Den förväxlas lätt med sin nära släkting hackspetten i Kalle Ankas julafton men känns igen på sitt karaktäristiska läte \textbackslash quotetext{papa-oom-mow-mow} i stället för \textbackslash quotetext{ara-pa-pa-pa-pa-pa-pa-pa-pa-pia}, som den sjunger högt och ofta. Arten återfinns vanligtvis på nedlagda soptippar i Danmark där den lever på cigarrstumpar och tuggummin. På power meet-helgen flyger eller liftar den till Västerås för häckning och flipperspelande.
+\ditem[Surfin' bird]\label{surfinbird}
+ är ett fågeldjur inom familjen gäddoppingar. Den förväxlas lätt med sin nära släkting hackspetten i Kalle Ankas julafton men känns igen på sitt karaktäristiska läte \quotetext{papa-oom-mow-mow} i stället för \quotetext{ara-pa-pa-pa-pa-pa-pa-pa-pa-pia}, som den sjunger högt och ofta. Arten återfinns vanligtvis på nedlagda soptippar i Danmark där den lever på cigarrstumpar och tuggummin. På power meet-helgen flyger eller liftar den till Västerås för häckning och flipperspelande.
  Andra arter inom familjen gäddoppingar:
 
  Hjulben
 
- \textbackslash textbf{Palle Kuling}
+ \textbf{Palle Kuling}
 
  Duffy duck
 

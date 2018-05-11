@@ -1,3 +1,3 @@
-\textbackslash ditem[Jan Wilsgaard]\textbackslash label{janwilsgaard}
- Estetikens urfader.  Designade bland annat Amazon, 240 (\textbackslash textbf{Volvo 240-serien}) och 740 (\textbackslash textbf{volvo 740}).
+\ditem[Jan Wilsgaard]\label{janwilsgaard}
+ Estetikens urfader.  Designade bland annat Amazon, 240 (\textbf{Volvo 240-serien}) och 740 (\textbf{volvo 740}).
 

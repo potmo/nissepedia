@@ -1,13 +1,13 @@
-\textbackslash ditem[Småskurk]\textbackslash label{smaaskurk}
- En småskurk är en brottsling som håller sina lagöverträdelser inom acceptabla ramar. Tar man exempelvis påtår på kaffet fast det egentligen inte ingår så är det okej. Lika så är det lugnt att man snattar billigare saker i mataffären så länge det inte är en \textbackslash textbf{konsumbutik}.
+\ditem[Småskurk]\label{smaaskurk}
+ En småskurk är en brottsling som håller sina lagöverträdelser inom acceptabla ramar. Tar man exempelvis påtår på kaffet fast det egentligen inte ingår så är det okej. Lika så är det lugnt att man snattar billigare saker i mataffären så länge det inte är en \textbf{konsumbutik}.
  En småskurk kan även fiffla med deklarationen så länge den inte är rik. Rika personer kan aldrig vara annat än storskurkar. Det är allmänt accepterat att vara småskurk, vissa ser det till och med som lite charmigt.
- Jmfr \textbackslash textbf{filur}
+ Jmfr \textbf{filur}
 
- \textbackslash subtitle{Exempel på kända småskurkar}
+ \subtitle{Exempel på kända småskurkar}
  George Best
- \textbackslash textbf{Torbjörn}
- \textbackslash textbf{Lemmy}
- Petrus de Dacia (\textbackslash textbf{petrus de dacia})
+ \textbf{Torbjörn}
+ \textbf{Lemmy}
+ Petrus de Dacia (\textbf{petrus de dacia})
  Leila K
  Cockney Rejects
 

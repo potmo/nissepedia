@@ -1,7 +1,7 @@
-\textbackslash ditem[Dansk påsk]\textbackslash label{danskpaask}
+\ditem[Dansk påsk]\label{danskpaask}
  Inga konstigheter här. Man samlas, lyssnar på AC/DC och dricker sig full som vanligt. Kanske kollar man på TV.
 
- \textbackslash subtitle{Traditioner}
+ \subtitle{Traditioner}
 
  Traditionsenligt knäcker dansken försiktigt ett ägg i båda ändarna, blåser ut innanmätet på garageuppfarten och
  fyller ägget med något som inte ska vara därinne. Sedan tappar man bort det för att man är lite på lyran och

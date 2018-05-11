@@ -1,6 +1,6 @@
-\textbackslash ditem[Abu Garcia]\textbackslash label{abugarcia}
- är ett företag som sysslar med försäljning av fiskeartiklar. Tidigare var det två företag, Abu och Garcia. Abu var svenskt och är en förkortning för Aktiebolaget Urmakarna. I begynnelsen pysslade man enbart med urmakeri, men arbetarnas gedigna kunskaper i finmekanik visade sig på 1930-talet även passa utmärkt till att knyta fast fiskelina på en bit klarlackad bambu. Garcia var amerikanskt och är inte förkortning för någonting. Varje \textbackslash textbf{fiskeredskapsaffär} av rang erbjuder produkter från Abu Garcia.
- \textbackslash subtitle{andra användningar}
+\ditem[Abu Garcia]\label{abugarcia}
+ är ett företag som sysslar med försäljning av fiskeartiklar. Tidigare var det två företag, Abu och Garcia. Abu var svenskt och är en förkortning för Aktiebolaget Urmakarna. I begynnelsen pysslade man enbart med urmakeri, men arbetarnas gedigna kunskaper i finmekanik visade sig på 1930-talet även passa utmärkt till att knyta fast fiskelina på en bit klarlackad bambu. Garcia var amerikanskt och är inte förkortning för någonting. Varje \textbf{fiskeredskapsaffär} av rang erbjuder produkter från Abu Garcia.
+ \subtitle{andra användningar}
  
- Abu Garcia! används ofta i \textbackslash textbf{Västerbotten} som \textbackslash textit{iAy caramba!} används i Mexiko, alltså som en interjektion.
+ Abu Garcia! används ofta i \textbf{Västerbotten} som \textit{iAy caramba!} används i Mexiko, alltså som en interjektion.
 

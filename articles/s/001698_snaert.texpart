@@ -1,5 +1,5 @@
-\textbackslash ditem[Snärt]\textbackslash label{snaert}
- En snärt är en måttenhet som betecknar det som i vardagligt tal uttrycks som \textbackslash quotetext{lite grann}. En centimetertjock skiva falukorv är en korvsnärt.
+\ditem[Snärt]\label{snaert}
+ En snärt är en måttenhet som betecknar det som i vardagligt tal uttrycks som \quotetext{lite grann}. En centimetertjock skiva falukorv är en korvsnärt.
 
- Se även \textbackslash textbf{Parisare}
+ Se även \textbf{Parisare}
 

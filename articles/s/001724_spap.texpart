@@ -1,21 +1,21 @@
-\textbackslash ditem[SPAP]\textbackslash label{spap}
+\ditem[SPAP]\label{spap}
  är en förkortning för Supa På Annan Plats, ett klassiskt knep som kan förgylla vilken unken lördag som helst. När man konsumerar alkohol görs det ofta i en begränsad fysisk sfär (typ i bersån på Hallonvägen 2, Scharinska villan eller Lottas krog), vilket efter ett tag kan börja kännas rätt gammalt. Tricket består i att komma på en ny miljö att inmundiga alkohol i och således ge längre livslängd till sysslan att supa. Nedan följer några förslag på andra platser att supa på:
 
- \textbackslash begin{itemize}
- \textbackslash item En sommarstuga
- \textbackslash item Costas
- \textbackslash item En idyllisk klipphäll
- \textbackslash item Valhall, de fallna kämparnas sal
- \textbackslash item Återvinningsstationen på Berghem
- \textbackslash item \textbackslash textbf{Skellefteå}
- \textbackslash item En biosalong
- \textbackslash item Ensam vid Umeälven med Sabbath i lurarna
- \textbackslash item Ensam på sitt rum, lyssnandes till Floyd
- \textbackslash item Morsan \textbackslash & farsans garagekällare
- \textbackslash item \textbackslash textbf{Libanon}
- \textbackslash item Runtomkring \textbackslash textbf{Axtorpet}
- \textbackslash item Domarstolen på en tennisbana
- \textbackslash item En övergiven borgruin
- \textbackslash item Berlin Alexanderplatz.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item En sommarstuga
+ \item Costas
+ \item En idyllisk klipphäll
+ \item Valhall, de fallna kämparnas sal
+ \item Återvinningsstationen på Berghem
+ \item \textbf{Skellefteå}
+ \item En biosalong
+ \item Ensam vid Umeälven med Sabbath i lurarna
+ \item Ensam på sitt rum, lyssnandes till Floyd
+ \item Morsan \& farsans garagekällare
+ \item \textbf{Libanon}
+ \item Runtomkring \textbf{Axtorpet}
+ \item Domarstolen på en tennisbana
+ \item En övergiven borgruin
+ \item Berlin Alexanderplatz.
+ \end{itemize}
 

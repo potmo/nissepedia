@@ -1,3 +1,3 @@
-\textbackslash ditem[Torgny Mogren]\textbackslash label{torgnymogren}
- är en svensk skidåkare från \textbackslash textbf{Hällefors}. Han har bland annat ett OS-guld och fyra VM-guld hemma i prisskåpet, varav ett från Oberstdorf. Under ett träningsåk 7 februari 1995 bröt han ryggen och sitter sedan dess i rullstol. Idag är han verksam inom VVS-branschen.
+\ditem[Torgny Mogren]\label{torgnymogren}
+ är en svensk skidåkare från \textbf{Hällefors}. Han har bland annat ett OS-guld och fyra VM-guld hemma i prisskåpet, varav ett från Oberstdorf. Under ett träningsåk 7 februari 1995 bröt han ryggen och sitter sedan dess i rullstol. Idag är han verksam inom VVS-branschen.
 

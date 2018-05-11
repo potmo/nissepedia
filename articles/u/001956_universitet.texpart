@@ -1,3 +1,3 @@
-\textbackslash ditem[Universitet]\textbackslash label{universitet}
- En samling hus på slät mark vilken påminner om en prärie. Där drar stora horder av overallstudenter runt likt boskap medan förvirrade utbytesstudenter letar efter busshållplatsen. Här huserar också andra sorters stundenter, t.ex. ambitiösa (\textbackslash textbf{Den ambitiösa studenten}) och oambitiösa (\textbackslash textbf{Den oambitiösa studenten}).
+\ditem[Universitet]\label{universitet}
+ En samling hus på slät mark vilken påminner om en prärie. Där drar stora horder av overallstudenter runt likt boskap medan förvirrade utbytesstudenter letar efter busshållplatsen. Här huserar också andra sorters stundenter, t.ex. ambitiösa (\textbf{Den ambitiösa studenten}) och oambitiösa (\textbf{Den oambitiösa studenten}).
 

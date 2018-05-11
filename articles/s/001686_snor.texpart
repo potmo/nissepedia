@@ -1,3 +1,3 @@
-\textbackslash ditem[Snor]\textbackslash label{snor}
- är ett trögflytande ämne som rinner genom vuxnas näsor (\textbackslash textbf{näsa}) under vintern och genom småbarns hela året. Det faktum att snoret kommer ut genom huvudet (\textbackslash textbf{huvud}) har gjort att många \textbackslash textbf{barn} tror att det i själva verket är hjärnsubstans. Detta är helt sant och anledningen till att vuxna inte känner till detta är att dom tycker det är så obehagligt att dom medvetet förtränger det.
+\ditem[Snor]\label{snor}
+ är ett trögflytande ämne som rinner genom vuxnas näsor (\textbf{näsa}) under vintern och genom småbarns hela året. Det faktum att snoret kommer ut genom huvudet (\textbf{huvud}) har gjort att många \textbf{barn} tror att det i själva verket är hjärnsubstans. Detta är helt sant och anledningen till att vuxna inte känner till detta är att dom tycker det är så obehagligt att dom medvetet förtränger det.
 

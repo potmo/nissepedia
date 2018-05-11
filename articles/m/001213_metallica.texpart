@@ -1,2 +1,2 @@
-\textbackslash ditem[Metallica]\textbackslash label{metallica}
+\ditem[Metallica]\label{metallica}
 

@@ -1,11 +1,11 @@
-\textbackslash ditem[Antikvärde]\textbackslash label{antikvaerde}
+\ditem[Antikvärde]\label{antikvaerde}
  är den mystiska kraft som håller landets loppmarknader igång.
  Några handfasta exempel:
- \textbackslash begin{itemize}
- \textbackslash item En Pelle Karlsson-lp (\textbackslash textbf{Pelle Karlsson}) som i praktiken har ett värde under noll ökar genom antikvärde till över nypris.
- \textbackslash item Chartersouvenirer från 70-talets Mallorca får ett värde i klass med huppdiamanten.
- \textbackslash item Kopparbyttor
- \textbackslash item Shabbychic
- \textbackslash item Trälådor som det förvarats margarin eller socker i för ett halvt sekel sen.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item En Pelle Karlsson-lp (\textbf{Pelle Karlsson}) som i praktiken har ett värde under noll ökar genom antikvärde till över nypris.
+ \item Chartersouvenirer från 70-talets Mallorca får ett värde i klass med huppdiamanten.
+ \item Kopparbyttor
+ \item Shabbychic
+ \item Trälådor som det förvarats margarin eller socker i för ett halvt sekel sen.
+ \end{itemize}
 

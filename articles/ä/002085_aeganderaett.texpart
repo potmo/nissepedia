@@ -1,5 +1,5 @@
-\textbackslash ditem[Äganderätt]\textbackslash label{aeganderaett}
- kan vara lite vad som helst, beroende på \textbackslash textbf{perspektiv}.
+\ditem[Äganderätt]\label{aeganderaett}
+ kan vara lite vad som helst, beroende på \textbf{perspektiv}.
  Den vidast spridda definitionen går dock ut på att dom rika ska kunna få vad dom vill från alla som inte är rika.
 
  Den inte fullt så spridda definitionen åsyftar palt.

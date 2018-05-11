@@ -1,3 +1,3 @@
-\textbackslash ditem[Gore-Tex]\textbackslash label{goretex}
- är ett material som är vind- och vattenavvisande, men ändå \textbackslash textit{andas}. Av Gore-Tex kan man bl.a. göra regnkläder. Man kan undra varför kläder behöver \textbackslash textit{andas}, men prova jogga i galonbyxor så kanske ni förstår. Har en person mycket kläder med Gore-Tex i eller på är den personen friluftsintresserad, vegan, båda eller en vanlig människa utan sinne för ekonomi.
+\ditem[Gore-Tex]\label{goretex}
+ är ett material som är vind- och vattenavvisande, men ändå \textit{andas}. Av Gore-Tex kan man bl.a. göra regnkläder. Man kan undra varför kläder behöver \textit{andas}, men prova jogga i galonbyxor så kanske ni förstår. Har en person mycket kläder med Gore-Tex i eller på är den personen friluftsintresserad, vegan, båda eller en vanlig människa utan sinne för ekonomi.
 

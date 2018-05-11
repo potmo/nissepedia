@@ -1,25 +1,25 @@
-\textbackslash ditem[Svensk bilsemester]\textbackslash label{svenskbilsemester}
- är en riktig klassiker i de breda folklagren, men hos \textbackslash textbf{storfräsare} duger det naturligtvis inte att tvinga in familjen i 740 (\textbackslash textbf{Volvo 740}), bränna ner till Kolmården och sedan slå upp ett tält och supa sig full. Hos storfräsaren är det Plaja del sol och komplicerade transaktioner på utrikiska som gäller. Svensk bilsemester är trots allt precis det storfräsaren skyggar för: enkelhet och frihet och en fantastisk chans att samtala med andra bilister om det alltid för höga bensinpriset.
+\ditem[Svensk bilsemester]\label{svenskbilsemester}
+ är en riktig klassiker i de breda folklagren, men hos \textbf{storfräsare} duger det naturligtvis inte att tvinga in familjen i 740 (\textbf{Volvo 740}), bränna ner till Kolmården och sedan slå upp ett tält och supa sig full. Hos storfräsaren är det Plaja del sol och komplicerade transaktioner på utrikiska som gäller. Svensk bilsemester är trots allt precis det storfräsaren skyggar för: enkelhet och frihet och en fantastisk chans att samtala med andra bilister om det alltid för höga bensinpriset.
 
- \textbackslash subtitle{Tips inför bilsemestern}
+ \subtitle{Tips inför bilsemestern}
 
- \textbackslash begin{itemize}
- \textbackslash item Föreställ dig att du tagits som fånge av en framtida postapokalyptisk civilisation vars enda kvarvarande nöje består i att anordna death races. Vägen är en tävlingsbana och alla andra bilister är dina fiender. Arbeta upp en alarmerande hög stressnivå och ge dig sedan satan på att komma först i alla lägen som kan tänkas dyka upp.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Föreställ dig att du tagits som fånge av en framtida postapokalyptisk civilisation vars enda kvarvarande nöje består i att anordna death races. Vägen är en tävlingsbana och alla andra bilister är dina fiender. Arbeta upp en alarmerande hög stressnivå och ge dig sedan satan på att komma först i alla lägen som kan tänkas dyka upp.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item Packa tills bilen är full. Finns det plats kvar är det bara att fylla på med grillkol.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Packa tills bilen är full. Finns det plats kvar är det bara att fylla på med grillkol.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item Låt påskina att du menar allt du säger på största allvar genom att vända huvudet lite åt sidan och skrika allt du orkar åt barnen i baksätet. Redan vid första fikapausen på en skräpig parkeringsficka vid Sveriges (\textbackslash textbf{Sverige}) stolta del av Europaväg 4 (\textbackslash textbf{Sevärdheter längs Europaväg 4}) ska barnen helst vara rejält rädda för dig.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Låt påskina att du menar allt du säger på största allvar genom att vända huvudet lite åt sidan och skrika allt du orkar åt barnen i baksätet. Redan vid första fikapausen på en skräpig parkeringsficka vid Sveriges (\textbf{Sverige}) stolta del av Europaväg 4 (\textbf{Sevärdheter längs Europaväg 4}) ska barnen helst vara rejält rädda för dig.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item Peka ut betonganläggningar som skymtar från motorvägen och påstå att du varit där när du låg i lumpen. På så vis ger du de vettskrämda barnen ett stycke familjehistoria samtidigt som de lär sig något om vikten av rikets försvar.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Peka ut betonganläggningar som skymtar från motorvägen och påstå att du varit där när du låg i lumpen. På så vis ger du de vettskrämda barnen ett stycke familjehistoria samtidigt som de lär sig något om vikten av rikets försvar.
+ \end{itemize}
 
- \textbackslash begin{itemize}
- \textbackslash item Efter att nogsamt ha studerat GBs priskarta, inför utan förklaring regeln att man bara får välja en glass för en summa som gör det omöjligt att ta en som är god. På så vis blir semestern en pedagogisk lektion som illustrerar att även om man kan ha det bra och roa sig ibland så är det för det mesta jävligt torftigt.
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Efter att nogsamt ha studerat GBs priskarta, inför utan förklaring regeln att man bara får välja en glass för en summa som gör det omöjligt att ta en som är god. På så vis blir semestern en pedagogisk lektion som illustrerar att även om man kan ha det bra och roa sig ibland så är det för det mesta jävligt torftigt.
+ \end{itemize}
 

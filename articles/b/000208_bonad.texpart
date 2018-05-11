@@ -1,14 +1,14 @@
-\textbackslash ditem[Bonad]\textbackslash label{bonad}
- En bonad är ett stycke broderad väv som hängs upp i hemmet, ofta ovanför dörrar, för att inge de boende och eventuella besökare en känsla av frid och lågintensiv glädje, eller en känsla av att i universums perspektiv vara blott ett futtigt sandkorn. Den typiska bonaden är rektangulär och kantad med ett blommigt mönster, vari en klok uppmaning, sanning eller betraktelse står att läsa i snirkligt utförda bokstäver. Likt en rustik \textbackslash textbf{fax} sänder alltså bonaden ut ett meddelande från brodör till mottagare.
- \textbackslash subtitle{Typiska klokheter som kommunicerats via bonader}
+\ditem[Bonad]\label{bonad}
+ En bonad är ett stycke broderad väv som hängs upp i hemmet, ofta ovanför dörrar, för att inge de boende och eventuella besökare en känsla av frid och lågintensiv glädje, eller en känsla av att i universums perspektiv vara blott ett futtigt sandkorn. Den typiska bonaden är rektangulär och kantad med ett blommigt mönster, vari en klok uppmaning, sanning eller betraktelse står att läsa i snirkligt utförda bokstäver. Likt en rustik \textbf{fax} sänder alltså bonaden ut ett meddelande från brodör till mottagare.
+ \subtitle{Typiska klokheter som kommunicerats via bonader}
  
- \textbackslash begin{itemize}
- \textbackslash item Livet är för kort för att vara dammfritt
- \textbackslash item Gör ej det idag, som kan skjutas upp till morgondagen
- \textbackslash item Små små ord av kärlek / sagda varje dag / ger åt livet lycka / åt hemmet sitt behag
- \textbackslash item Man ska inte sörja det man saknar, utan glädjas åt det man har
- \textbackslash item Försumma inte det lilla du förmår för det stora du inte mäktar
- \textbackslash item Livet är inte de dagar som gått, utan de dagar man minns
- \textbackslash item Käng och sprit, gubbjävel!
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Livet är för kort för att vara dammfritt
+ \item Gör ej det idag, som kan skjutas upp till morgondagen
+ \item Små små ord av kärlek / sagda varje dag / ger åt livet lycka / åt hemmet sitt behag
+ \item Man ska inte sörja det man saknar, utan glädjas åt det man har
+ \item Försumma inte det lilla du förmår för det stora du inte mäktar
+ \item Livet är inte de dagar som gått, utan de dagar man minns
+ \item Käng och sprit, gubbjävel!
+ \end{itemize}
 

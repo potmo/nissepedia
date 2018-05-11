@@ -1,8 +1,8 @@
-\textbackslash ditem[Punkgryta]\textbackslash label{punkgryta}
+\ditem[Punkgryta]\label{punkgryta}
  Här följer ett recept på alla malätna crustares favoritmat, punkgrytan.
 
- 1. Bli lite full, gärna bärsfull (\textbackslash textbf{Bärsfylla}).
- 2. Kolla om det finns lite mat i diverse containrar. (\textbackslash textbf{Sopletare})
+ 1. Bli lite full, gärna bärsfull (\textbf{Bärsfylla}).
+ 2. Kolla om det finns lite mat i diverse containrar. (\textbf{Sopletare})
  3. Köp det som fattas, nä jag skojade bara.
  4. Gör valfri mat bestående av olika grönsaker, tillsätt krossade tomater.
  5. Koka ris tills det ser ut som mannagrynsgröt.

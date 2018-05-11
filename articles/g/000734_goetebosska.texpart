@@ -1,21 +1,21 @@
-\textbackslash ditem[Götebosska]\textbackslash label{goetebosska}
- talas företrädelsevis av personer med anknytning till staden \textbackslash textbf{Göteborg}. Många har fått för sig att göteborgare är supertrevliga, och säger roliga saker, men det går så klart utmärkt att även vara dryg och otrevlig \textbackslash textbf{Götebosska}.
- {| class=\textbackslash quotetext{wikitable}
- |+ \textbackslash textbf{Liten Parlör}
- ! Götebosska || Svenska || Förklaring \textbackslash &nbsp;
+\ditem[Götebosska]\label{goetebosska}
+ talas företrädelsevis av personer med anknytning till staden \textbf{Göteborg}. Många har fått för sig att göteborgare är supertrevliga, och säger roliga saker, men det går så klart utmärkt att även vara dryg och otrevlig \textbf{Götebosska}.
+ {| class=\quotetext{wikitable}
+ |+ \textbf{Liten Parlör}
+ ! Götebosska || Svenska || Förklaring \&nbsp;
  |-
- | E du go i hövvet eller? || Är du helt jävla dum i huvudet || \textbackslash textit{förolämpning, ingen uppriktig undran över någons mentala kapacitet}
+ | E du go i hövvet eller? || Är du helt jävla dum i huvudet || \textit{förolämpning, ingen uppriktig undran över någons mentala kapacitet}
  |-
- | Flô daj din flane! || Flytta på dig, fåntratt || \textbackslash textit{skämtsamt påpekande att någon är i vägen}
+ | Flô daj din flane! || Flytta på dig, fåntratt || \textit{skämtsamt påpekande att någon är i vägen}
  |-
- | Skumma lô! || Där fick du fikon! || \textbackslash textit{påstående att någon kan leta igenom könshåren, men ändå inte kommer hitta något}
+ | Skumma lô! || Där fick du fikon! || \textit{påstående att någon kan leta igenom könshåren, men ändå inte kommer hitta något}
  |-
- | Ha du bosstat bissarna? || Har du borstat tänderna? || \textbackslash textit{barn har 'bissar', vuxna har 'gaddar}'
+ | Ha du bosstat bissarna? || Har du borstat tänderna? || \textit{barn har 'bissar', vuxna har 'gaddar}'
  |-
- | Denna låten va gôr-bra! || Det här var ett vackert musikstycke! || \textbackslash textit{'gôr' är ett vanligt kraftuttryck}
+ | Denna låten va gôr-bra! || Det här var ett vackert musikstycke! || \textit{'gôr' är ett vanligt kraftuttryck}
  |-
- | Ge maj en öl! Bördiga. || Är du snäll och serverar mig en öl? || \textbackslash textit{'bördig' innebär givmild och god, som jorden}
+ | Ge maj en öl! Bördiga. || Är du snäll och serverar mig en öl? || \textit{'bördig' innebär givmild och god, som jorden}
  |-
- | Hon e la enna lite tetig || Hon har inte alla hästar hemma || \textbackslash textit{'tetig' innerbär knepig eller konstig}
+ | Hon e la enna lite tetig || Hon har inte alla hästar hemma || \textit{'tetig' innerbär knepig eller konstig}
  |}
 

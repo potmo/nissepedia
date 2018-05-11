@@ -1,11 +1,11 @@
-\textbackslash ditem[Myt]\textbackslash label{myt}
- En myt är en historia som inte är sann, den har likheter med \textbackslash textbf{skröna} och det har egentligen ingen som helst betydelse vad skillnaderna är eftersom de båda rätt och slätt bara är hittepå eller bluff med i bästa fall en smula sanningshalt.
+\ditem[Myt]\label{myt}
+ En myt är en historia som inte är sann, den har likheter med \textbf{skröna} och det har egentligen ingen som helst betydelse vad skillnaderna är eftersom de båda rätt och slätt bara är hittepå eller bluff med i bästa fall en smula sanningshalt.
 
- \textbackslash subtitle{Exempel på Myter:}
+ \subtitle{Exempel på Myter:}
 
  Människan landsteg på månen 1969.
 
- \textbackslash textbf{Olof Palme} sköts av en ensam galning.
+ \textbf{Olof Palme} sköts av en ensam galning.
 
  Man får kramp och dör om man badar inom 2 timmar efter att man ätit mat.
 

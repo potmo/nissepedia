@@ -1,12 +1,12 @@
-\textbackslash ditem[Sopletare]\textbackslash label{sopletare}
- I fattiga delar av världen finns det för många inget annat sätt att finna föda än att rota i andra människors sopor. I rikare delar av världen visar därför medelklassungar sin sympati med dessa desperata och hungrande människor genom att själva gå igenom soporna utanför matvarubutiker så som ICA och konsum (\textbackslash textbf{konsumbutik}), men dessa människor kallas vanligtvis inte sopletare, utan går under mer snajdiga namn på utrikiska, så som \textbackslash quotetext{freegans} eller \textbackslash quotetext{dumpster divers.} Den som vill veta mer om dessa personer kan kontakta HratvinnFlygur, som inte sällan brukar bjuda på bananer (\textbackslash textbf{banan}) och godissnören som någon konstaterat är oätbara och därför kasserat i nått dike.
+\ditem[Sopletare]\label{sopletare}
+ I fattiga delar av världen finns det för många inget annat sätt att finna föda än att rota i andra människors sopor. I rikare delar av världen visar därför medelklassungar sin sympati med dessa desperata och hungrande människor genom att själva gå igenom soporna utanför matvarubutiker så som ICA och konsum (\textbf{konsumbutik}), men dessa människor kallas vanligtvis inte sopletare, utan går under mer snajdiga namn på utrikiska, så som \quotetext{freegans} eller \quotetext{dumpster divers.} Den som vill veta mer om dessa personer kan kontakta HratvinnFlygur, som inte sällan brukar bjuda på bananer (\textbf{banan}) och godissnören som någon konstaterat är oätbara och därför kasserat i nått dike.
 
- \textbackslash subtitle{Olika sorters sopletare}
+ \subtitle{Olika sorters sopletare}
 
- \textbackslash begin{itemize}
- \textbackslash item Aktivister (\textbackslash textbf{Den ambitiösa studenten})
- \textbackslash item \textbackslash textbf{Träskpunkare}
- \textbackslash item Hippies
- \textbackslash item Genuint snåla människor (\textbackslash textbf{Genuint snåla människor})
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Aktivister (\textbf{Den ambitiösa studenten})
+ \item \textbf{Träskpunkare}
+ \item Hippies
+ \item Genuint snåla människor (\textbf{Genuint snåla människor})
+ \end{itemize}
 

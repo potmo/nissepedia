@@ -1,12 +1,12 @@
-\textbackslash ditem[Fördelar med att bo i gryt]\textbackslash label{foerdelarmedattboigryt}
- Gryt är en boendeform som funnits mycket längre än populära nymodigheter som bostadsrätt och villakollektiv. Trots den långa etableringstiden är det ändå nästan ingen människa som bor i gryt idag. Man kan tycka vad man vill om detta och vi på \textbackslash textbf{Nissepedia} tycker att det är himla synd. Att bo i ett gryt har nämligen, bland annat, följande fördelar:
- \textbackslash begin{itemize}
- \textbackslash item Det är gratis.
- \textbackslash item Det är svalt på sommaren.
- \textbackslash item Tak, väggar och golv är av jord så inget blir smutsigare än det var från början.
- \textbackslash item Ibland kommer det maskar och mulvadar krypandes i jorden så om du inte är \textbackslash textbf{vegan} serverar middagen sig själv.
- \textbackslash item Ibland händer det att jägare går på grytjakt så om du faktiskt är vegan kommer ett ypperligt tillfälle att skrämma slag på din antagonist.
- \textbackslash item Du behöver aldrig putsa fönstren eller måla om fasaden.
- \textbackslash end{itemize}
+\ditem[Fördelar med att bo i gryt]\label{foerdelarmedattboigryt}
+ Gryt är en boendeform som funnits mycket längre än populära nymodigheter som bostadsrätt och villakollektiv. Trots den långa etableringstiden är det ändå nästan ingen människa som bor i gryt idag. Man kan tycka vad man vill om detta och vi på \textbf{Nissepedia} tycker att det är himla synd. Att bo i ett gryt har nämligen, bland annat, följande fördelar:
+ \begin{itemize}
+ \item Det är gratis.
+ \item Det är svalt på sommaren.
+ \item Tak, väggar och golv är av jord så inget blir smutsigare än det var från början.
+ \item Ibland kommer det maskar och mulvadar krypandes i jorden så om du inte är \textbf{vegan} serverar middagen sig själv.
+ \item Ibland händer det att jägare går på grytjakt så om du faktiskt är vegan kommer ett ypperligt tillfälle att skrämma slag på din antagonist.
+ \item Du behöver aldrig putsa fönstren eller måla om fasaden.
+ \end{itemize}
  Som läsaren märker finns det i princip bara fördelar med att bo i gryt. Ska man säga något negativt skulle det i så fall vara att det kan finnas grävlingar där, och grävlingar biter tills det knakar.
 

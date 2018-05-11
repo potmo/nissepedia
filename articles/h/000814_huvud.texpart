@@ -1,6 +1,6 @@
-\textbackslash ditem[Huvud]\textbackslash label{huvud}
- et är den del av kroppen som sitter längst upp. Det är i huvudet som det mesta pågår - tankar, ätande/drickande, hörsel, balans, syn, nickmål och så vidare. I vårt mindre grannland \textbackslash textbf{Danmark} används huvudet som närstridsvapen och kallas då \textbackslash quotetext{dansk skalle.} Så blev de också ockuperade av tysken under \textbackslash textbf{det stora fosterländska kriget}.
- \textbackslash subtitle{Symbolism}
+\ditem[Huvud]\label{huvud}
+ et är den del av kroppen som sitter längst upp. Det är i huvudet som det mesta pågår - tankar, ätande/drickande, hörsel, balans, syn, nickmål och så vidare. I vårt mindre grannland \textbf{Danmark} används huvudet som närstridsvapen och kallas då \quotetext{dansk skalle.} Så blev de också ockuperade av tysken under \textbf{det stora fosterländska kriget}.
+ \subtitle{Symbolism}
 
  Den som vill vara i fred eller signalera till sin omgivning att han eller hon menar allvar kan med fördel låta trä upp ett antal avhuggna huvuden på pålar på balkongen eller i trädgården.
 

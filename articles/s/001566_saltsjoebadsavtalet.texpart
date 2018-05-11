@@ -1,8 +1,8 @@
-\textbackslash ditem[Saltsjöbadsavtalet]\textbackslash label{saltsjoebadsavtalet}
+\ditem[Saltsjöbadsavtalet]\label{saltsjoebadsavtalet}
  tecknades i överklassområdet Saltsjöbaden i Stockholm mellan facket och kapitalisterna.
 
- Kortfattat gick det ut på att facket sa: \textbackslash quotetext{Vi lovar att inte strejka och ställa till med \textbackslash textbf{jävelskap} för er.}
- Kapitalisterna sa \textbackslash quotetext{Tack} med munnen full av oxfilé och vaktelpaté.
+ Kortfattat gick det ut på att facket sa: \quotetext{Vi lovar att inte strejka och ställa till med \textbf{jävelskap} för er.}
+ Kapitalisterna sa \quotetext{Tack} med munnen full av oxfilé och vaktelpaté.
 
  Ett av många nederlag i mänsklighetens historia.
 

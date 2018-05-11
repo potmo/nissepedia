@@ -1,33 +1,33 @@
-\textbackslash ditem[Antikrundan]\textbackslash label{antikrundan}
- är ett TV-program som sänds i SVT och bygger på brittisk förlaga där det huvudsakliga syftet är att vanligt folk tar med sina käraste gamla ägodelar och får dessa värderade av experter i ämnet. I stora drag handlar det om att Gösta, 53, tar med sig Farmor Lysistrates gamla ljusstakar, berättar om att han fått ärva dem och låter nån expert berätta om de är värda \textbackslash textbf{fyrtiotusen miljarder} eller just ingenting. Skulle det vara så att de är värda skitmycket förmodar man att Gösta blir glad men i och med att han är en gubbjävel (\textbackslash textbf{gubbjävleri}) så visar han såklart ingen som helst glädjeyttring, för nog hade han det på känn, egentligen. Han står där på bästa sändningstid och har fått ett riktigt glädjebesked och tittarna kommer troligen ha sett folk som just ska få en rotfyllning uttrycka större glädje. Om det skulle va så att föremålet inte är värt nåt, eller ännu bättre är en förfalskning, så står folk där och försöker hålla tillbaka tårarna bäst det går. Riktigt bra TV.
+\ditem[Antikrundan]\label{antikrundan}
+ är ett TV-program som sänds i SVT och bygger på brittisk förlaga där det huvudsakliga syftet är att vanligt folk tar med sina käraste gamla ägodelar och får dessa värderade av experter i ämnet. I stora drag handlar det om att Gösta, 53, tar med sig Farmor Lysistrates gamla ljusstakar, berättar om att han fått ärva dem och låter nån expert berätta om de är värda \textbf{fyrtiotusen miljarder} eller just ingenting. Skulle det vara så att de är värda skitmycket förmodar man att Gösta blir glad men i och med att han är en gubbjävel (\textbf{gubbjävleri}) så visar han såklart ingen som helst glädjeyttring, för nog hade han det på känn, egentligen. Han står där på bästa sändningstid och har fått ett riktigt glädjebesked och tittarna kommer troligen ha sett folk som just ska få en rotfyllning uttrycka större glädje. Om det skulle va så att föremålet inte är värt nåt, eller ännu bättre är en förfalskning, så står folk där och försöker hålla tillbaka tårarna bäst det går. Riktigt bra TV.
 
- Sen Antikrundan tog steget in i den digitala tidsåldern och lanserade en app där man själv kan gissa vad skiten är värd så består programmet till 30\textbackslash % av sketcher där olika medverkande experter pratar om appen i olika sammanhang. Det är ett jävla tjat.
+ Sen Antikrundan tog steget in i den digitala tidsåldern och lanserade en app där man själv kan gissa vad skiten är värd så består programmet till 30\% av sketcher där olika medverkande experter pratar om appen i olika sammanhang. Det är ett jävla tjat.
 
- \textbackslash subtitle{Experterna}
+ \subtitle{Experterna}
 
  De som värderar föremålen är någon typ av konstvetare eller vad det nu kan heta när man vet asmycket om Rokokobyråer och gamla plåtaskar, och förenas i att de alltid går klädda i överklasskläder. Alla män har Eton-skjortor värda ett par barnbidrag och kvinnorna är mer åt kulturtantshållet, tänk Gudrun Sjödén fast lägg på en nolla. De pratar väldigt initierat och är emellanåt riktigt folkbildande när de berättar om gamla tennmästare och svenska glasbruk som fanns för tvåhundra år sedan. Nissepedia bjuder på en recension av några av lirarna, häng med!
 
- \textbackslash subtitle{Knut Knutsson}
+ \subtitle{Knut Knutsson}
 
  Mannen som är mer lik Göran Hägglund än Göran Hägglund själv. Är extremt yvig i tal och kroppspråk, lämnar öppet om det beror på ett neuropsykologiskt funktionshinder eller lätt alkoholism. Värderar oftast gamla möbler av allmogekaraktär, exempelvis svingamla matbord i trä. Inte allt för ofta dessa är värda hiskeliga summor, men han velar något otroligt innan han släpper bomben, till ingen av de som tömt lagårdsvinden och släpat land och rike runts glädje. I programmets start ses han ofta gå omkring i den extremt långa kön och trakassera folk. Hans väldigt jobbiga småländska är inte till hans fördel.
 
- \textbackslash subtitle{Claes Moser}
+ \subtitle{Claes Moser}
 
  Konstexpert, rödhårig och troligen rökare. Har ofta lite lustig färg på sin treknäppta kavaj och aldrig matchande byxor. Moser tar hand om den rejälare konsten, gärna skulpturer och gamla tavlor av relativt kända konstnärer. Pratar med en sällsynt behaglig röst och blir inte sällan personligen rörd av konsten han värderar, något som man måste uppskatta. Ibland händer det att han ställs inför en förfalskning men då tas också hans kunskaper till sin spets.
 
- \textbackslash subtitle{Pia Staël Von Holstein}
+ \subtitle{Pia Staël Von Holstein}
 
  Adlig kulturtant med avancerade glasögon och lika avancerade kläder. Pia värderar allsköns konsthantverk och möbler och är väldigt duktig på det hon gör. Kan säkert prata om Rörstrand och Gustavsberg sammanhängade i flera år, men låter tack och lov bli utan begränsar sig till kring minuten.
 
- \textbackslash subtitle{Max Sjöberg}
+ \subtitle{Max Sjöberg}
 
  Flintprydd mustaschbärare och MÖP. Hans roll är att kolla på en gammal flintlåspistol och berätta hur länge som helst om armén den tjänstgjort i, gärna något slag eller fälttåg och sedan mynna ut i att den inte är värd ett skit.
 
- \textbackslash subtitle{Anette Granlund}
+ \subtitle{Anette Granlund}
 
  Expert på mattor och textilier, inte minst på orientaliska mattor. Det roligaste är när folk tar med sig kläder och Anette pratar länge om var de är tillverkade, vem som designat och allt möjligt för att slutligen berätta att den här gamla kappan är värd ungefär hundra spänn.
 
- \textbackslash subtitle{Rickard Thunér}
+ \subtitle{Rickard Thunér}
 
  Specialist på 1700-talsmöbler, den ende av experterna som har på sig jeans och kollegiets absoluta snygging. Ingen som fått en kommod värderad av honom, bortsett gubbar med ett problematiskt förhållande till sin heterosexualitet, minns vad han sa för siffra då alla förlorat sig i hans perfekta ansikte och drömt om ett liv i hans, får man anta, extremt smakfulla våning.
 

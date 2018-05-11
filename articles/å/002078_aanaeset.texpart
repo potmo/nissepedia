@@ -1,11 +1,11 @@
-\textbackslash ditem[Ånäset]\textbackslash label{aanaeset}
- är en liten bygd vid västerbottens (\textbackslash textbf{västerbotten}) kustland, mest känd för att världens största \textbackslash textbf{osthyvel} ståndaktigt hälsar alla som åker förbi på E4an välkomna (alternativt välkomna åter) till ostriket. \textbackslash textbf{Maud Olofsson} ska vid ett besök ha sagt att osthyveln fyllde samma funktion för Ånäset som kolossen gjorde för Rhodos och att bygden aldrig skulle bli bortglömd.
+\ditem[Ånäset]\label{aanaeset}
+ är en liten bygd vid västerbottens (\textbf{västerbotten}) kustland, mest känd för att världens största \textbf{osthyvel} ståndaktigt hälsar alla som åker förbi på E4an välkomna (alternativt välkomna åter) till ostriket. \textbf{Maud Olofsson} ska vid ett besök ha sagt att osthyveln fyllde samma funktion för Ånäset som kolossen gjorde för Rhodos och att bygden aldrig skulle bli bortglömd.
 
- \textbackslash subtitle{ Andra saker Ånäset gjort sig känt för:}
- \textbackslash begin{itemize}
- \textbackslash item Den utmärkt välsorterade pappershandeln
- \textbackslash item Skoaffären som alltid har rea
- \textbackslash item Ett brutalt familjemord i slutet på 90-talet
- \textbackslash item Att det är en av de få orter i \textbackslash textbf{Sverige} där man fortfarande kan bli jagad av raggare för att man ser ut som en \textbackslash textbf{kommunist}.
- \textbackslash end{itemize}
+ \subtitle{ Andra saker Ånäset gjort sig känt för:}
+ \begin{itemize}
+ \item Den utmärkt välsorterade pappershandeln
+ \item Skoaffären som alltid har rea
+ \item Ett brutalt familjemord i slutet på 90-talet
+ \item Att det är en av de få orter i \textbf{Sverige} där man fortfarande kan bli jagad av raggare för att man ser ut som en \textbf{kommunist}.
+ \end{itemize}
 

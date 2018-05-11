@@ -1,3 +1,3 @@
-\textbackslash ditem[Världens tråkigaste skämt]\textbackslash label{vaerldenstraakigasteskaemt}
- är, efter omfattande empiriska studier, frasen \textbackslash quotetext{Working hard or hardly working?}.
+\ditem[Världens tråkigaste skämt]\label{vaerldenstraakigasteskaemt}
+ är, efter omfattande empiriska studier, frasen \quotetext{Working hard or hardly working?}.
 

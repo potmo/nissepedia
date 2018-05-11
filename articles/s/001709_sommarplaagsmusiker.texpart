@@ -1,12 +1,12 @@
-\textbackslash ditem[Sommarplågsmusiker]\textbackslash label{sommarplaagsmusiker}
+\ditem[Sommarplågsmusiker]\label{sommarplaagsmusiker}
  Personer som livnär sig på att förstöra människors liv genom att komponera, framföra eller sjunga sommarplågor, medvetet. Låtar handlar t.ex. om:
 
- \textbackslash begin{itemize}
- \textbackslash item Att få ligga
- \textbackslash item Att befinna sig på Stureplan
- \textbackslash item Att lyssna på Reggae
- \textbackslash item Att dansa Macarena och ryta
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Att få ligga
+ \item Att befinna sig på Stureplan
+ \item Att lyssna på Reggae
+ \item Att dansa Macarena och ryta
+ \end{itemize}
 
- Vi på \textbackslash textbf{Nissepedia} förespråkar såklart alla människors lika värde, men om denna samhällsgrupp skulle försvinna under mystiska omständigheter skulle vi inte ställa några knepiga frågor utan bara gå vidare med våra liv i en lite, lite bättre värld.
+ Vi på \textbf{Nissepedia} förespråkar såklart alla människors lika värde, men om denna samhällsgrupp skulle försvinna under mystiska omständigheter skulle vi inte ställa några knepiga frågor utan bara gå vidare med våra liv i en lite, lite bättre värld.
 

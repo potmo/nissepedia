@@ -1,10 +1,10 @@
-\textbackslash ditem[Maud Olofsson]\textbackslash label{maudolofsson}
- (även smeksamt kallad Mao Näringslivsson) är en ivrig bäver (\textbackslash textbf{Ivriga små bävrar}) från Robertsfors som hatar arbetarklassen. Tack vare sitt rabbinskap i  bondeförbundet (\textbackslash textbf{centerpartiet}) har hon lyckats dupera  kulakerna (\textbackslash textbf{kulaker}) att stödja henne ett flertal mandatperioder.
- Tack och lov har hon avgått. En del firar detta med stora smörgåsar, dagobertmacka, smörgåstårta eller knäcke med  dubbelsovel (\textbackslash textbf{dubbelsovla}).
+\ditem[Maud Olofsson]\label{maudolofsson}
+ (även smeksamt kallad Mao Näringslivsson) är en ivrig bäver (\textbf{Ivriga små bävrar}) från Robertsfors som hatar arbetarklassen. Tack vare sitt rabbinskap i  bondeförbundet (\textbf{centerpartiet}) har hon lyckats dupera  kulakerna (\textbf{kulaker}) att stödja henne ett flertal mandatperioder.
+ Tack och lov har hon avgått. En del firar detta med stora smörgåsar, dagobertmacka, smörgåstårta eller knäcke med  dubbelsovel (\textbf{dubbelsovla}).
 
- \textbackslash subtitle{se även}
+ \subtitle{se även}
 
- \textbackslash begin{itemize}
- \textbackslash item Violas klädbutik
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Violas klädbutik
+ \end{itemize}
 

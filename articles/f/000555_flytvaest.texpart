@@ -1,3 +1,3 @@
-\textbackslash ditem[Flytväst]\textbackslash label{flytvaest}
- En \textbackslash textbf{flytväst} fungerar ungefär som ett bilbälte, fast på vatten.
+\ditem[Flytväst]\label{flytvaest}
+ En \textbf{flytväst} fungerar ungefär som ett bilbälte, fast på vatten.
 

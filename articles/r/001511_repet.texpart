@@ -1,11 +1,11 @@
-\textbackslash ditem[Repet]\textbackslash label{repet}
+\ditem[Repet]\label{repet}
  är det tredje scoutmärket och föregås av Nyingen och Scouten. Märket sys fast väl synligt på scoutskjortan. För att få repet måste man kunna:
 
- \textbackslash begin{itemize}
- \textbackslash item Knopar; Råband, Skotstek, Överhandsknop, Pålstek
- \textbackslash item Raksurrning, vinkelsurrning, trefot
- \textbackslash item Miniorknoparna samt timmerstek,tältlineknop, dubbelt halvslag
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Knopar; Råband, Skotstek, Överhandsknop, Pålstek
+ \item Raksurrning, vinkelsurrning, trefot
+ \item Miniorknoparna samt timmerstek,tältlineknop, dubbelt halvslag
+ \end{itemize}
 
  För att få utmärkelsen är det inte nödvändigt att tillverka ett vapen av en socka med en tvål i och spöa upp en tjock unge med det. Att göra så kan till och med försvåra processen med att få utmärkelsen avsevärt eftersom det anses gå emot scoutrörelsens värderingar.
 

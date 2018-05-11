@@ -1,21 +1,21 @@
-\textbackslash ditem[Danska hedersbetygelser]\textbackslash label{danskahedersbetygelser}
- Som alla andra nationer som vill framstå som civiliserade har \textbackslash textbf{Danmark} hederstitlar som kan tilldelas särskilt framstående medborgare. Detta för att ge en stärkt känsla av den nationella gemenskap ingen dansk brydde sig om förens man började skylla alla problem på invandrarna. Utmärkelserna delas ut av De Kungelige Videnskabernas Sammensværjning som sammanträder varje lördag på Længelands nudistcamping. Ledamötena utses av \textbackslash textbf{Folketinget}. Problemet är som så ofta annars i Danmark att det sällan är någon som lyssnar på vad överheten (\textbackslash textbf{driva med överheten}) har att säga så många är dubbade utan att veta om det. Torben Ulrich gick till exempel runt i flera år på Strøget utan att veta om att han belönats med hedersbetygelsen \textbackslash textit{Sængrøgere} och det tillhörande Arne Jacobsen-stipendiet på 10.000 kapsyler. Titlarna är personliga och kan inte överlåtas på någon annan eller ärvas av avkommor.
+\ditem[Danska hedersbetygelser]\label{danskahedersbetygelser}
+ Som alla andra nationer som vill framstå som civiliserade har \textbf{Danmark} hederstitlar som kan tilldelas särskilt framstående medborgare. Detta för att ge en stärkt känsla av den nationella gemenskap ingen dansk brydde sig om förens man började skylla alla problem på invandrarna. Utmärkelserna delas ut av De Kungelige Videnskabernas Sammensværjning som sammanträder varje lördag på Længelands nudistcamping. Ledamötena utses av \textbf{Folketinget}. Problemet är som så ofta annars i Danmark att det sällan är någon som lyssnar på vad överheten (\textbf{driva med överheten}) har att säga så många är dubbade utan att veta om det. Torben Ulrich gick till exempel runt i flera år på Strøget utan att veta om att han belönats med hedersbetygelsen \textit{Sængrøgere} och det tillhörande Arne Jacobsen-stipendiet på 10.000 kapsyler. Titlarna är personliga och kan inte överlåtas på någon annan eller ärvas av avkommor.
 
- \textbackslash subtitle{Danmarks finaste hederstitlar}
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textit{Sængrøgere av guds nåde} - För mer än 40 år i frihetens tjänst (högst oklart vad som faktiskt menas med detta).
- \textbackslash item \textbackslash textit{Pilsnerdræng}/\textbackslash textit{Fæbodjænte} - För nit och särskild redlighet när Roskildefestivalens bajamajor ska tömmas i havet.
- \textbackslash item \textbackslash textit{Olsen brother}/\textbackslash textit{sister} - Tilldelas den som lyckats dricka mer än 5 000 bärs under ett kalenderår.
- \textbackslash item \textbackslash textit{Jesus av Læsarett} - Tilldelas den som lyckats dricka mer än 10 000 bärs under en kalendermånad.
- \textbackslash item \textbackslash textit{Brillerøv} - Föräras den som gått till bibblan och läst en hel bok utan bilder.
- \textbackslash item \textbackslash textit{Videnskabens bedste ven} - Nedsträcks till den dansk som kommit på något smart som gör att det känns socialt accepterat att glida omkring planlöst med en starköl och en halvbrunnen John Silver i ena näven och skjuta en barnvagn i den andra, utan att behöva ta ansvar.
- \textbackslash item \textbackslash textit{Tubsokker fremstillet af guld} - För att du kan sjunga texten till AC/DC-dängan \textbackslash quotetext{Sink the Pink} samtidigt som du kör trampbåt själv, full.
- \textbackslash item \textbackslash textit{Legokong in absurdum} - Tillskänkes endast basister i D.A.D som gör något fantastiskt för landets femte stad - Esbjerg.
- \textbackslash item \textbackslash textit{Bestefar} - Eftersom endast en liten minoritet av danskarna har en känd fader belönas varje år en framstående fritidsledare med ett trepack tubsockor.
- \textbackslash item \textbackslash textit{Simborgarmärket} - Alltsedan 1600-talets häxförföljelser åtnjuter simkunniga danskar stor respekt och vördnad.
- \textbackslash item \textbackslash textit{Hederslegionella} - Tilldelas var femte år en framstående utlänning. Mestadels har titeln tillfallit holländare som ådragit sig \textbackslash textbf{Syfilis} och Gonorré under Roskildefestivalens dasstömmning.
- \textbackslash item \textbackslash textit{Rasmus Klump-priset (\textbackslash textbf{Rasmus Klump})} - Ges den som på ett tydligt sätt uppvisar de egentskaper som serien förespråkar. Alltså piprökning och att gömma saker i munnen.
- \textbackslash item \textbackslash textit{Legoglands Mæsterdræng} - Tilldelas män som sköter sig när de besöker Legoland (\textbackslash textbf{Lego}).
- \textbackslash item \textbackslash textit{Professor/professora Flatologus} - Utdelas årligen av flatologiska sällskapet vid Köpenhamns universitet till den dansk som visat stor initiativkraft inom praktisk \textbackslash textbf{flatologi}.
- \textbackslash end{itemize}
+ \subtitle{Danmarks finaste hederstitlar}
+ \begin{itemize}
+ \item \textit{Sængrøgere av guds nåde} - För mer än 40 år i frihetens tjänst (högst oklart vad som faktiskt menas med detta).
+ \item \textit{Pilsnerdræng}/\textit{Fæbodjænte} - För nit och särskild redlighet när Roskildefestivalens bajamajor ska tömmas i havet.
+ \item \textit{Olsen brother}/\textit{sister} - Tilldelas den som lyckats dricka mer än 5 000 bärs under ett kalenderår.
+ \item \textit{Jesus av Læsarett} - Tilldelas den som lyckats dricka mer än 10 000 bärs under en kalendermånad.
+ \item \textit{Brillerøv} - Föräras den som gått till bibblan och läst en hel bok utan bilder.
+ \item \textit{Videnskabens bedste ven} - Nedsträcks till den dansk som kommit på något smart som gör att det känns socialt accepterat att glida omkring planlöst med en starköl och en halvbrunnen John Silver i ena näven och skjuta en barnvagn i den andra, utan att behöva ta ansvar.
+ \item \textit{Tubsokker fremstillet af guld} - För att du kan sjunga texten till AC/DC-dängan \quotetext{Sink the Pink} samtidigt som du kör trampbåt själv, full.
+ \item \textit{Legokong in absurdum} - Tillskänkes endast basister i D.A.D som gör något fantastiskt för landets femte stad - Esbjerg.
+ \item \textit{Bestefar} - Eftersom endast en liten minoritet av danskarna har en känd fader belönas varje år en framstående fritidsledare med ett trepack tubsockor.
+ \item \textit{Simborgarmärket} - Alltsedan 1600-talets häxförföljelser åtnjuter simkunniga danskar stor respekt och vördnad.
+ \item \textit{Hederslegionella} - Tilldelas var femte år en framstående utlänning. Mestadels har titeln tillfallit holländare som ådragit sig \textbf{Syfilis} och Gonorré under Roskildefestivalens dasstömmning.
+ \item \textit{Rasmus Klump-priset (\textbf{Rasmus Klump})} - Ges den som på ett tydligt sätt uppvisar de egentskaper som serien förespråkar. Alltså piprökning och att gömma saker i munnen.
+ \item \textit{Legoglands Mæsterdræng} - Tilldelas män som sköter sig när de besöker Legoland (\textbf{Lego}).
+ \item \textit{Professor/professora Flatologus} - Utdelas årligen av flatologiska sällskapet vid Köpenhamns universitet till den dansk som visat stor initiativkraft inom praktisk \textbf{flatologi}.
+ \end{itemize}
 

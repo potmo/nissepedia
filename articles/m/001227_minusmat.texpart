@@ -1,12 +1,12 @@
-\textbackslash ditem[Minusmat]\textbackslash label{minusmat}
+\ditem[Minusmat]\label{minusmat}
  Mat som ger mindre energi vid intaget än det går åt när man äter.
  Resultatet blir att man blir smalare av att äta än att ligga på soffan.
 
  Exempel:
- \textbackslash begin{itemize}
- \textbackslash item Ris (äta med pinnar)
- \textbackslash item Pommes frites (äta en och en)
- \textbackslash item Kräftor (jättepilligt med skalet)
- \textbackslash item Myror (för björnar)
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Ris (äta med pinnar)
+ \item Pommes frites (äta en och en)
+ \item Kräftor (jättepilligt med skalet)
+ \item Myror (för björnar)
+ \end{itemize}
 

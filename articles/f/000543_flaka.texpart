@@ -1,3 +1,3 @@
-\textbackslash ditem[Flaka]\textbackslash label{flaka}
- Att flaka är att snatta nånting på en affär med hjälp av en kundvagn. Man placerar det man vill snatta, låt oss säga en back lättöl, under kundvagnen. Sen handlar man som vanligt förutom att man \textbackslash quotetext{glömmer} att påpeka artikeln under kundvagnen vid kassan. Gamla människor gör det här utan att veta om det.
+\ditem[Flaka]\label{flaka}
+ Att flaka är att snatta nånting på en affär med hjälp av en kundvagn. Man placerar det man vill snatta, låt oss säga en back lättöl, under kundvagnen. Sen handlar man som vanligt förutom att man \quotetext{glömmer} att påpeka artikeln under kundvagnen vid kassan. Gamla människor gör det här utan att veta om det.
 

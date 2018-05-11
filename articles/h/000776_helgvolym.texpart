@@ -1,5 +1,5 @@
-\textbackslash ditem[Helgvolym]\textbackslash label{helgvolym}
- Uppskattningsvis 25 \textbackslash % högre än vardagsvolym.
+\ditem[Helgvolym]\label{helgvolym}
+ Uppskattningsvis 25 \% högre än vardagsvolym.
 
  överlevnadsknep
 

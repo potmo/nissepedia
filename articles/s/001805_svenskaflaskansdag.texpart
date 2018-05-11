@@ -1,3 +1,3 @@
-\textbackslash ditem[Svenska flaskans dag]\textbackslash label{svenskaflaskansdag}
- Firas den 1 oktober sedan 1955 med anledning av att detta var datumet då motboken avskaffades i \textbackslash textbf{Sverige}.
+\ditem[Svenska flaskans dag]\label{svenskaflaskansdag}
+ Firas den 1 oktober sedan 1955 med anledning av att detta var datumet då motboken avskaffades i \textbf{Sverige}.
 

@@ -1,3 +1,3 @@
-\textbackslash ditem[Flisbil]\textbackslash label{flisbil}
- är en lastbil som transporterar flis. Är man riktig snål och vill ta sig mellan \textbackslash textbf{Malå} och \textbackslash textbf{Piteå} kan man alltid åka med en sån.
+\ditem[Flisbil]\label{flisbil}
+ är en lastbil som transporterar flis. Är man riktig snål och vill ta sig mellan \textbf{Malå} och \textbf{Piteå} kan man alltid åka med en sån.
 

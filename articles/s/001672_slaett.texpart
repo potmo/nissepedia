@@ -1,4 +1,4 @@
-\textbackslash ditem[Slätt]\textbackslash label{slaett}
- En slätt är ett platt landskap utan större urbana inslag. Riktiga slätter bör domineras av endast en typ av vegetation, med fördel gräs, \textbackslash textbf{sand} eller grus. Vid utformande av sin egen slätt bör man välja material utefter vilka aktiviteter man planerar på den. För cricketspelande rekomenderas grässlätter medan ökenrallyn är bäst lämpade på sandunderlag.
- Exempel på personer som ridit på slätter är \textbackslash textbf{ryska rövare} och Evert Taube.
+\ditem[Slätt]\label{slaett}
+ En slätt är ett platt landskap utan större urbana inslag. Riktiga slätter bör domineras av endast en typ av vegetation, med fördel gräs, \textbf{sand} eller grus. Vid utformande av sin egen slätt bör man välja material utefter vilka aktiviteter man planerar på den. För cricketspelande rekomenderas grässlätter medan ökenrallyn är bäst lämpade på sandunderlag.
+ Exempel på personer som ridit på slätter är \textbf{ryska rövare} och Evert Taube.
 

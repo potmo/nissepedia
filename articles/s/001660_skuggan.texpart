@@ -1,10 +1,10 @@
-\textbackslash ditem[Skuggan]\textbackslash label{skuggan}
- \textbackslash textbf{Inom filosofin}
+\ditem[Skuggan]\label{skuggan}
+ \textbf{Inom filosofin}
  Skuggan är inom CG Jungs psykoanalaytiska teori ett begrepp som representerar det onda och irrationella inom människan.
- \textbackslash textbf{Inom plantagenäringen}
- Det är också något man kan sitta och dricka \textbackslash textbf{Southern comfort} i.
- \textbackslash textbf{Inom idrotten}
+ \textbf{Inom plantagenäringen}
+ Det är också något man kan sitta och dricka \textbf{Southern comfort} i.
+ \textbf{Inom idrotten}
  Hockeyspelare i Lule Hockey,flest elitseriassist!
- \textbackslash textbf{På gatan}
+ \textbf{På gatan}
  En civilare vid namn Roger som följer efter en väldigt odiskret.
 

@@ -1,3 +1,3 @@
-\textbackslash ditem[Schwarzwald Larsson]\textbackslash label{schwarzwaldlarsson}
- är en filmsnut i de populära \textbackslash textit{Beck}-filmerna. Han är farfar till den mer framträdande karaktären Gunvald, men förutom det har de inte mycket gemensamt. Om man tycker barnbarnet är hårt är det ingenting mot vad Schwarzwald är. Det är därför han inte syns i filmerna, han är så rå att alla blir rädda och stänger av när han dyker upp i rutan.
+\ditem[Schwarzwald Larsson]\label{schwarzwaldlarsson}
+ är en filmsnut i de populära \textit{Beck}-filmerna. Han är farfar till den mer framträdande karaktären Gunvald, men förutom det har de inte mycket gemensamt. Om man tycker barnbarnet är hårt är det ingenting mot vad Schwarzwald är. Det är därför han inte syns i filmerna, han är så rå att alla blir rädda och stänger av när han dyker upp i rutan.
 

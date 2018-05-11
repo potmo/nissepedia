@@ -1,4 +1,4 @@
-\textbackslash ditem[Ingenjörslook]\textbackslash label{ingenjoerslook}
+\ditem[Ingenjörslook]\label{ingenjoerslook}
  En typisk ingengörslook innefattar attribut såsom:
 
  starköl

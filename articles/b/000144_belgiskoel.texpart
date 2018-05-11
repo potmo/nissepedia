@@ -1,3 +1,3 @@
-\textbackslash ditem[Belgisk öl]\textbackslash label{belgiskoel}
- Bortsett från blask såsom Stella Artois så är Belgisk öl god och ofta rysligt stark. Det är så på grund av Belgares vana att utöva sin kultur, detta skapar ångest och som alla vet botar man ångest med en \textbackslash textbf{bärsfylla}. Man kan även grubbla över varför så många Belgiska ölsorter tillverkas i pedofilreservat; kallade \textbackslash quotetext{kloster}.
+\ditem[Belgisk öl]\label{belgiskoel}
+ Bortsett från blask såsom Stella Artois så är Belgisk öl god och ofta rysligt stark. Det är så på grund av Belgares vana att utöva sin kultur, detta skapar ångest och som alla vet botar man ångest med en \textbf{bärsfylla}. Man kan även grubbla över varför så många Belgiska ölsorter tillverkas i pedofilreservat; kallade \quotetext{kloster}.
 

@@ -1,3 +1,3 @@
-\textbackslash ditem[Myspyssockerkaka]\textbackslash label{myspyssockerkaka}
- är en de bakverk vars recept ingick i det klassiska häftet Vegankokboken, författad av Kristoffer Åberg. Kakan innehåller bland annat vetegroddar och är perfekt när man vill \textbackslash quotetext{myspysa}, det vill säga fisa ut nedbrytningsgaser i glada medelklassvänners (\textbackslash textbf{medelklassvänner}) lag.
+\ditem[Myspyssockerkaka]\label{myspyssockerkaka}
+ är en de bakverk vars recept ingick i det klassiska häftet Vegankokboken, författad av Kristoffer Åberg. Kakan innehåller bland annat vetegroddar och är perfekt när man vill \quotetext{myspysa}, det vill säga fisa ut nedbrytningsgaser i glada medelklassvänners (\textbf{medelklassvänner}) lag.
 

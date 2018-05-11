@@ -1,4 +1,4 @@
-\textbackslash ditem[Ryska rövare]\textbackslash label{ryskaroevare}
- har skägg och ledsna ögon. De förvarar  gurkor (\textbackslash textbf{gurka }) och korvar under sadeljorden.
+\ditem[Ryska rövare]\label{ryskaroevare}
+ har skägg och ledsna ögon. De förvarar  gurkor (\textbf{gurka }) och korvar under sadeljorden.
  Deras främsta fiender är stäppvargen och kapitalismen.
 

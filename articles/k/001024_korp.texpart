@@ -1,5 +1,5 @@
-\textbackslash ditem[Korp]\textbackslash label{korp}
+\ditem[Korp]\label{korp}
  ; synonym för bovaktig, gemen, lömsk eller bedräglig person. Kan också beteckna ett klassiskt redskap vid arbete med gruvdrift.
 
- För information om fågeln, se \textbackslash textbf{körp}.
+ För information om fågeln, se \textbf{körp}.
 

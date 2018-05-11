@@ -1,3 +1,3 @@
-\textbackslash ditem[Anti-speciesism]\textbackslash label{antispeciesism}
- Att ogilla när folk säger \textbackslash quotetext{Ditt jävla svin!}, \textbackslash quotetext{Fan jag måste gå och räva} eller \textbackslash quotetext{Du är ju lika oattraktiv som en flodhäst}. Speciesism är strängt förbjudet på \textbackslash textbf{Folkkök} i \textbackslash textbf{Umeå}, och detta uttrycks \textbackslash textit{med emfas} på en handskriven och vackert illustrerad lapp, så där får man hålla tand för tunga!
+\ditem[Anti-speciesism]\label{antispeciesism}
+ Att ogilla när folk säger \quotetext{Ditt jävla svin!}, \quotetext{Fan jag måste gå och räva} eller \quotetext{Du är ju lika oattraktiv som en flodhäst}. Speciesism är strängt förbjudet på \textbf{Folkkök} i \textbf{Umeå}, och detta uttrycks \textit{med emfas} på en handskriven och vackert illustrerad lapp, så där får man hålla tand för tunga!
 

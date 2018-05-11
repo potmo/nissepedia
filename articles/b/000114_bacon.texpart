@@ -1,8 +1,8 @@
-\textbackslash ditem[Bacon]\textbackslash label{bacon}
- är rökt och rimmat sidfläsk som vanligen steks i \textbackslash textbf{tunna} skivor. Det förekommer i frukostsammanhang, framför allt i England och USA (då ofta tillsammans med stekta ägg eller äggröra), på pizza, kebab, tacos och i hamburgare.
+\ditem[Bacon]\label{bacon}
+ är rökt och rimmat sidfläsk som vanligen steks i \textbf{tunna} skivor. Det förekommer i frukostsammanhang, framför allt i England och USA (då ofta tillsammans med stekta ägg eller äggröra), på pizza, kebab, tacos och i hamburgare.
 
  Börjar man stekningen i sval panna får man mjukstekt bacon, men lägger man i skivorna först sedan pannan blivit ordentligt het, får man knaperstekt bacon. Om brandlarmet går vid stekning vet man att man lyckats.
- \textbackslash subtitle{140 g}
+ \subtitle{140 g}
 
  Det har länge dryftats om varför bacon säljs i förpackingar om just 140 gram.
 

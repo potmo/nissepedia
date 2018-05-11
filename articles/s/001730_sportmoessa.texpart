@@ -1,4 +1,4 @@
-\textbackslash ditem[Sportmössa]\textbackslash label{sportmoessa}
- är en matematisk term som används vid beräkningar av sannolikhet. Om något helt saknar sportmössa är det närmast otroligt att det ska inträffa, och då skriver man i sin matematiska beräkning (eller rejält tilltagna höftning) att: \textbackslash quotetext{det finns inte en sportmössa att det händer}. Etymologiskt härstammar termen från den amerikanske brottaren Rulon Gardner som lyckades med det osannolika att vinna en match mot \textbackslash textbf{Aleksandr Karelin} och blev så glad att han åt upp sin hatt.
- Relaterade matematiska begrepp: \textbackslash textbf{räkmacka}
+\ditem[Sportmössa]\label{sportmoessa}
+ är en matematisk term som används vid beräkningar av sannolikhet. Om något helt saknar sportmössa är det närmast otroligt att det ska inträffa, och då skriver man i sin matematiska beräkning (eller rejält tilltagna höftning) att: \quotetext{det finns inte en sportmössa att det händer}. Etymologiskt härstammar termen från den amerikanske brottaren Rulon Gardner som lyckades med det osannolika att vinna en match mot \textbf{Aleksandr Karelin} och blev så glad att han åt upp sin hatt.
+ Relaterade matematiska begrepp: \textbf{räkmacka}
 

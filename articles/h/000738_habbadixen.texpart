@@ -1,6 +1,6 @@
-\textbackslash ditem[Habbadixen!]\textbackslash label{habbadixen}
+\ditem[Habbadixen!]\label{habbadixen}
  Habbadixen är en interjektion som används vid bevittnande av sport på TV för att få en idrottsutövare att misslyckas med sitt företagande. Det uppfanns mig veterligen av min morfar, Anders Selldén, under en tennismatch då trollformeln ledde till flera dubbelfel. Det har sedan dess med varierande grad av funktion använts vid olika idrotter, exempelvis skidskytte och dart.
 
  Exempel:
- \textbackslash quotetext{Nu ska jag habbadixa Federer så att han gör ett dubbelfel; HABBADIXEN!}
+ \quotetext{Nu ska jag habbadixa Federer så att han gör ett dubbelfel; HABBADIXEN!}
 

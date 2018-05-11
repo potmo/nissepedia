@@ -1,7 +1,7 @@
-\textbackslash ditem[Bengt Frithiofsson]\textbackslash label{bengtfrithiofsson}
- Bengt Fritihofsson är en numera pensionerad vinälskare som satt och drog i sig några småsmuttar rödtjut varje morgon i TV4. Han provade annat också men gemensamt var att det var sprit i det, och när han motvilligt var tvungen att provsmaka och recensera något alkoholfritt får man anta att han hällde i en knapp \textbackslash textbf{renat}. Han pratar yvigt och på nån jävla dialekt, det tycker vissa är kul.
+\ditem[Bengt Frithiofsson]\label{bengtfrithiofsson}
+ Bengt Fritihofsson är en numera pensionerad vinälskare som satt och drog i sig några småsmuttar rödtjut varje morgon i TV4. Han provade annat också men gemensamt var att det var sprit i det, och när han motvilligt var tvungen att provsmaka och recensera något alkoholfritt får man anta att han hällde i en knapp \textbf{renat}. Han pratar yvigt och på nån jävla dialekt, det tycker vissa är kul.
 
- \textbackslash subtitle{Trivia}
+ \subtitle{Trivia}
 
  Bengt Frithiofsson döpte sin dotter Charlotte till Merlot i mellannamn, så om ni hittills tvivlat så vet ni nu att han gillade vin VÄLDIGT mycket.
 

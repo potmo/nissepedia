@@ -1,5 +1,5 @@
-\textbackslash ditem[Förlovad]\textbackslash label{foerlovad}
+\ditem[Förlovad]\label{foerlovad}
  En gång i tiden förlovade man sig och sedan gifte man sig inom ett år.
- \textbackslash textit{\textbackslash quotetext{Vi ska gifta oss men inte just nu}} så att säga.
- I takt med att ungdomen valde sus och dus istället för \textbackslash textbf{Lars Levi Laestadius} skrifter blev en förlovning nån slags tonårsgimmick.
+ \textit{\quotetext{Vi ska gifta oss men inte just nu}} så att säga.
+ I takt med att ungdomen valde sus och dus istället för \textbf{Lars Levi Laestadius} skrifter blev en förlovning nån slags tonårsgimmick.
 

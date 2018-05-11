@@ -1,3 +1,3 @@
-\textbackslash ditem[Siv-Berit]\textbackslash label{sivberit}
- (\textbackslash textbf{Siv}) är ett gammalt svenskt kvinnonamn. \textbackslash textbf{Siv} betyder, som alla vet, sil på engelska. Berit är en reduktion av orden \textbackslash quotetext{ber om det} (\textbackslash textit{ber om det} \textbackslash textbf{ - } \textbackslash textit{ber om 'et} \textbackslash textbf{ - } \textbackslash textit{berom't} \textbackslash textbf{ - }\textbackslash textit{berit}). Siv-Berit betyder således \textbackslash quotetext{den som vill ha knark}. Den maskulina formen av Siv-Berit är Syd Barrett.
+\ditem[Siv-Berit]\label{sivberit}
+ (\textbf{Siv}) är ett gammalt svenskt kvinnonamn. \textbf{Siv} betyder, som alla vet, sil på engelska. Berit är en reduktion av orden \quotetext{ber om det} (\textit{ber om det} \textbf{ - } \textit{ber om 'et} \textbf{ - } \textit{berom't} \textbf{ - }\textit{berit}). Siv-Berit betyder således \quotetext{den som vill ha knark}. Den maskulina formen av Siv-Berit är Syd Barrett.
 

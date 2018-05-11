@@ -1,9 +1,9 @@
-\textbackslash ditem[Livslektion]\textbackslash label{livslektion}
+\ditem[Livslektion]\label{livslektion}
  En livslektion skiljer sig från sitt tråkigare syskon skollektion i det att den kunskap man då får lära sig faktiskt är användbar. Ofta ges livslektionen över generationsgränserna, från gammal till ung. Ibland är livslektionerna så bra att de förs med över ännu en generationsgräns. De handlar ofta om hur den yngre bör leva sitt liv och vilka val som är bra att fatta och inte. Ibland är de rakt på sak och ibland mer kryptiska och filosofiska.
 
- \textbackslash subtitle{Exempel}
+ \subtitle{Exempel}
 
- \textbackslash quotetext{Du borde bli reparatör, för två saker är säkra: Folk kommer inte att börja göra saker för hand, och maskinerna kommer alltid att gå sönder.} - Dag Örnered
+ \quotetext{Du borde bli reparatör, för två saker är säkra: Folk kommer inte att börja göra saker för hand, och maskinerna kommer alltid att gå sönder.} - Dag Örnered
 
- \textbackslash quotetext{När jag slutade gymnasiet så sa min pappa till mig: Louise, har jag berättat för dig om n'Oskar? Han gjorde som så att han alltid tog bästklabben först, för på det viset fick han alltid ta bästklabben. Det kan ni tänka på.} - Louise Renberg
+ \quotetext{När jag slutade gymnasiet så sa min pappa till mig: Louise, har jag berättat för dig om n'Oskar? Han gjorde som så att han alltid tog bästklabben först, för på det viset fick han alltid ta bästklabben. Det kan ni tänka på.} - Louise Renberg
 

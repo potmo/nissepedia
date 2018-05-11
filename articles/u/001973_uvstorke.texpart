@@ -1,12 +1,12 @@
-\textbackslash ditem[Uvstorke]\textbackslash label{uvstorke}
+\ditem[Uvstorke]\label{uvstorke}
  Vi börjar kunna det här nu va?
- \textbackslash subtitle{Se också}
+ \subtitle{Se också}
  
- \textbackslash begin{itemize}
- \textbackslash item \textbackslash textbf{Calskrove}
- \textbackslash item Transkrove
- \textbackslash item Smörskrove
- \textbackslash item \textbackslash textbf{Uvsvane}
- \textbackslash item Johnskrove
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item \textbf{Calskrove}
+ \item Transkrove
+ \item Smörskrove
+ \item \textbf{Uvsvane}
+ \item Johnskrove
+ \end{itemize}
 

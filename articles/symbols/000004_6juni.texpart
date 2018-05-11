@@ -1,10 +1,10 @@
-\textbackslash ditem[6 juni]\textbackslash label{6juni}
- är sedan år 2005 nationell helgdag i \textbackslash textbf{Sverige}. Illvilliga rykten har gjort gällande att detta beror på något så mossigt som att datumet är landets nationaldag. Detta är dock en vida spridd missuppfattning som Nissepedias läsare uppmanas att snarast börja folkbilda kring. I själva verket är 6 juni nämligen \textbackslash textit{International Slayer Day} där hårdrockare över hela världen uppmärksammar att Slayer är jävligt råa och asbra. År 2013 var firandet ovanligt lågmält, till följd av Hannesmans (RIP) dödsbud som kommit bara veckor innan högtidsdagen och många slayerfans var därför fortfarande chockade. Detta år var dock ett undantag och normalt är firandet både hjärtligt och stärkande för de miljoner människor som från Kapstaden i söder till Torneå i norr förenas i njutningen av att komma hem från en hård dag på fabriken och varva ner med A-sidan på \textbackslash textit{Hell awaits}, eller något annat av Slayers många album. De flesta slayerfans firar \textbackslash textit{International Slayer Day} på följande sätt:
- \textbackslash begin{itemize}
- \textbackslash item Spelar Slayer på full volym (\textbackslash textbf{helgvolym}) i sin bil.
- \textbackslash item Spelar Slayer på full volym (\textbackslash textbf{helgvolym}) i sitt hem.
- \textbackslash item Spelar Slayer på full volym (\textbackslash textbf{helgvolym}) på sin arbetsplats.
- \textbackslash item Spelar Slayer på full volym (\textbackslash textbf{helgvolym}) vart de än känner för det.
- \textbackslash end{itemize}
+\ditem[6 juni]\label{6juni}
+ är sedan år 2005 nationell helgdag i \textbf{Sverige}. Illvilliga rykten har gjort gällande att detta beror på något så mossigt som att datumet är landets nationaldag. Detta är dock en vida spridd missuppfattning som Nissepedias läsare uppmanas att snarast börja folkbilda kring. I själva verket är 6 juni nämligen \textit{International Slayer Day} där hårdrockare över hela världen uppmärksammar att Slayer är jävligt råa och asbra. År 2013 var firandet ovanligt lågmält, till följd av Hannesmans (RIP) dödsbud som kommit bara veckor innan högtidsdagen och många slayerfans var därför fortfarande chockade. Detta år var dock ett undantag och normalt är firandet både hjärtligt och stärkande för de miljoner människor som från Kapstaden i söder till Torneå i norr förenas i njutningen av att komma hem från en hård dag på fabriken och varva ner med A-sidan på \textit{Hell awaits}, eller något annat av Slayers många album. De flesta slayerfans firar \textit{International Slayer Day} på följande sätt:
+ \begin{itemize}
+ \item Spelar Slayer på full volym (\textbf{helgvolym}) i sin bil.
+ \item Spelar Slayer på full volym (\textbf{helgvolym}) i sitt hem.
+ \item Spelar Slayer på full volym (\textbf{helgvolym}) på sin arbetsplats.
+ \item Spelar Slayer på full volym (\textbf{helgvolym}) vart de än känner för det.
+ \end{itemize}
  http://www.nationaldayofslayer.org
 

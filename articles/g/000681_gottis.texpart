@@ -1,3 +1,3 @@
-\textbackslash ditem[Gottis]\textbackslash label{gottis}
- är ett slangord för godis och uppfanns av en föredetta uteliggartant som i ett inslag på Västerbottensnytt, mumsandes på lösgodis och liggandes i en säng i den \textbackslash textbf{friggebod} hon just fått flytta in i, sa till intervjuaren att \textbackslash quotetext{det är så skönt att ligga framför TVn och äta lite gottis.}
+\ditem[Gottis]\label{gottis}
+ är ett slangord för godis och uppfanns av en föredetta uteliggartant som i ett inslag på Västerbottensnytt, mumsandes på lösgodis och liggandes i en säng i den \textbf{friggebod} hon just fått flytta in i, sa till intervjuaren att \quotetext{det är så skönt att ligga framför TVn och äta lite gottis.}
 

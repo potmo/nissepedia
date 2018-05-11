@@ -1,5 +1,5 @@
-\textbackslash ditem[Miljöpartiet]\textbackslash label{miljoepartiet}
- är ett politiskt parti skapat av den norske entreprenören Jam-Ole Rip Tit. Namnet \textbackslash quotetext{Miljöpartiet} är ett anagram av grundarens eget namn men betyder egentligen ingenting.
+\ditem[Miljöpartiet]\label{miljoepartiet}
+ är ett politiskt parti skapat av den norske entreprenören Jam-Ole Rip Tit. Namnet \quotetext{Miljöpartiet} är ett anagram av grundarens eget namn men betyder egentligen ingenting.
  Två prickar satts över o:et som en hyllning till musikgruppen Rob n Raz.
  Jam-Ole Rip Tit bor numera på Bahamas.
 

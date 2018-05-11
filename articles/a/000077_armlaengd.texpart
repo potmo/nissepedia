@@ -1,7 +1,7 @@
-\textbackslash ditem[Armlängd]\textbackslash label{armlaengd}
- Svårdefinierad måttenhet som är högst subjektiv då den alltid är lika lång som mätarens utsträckta arm. Således är en armlängd för Warwick Davis som spelar Willow i filmen med samma namn, lika giltig som en armlängd för Boris Karloff. Kloakdjursvurmaren (\textbackslash textbf{Kloakdjur}) tillika vetenskapsmannen \textbackslash textbf{Carl von Linné} jobbade länge för att standardisera armlängden, där en armlängd för en man skulle vara lika lång som hans egen arm och en armlängd för kvinnor skulle vara lika lång som drottning Marie Antoinettes arm. Detta förslag gick aldrig igenom eftersom bakåtsträvaren Ludvig XVI vägrade låta Linné utföra den noggranna, avklädda fysiska undersökning han menade att uppdraget krävde. I Sverige motsvarar dock en armlängd 1,5 aln på en icke-vanskapt fullvuxen människa - det vill säga, en människa som inte har \textbackslash textbf{t-rexarmar}.
+\ditem[Armlängd]\label{armlaengd}
+ Svårdefinierad måttenhet som är högst subjektiv då den alltid är lika lång som mätarens utsträckta arm. Således är en armlängd för Warwick Davis som spelar Willow i filmen med samma namn, lika giltig som en armlängd för Boris Karloff. Kloakdjursvurmaren (\textbf{Kloakdjur}) tillika vetenskapsmannen \textbf{Carl von Linné} jobbade länge för att standardisera armlängden, där en armlängd för en man skulle vara lika lång som hans egen arm och en armlängd för kvinnor skulle vara lika lång som drottning Marie Antoinettes arm. Detta förslag gick aldrig igenom eftersom bakåtsträvaren Ludvig XVI vägrade låta Linné utföra den noggranna, avklädda fysiska undersökning han menade att uppdraget krävde. I Sverige motsvarar dock en armlängd 1,5 aln på en icke-vanskapt fullvuxen människa - det vill säga, en människa som inte har \textbf{t-rexarmar}.
 
- \textbackslash subtitle{Armlängd inom sociologin}
+ \subtitle{Armlängd inom sociologin}
 
- Att hålla en person på en armlängds avstånd är väldigt stigmatiserande (\textbackslash textbf{stigma}), och detta beror oftast på kön, klass eller etnicitet. På senare tid beror det på alla \textbackslash textit{samtidigt}.
+ Att hålla en person på en armlängds avstånd är väldigt stigmatiserande (\textbf{stigma}), och detta beror oftast på kön, klass eller etnicitet. På senare tid beror det på alla \textit{samtidigt}.
 

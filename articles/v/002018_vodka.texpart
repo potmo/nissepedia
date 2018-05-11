@@ -1,4 +1,4 @@
-\textbackslash ditem[Vodka]\textbackslash label{vodka}
- Ett finare ord för \textbackslash textbf{brännvin}. Ordet används främst av folk som vill hålla sig förmer och distansera sig från den obildade pöbeln. Dessa människor köper Smirnoff i tron att det är \textbackslash quotetext{rysslands bästa vodka} men klarar inte av att uttyda \textbackslash quotetext{made in \textbackslash textbf{UK}} på etiketten ens innan man satt i sig innehållet.
+\ditem[Vodka]\label{vodka}
+ Ett finare ord för \textbf{brännvin}. Ordet används främst av folk som vill hålla sig förmer och distansera sig från den obildade pöbeln. Dessa människor köper Smirnoff i tron att det är \quotetext{rysslands bästa vodka} men klarar inte av att uttyda \quotetext{made in \textbf{UK}} på etiketten ens innan man satt i sig innehållet.
  Vanligt hederligt folk dricker Renat,det är gott till all mat.
 

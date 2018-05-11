@@ -1,4 +1,4 @@
-\textbackslash ditem[Finskt sämskskinn]\textbackslash label{finsktsaemskskinn}
+\ditem[Finskt sämskskinn]\label{finsktsaemskskinn}
  Det sämskaste som finsk.
  {{Utmärkt}}
 

@@ -1,9 +1,9 @@
-\textbackslash ditem[Stockholmare]\textbackslash label{stockholmare}
- \textbackslash begin{itemize}
- \textbackslash item Kör obegagnat och lämnar in på märkesverkstad.
- \textbackslash item Kremerar katten hos veterinär.
- \textbackslash item Anammar yngre generationers mode.
- \textbackslash item Känner bara till en måttenhet och det är kvadratmetern.
- \textbackslash item Tänker inte på sig själv, utan hundralappar, när det är val
- \textbackslash end{itemize}
+\ditem[Stockholmare]\label{stockholmare}
+ \begin{itemize}
+ \item Kör obegagnat och lämnar in på märkesverkstad.
+ \item Kremerar katten hos veterinär.
+ \item Anammar yngre generationers mode.
+ \item Känner bara till en måttenhet och det är kvadratmetern.
+ \item Tänker inte på sig själv, utan hundralappar, när det är val
+ \end{itemize}
 

@@ -1,4 +1,4 @@
-\textbackslash ditem[Trea]\textbackslash label{trea}
+\ditem[Trea]\label{trea}
  En trea är en bostad med tre rum och kök.
- Se även: Nolla, \textbackslash textbf{Etta}, \textbackslash textbf{Tvåa}, \textbackslash textbf{Fyra}, \textbackslash textbf{Femma}, \textbackslash textbf{Sexa}, \textbackslash textbf{Sjua}, \textbackslash textbf{Åtta}, \textbackslash textbf{Nia}, \textbackslash textbf{Tia}, \textbackslash textbf{Elva}, \textbackslash textbf{Tolva}.
+ Se även: Nolla, \textbf{Etta}, \textbf{Tvåa}, \textbf{Fyra}, \textbf{Femma}, \textbf{Sexa}, \textbf{Sjua}, \textbf{Åtta}, \textbf{Nia}, \textbf{Tia}, \textbf{Elva}, \textbf{Tolva}.
 

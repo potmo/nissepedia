@@ -1,17 +1,17 @@
-\textbackslash ditem[Emoji]\textbackslash label{emoji}
- s är enkla piktogram som härstammar från \textbackslash textbf{Japan} och används i SMS och på internet för enklare kommunikation. Just nu finns det lite drygt tusen standardemojis bestående av allt från en \textbackslash textbf{katt} med hjärtan som ögon till en stekpanna med ägg i. Men trots att variationen är så pass bred saknas fortfarande:
- \textbackslash begin{itemize}
- \textbackslash item En människa som gör Tomas Brolins målgestpiruett
- \textbackslash item En människa som gör Kennet Anderssons målgestpistoler
- \textbackslash item En människa som gör Anja Pärsons målgestsäl
- \textbackslash item En katt med hjärtan som ögon som gör Tomas Brolins målgestpiruett
- \textbackslash item En Chips Kiesbye som producerar rockalbum
- \textbackslash item En tant som drar handväskan i bakhuvudet på en nazist
- \textbackslash item En överkryssad engelsk premiärminister som startar krig över några betydelselösa öar där det nästan bara vistas får
- \textbackslash item En skrivbordslåda med en kvarting \textbackslash textbf{Renat} i
- \textbackslash item Ett spärrskaft
- \textbackslash item En medlem i Sleaford Mods som bara står och dricker bärs (\textbackslash textbf{bärsfylla}) på scenen
- \textbackslash item Omslaget till \textbackslash textit{Sabbath Bloody Sabbath} (\textbackslash textbf{Omslaget till Sabbath Bloody Sabbath})
- \textbackslash item Kurdistans flagga
- \textbackslash end{itemize}
+\ditem[Emoji]\label{emoji}
+ s är enkla piktogram som härstammar från \textbf{Japan} och används i SMS och på internet för enklare kommunikation. Just nu finns det lite drygt tusen standardemojis bestående av allt från en \textbf{katt} med hjärtan som ögon till en stekpanna med ägg i. Men trots att variationen är så pass bred saknas fortfarande:
+ \begin{itemize}
+ \item En människa som gör Tomas Brolins målgestpiruett
+ \item En människa som gör Kennet Anderssons målgestpistoler
+ \item En människa som gör Anja Pärsons målgestsäl
+ \item En katt med hjärtan som ögon som gör Tomas Brolins målgestpiruett
+ \item En Chips Kiesbye som producerar rockalbum
+ \item En tant som drar handväskan i bakhuvudet på en nazist
+ \item En överkryssad engelsk premiärminister som startar krig över några betydelselösa öar där det nästan bara vistas får
+ \item En skrivbordslåda med en kvarting \textbf{Renat} i
+ \item Ett spärrskaft
+ \item En medlem i Sleaford Mods som bara står och dricker bärs (\textbf{bärsfylla}) på scenen
+ \item Omslaget till \textit{Sabbath Bloody Sabbath} (\textbf{Omslaget till Sabbath Bloody Sabbath})
+ \item Kurdistans flagga
+ \end{itemize}
 

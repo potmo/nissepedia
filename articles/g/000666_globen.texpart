@@ -1,3 +1,3 @@
-\textbackslash ditem[Globen]\textbackslash label{globen}
- är ett slags enorm golfboll som man kan gå in i för att kolla på ishockey eller U2. Bollen står i södra \textbackslash textbf{Stockholm} och kan ses ända från Danderyd en klar dag. Globen anses sedan 2007 vara ett av \textbackslash textbf{Sveriges sju underverk} eftersom den är så rund och golfboll-lik.  De som inte varit i Stockholm har förmodligen ändå sett Globen på TV i slutscenen till Björn Skifs gamla kioskvältare \textbackslash textit{Joker} som visas på TV4 med jämna mellanrum.
+\ditem[Globen]\label{globen}
+ är ett slags enorm golfboll som man kan gå in i för att kolla på ishockey eller U2. Bollen står i södra \textbf{Stockholm} och kan ses ända från Danderyd en klar dag. Globen anses sedan 2007 vara ett av \textbf{Sveriges sju underverk} eftersom den är så rund och golfboll-lik.  De som inte varit i Stockholm har förmodligen ändå sett Globen på TV i slutscenen till Björn Skifs gamla kioskvältare \textit{Joker} som visas på TV4 med jämna mellanrum.
 

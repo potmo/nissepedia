@@ -1,41 +1,41 @@
-\textbackslash ditem[Sveriges sju underverk]\textbackslash label{sverigessjuunderverk}
- utsågs i två omröstningar som, oberoende av varandra, hölls av Aftonbladet och P1s Vetenskapsradion Historia under nådens år 2007 (\textbackslash textbf{sjua }).
+\ditem[Sveriges sju underverk]\label{sverigessjuunderverk}
+ utsågs i två omröstningar som, oberoende av varandra, hölls av Aftonbladet och P1s Vetenskapsradion Historia under nådens år 2007 (\textbf{sjua }).
 
- \textbackslash subtitle{Underverk utvalda av Aftonbladet}
+ \subtitle{Underverk utvalda av Aftonbladet}
 
  I Aftonbladet blev följande byggnadsverk utsedda till underverk:
- \textbackslash begin{itemize}
- \textbackslash item Göta Kanal (ej att beblanda med filmen \textbackslash quotetext{Göta Kanal} med bla. Janne \textbackslash quotetext{Loffe} Carlsson)
- \textbackslash item Visby Ringmur
- \textbackslash item Regalskeppet Vasa
- \textbackslash item Ishotellet i Jukkasjärvi
- \textbackslash item Turning Torso
- \textbackslash item Öresundsbron
- \textbackslash item \textbackslash textbf{Globen}
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Göta Kanal (ej att beblanda med filmen \quotetext{Göta Kanal} med bla. Janne \quotetext{Loffe} Carlsson)
+ \item Visby Ringmur
+ \item Regalskeppet Vasa
+ \item Ishotellet i Jukkasjärvi
+ \item Turning Torso
+ \item Öresundsbron
+ \item \textbf{Globen}
+ \end{itemize}
 
- \textbackslash subtitle{Underverk utvalda av Vetenskapsradion}
+ \subtitle{Underverk utvalda av Vetenskapsradion}
 
  I P1s Vetenskapsradion Historia:
- \textbackslash begin{itemize}
- \textbackslash item Göta Kanal (ej att beblanda med filmen \textbackslash quotetext{Göta Kanal} med bla. Janne \textbackslash quotetext{Loffe} Carlsson)
- \textbackslash item \textbackslash textbf{Ales Stenar}
- \textbackslash item Malmö Moské
- \textbackslash item Lunds Domkyrka
- \textbackslash item Karlskrona (?)
- \textbackslash item Visby Ringmur
- \textbackslash item Hällristningsområdet i Tanumshede
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Göta Kanal (ej att beblanda med filmen \quotetext{Göta Kanal} med bla. Janne \quotetext{Loffe} Carlsson)
+ \item \textbf{Ales Stenar}
+ \item Malmö Moské
+ \item Lunds Domkyrka
+ \item Karlskrona (?)
+ \item Visby Ringmur
+ \item Hällristningsområdet i Tanumshede
+ \end{itemize}
 
- \textbackslash subtitle{Glömda underverk}
+ \subtitle{Glömda underverk}
 
  Den kritiske historiekännaren kan påpeka att följande imponerande bedrifter skamlöst glömdes bort vid omröstningen:
- \textbackslash begin{itemize}
- \textbackslash item Pudaslådan (\textbackslash textbf{Pudaslåda})
- \textbackslash item \textbackslash textbf{Kaknästornet}
- \textbackslash item \textbackslash textbf{Ornässtugans dass}
- \textbackslash item Polhemshjulet
- \textbackslash item Kebabnekaise
- \textbackslash item Göta Kanal (filmen med bla. Janne \textbackslash quotetext{Loffe} Carlsson)
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item Pudaslådan (\textbf{Pudaslåda})
+ \item \textbf{Kaknästornet}
+ \item \textbf{Ornässtugans dass}
+ \item Polhemshjulet
+ \item Kebabnekaise
+ \item Göta Kanal (filmen med bla. Janne \quotetext{Loffe} Carlsson)
+ \end{itemize}
 

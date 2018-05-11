@@ -1,5 +1,5 @@
-\textbackslash ditem[Der er et yndigt land]\textbackslash label{dereretyndigtland}
- \textbackslash textit{Der er et yndigt land} är Danmarks (\textbackslash textbf{Danmark}) nationalsång. Den första texten skrevs redan 1819 men har reviderats flera gånger när man glömt bort hur den gick. Spåkforskare tror att titeln från början var \textbackslash quotetext{Der er ett Syndigt land} och att ett S föll bort när någon slarvade, men det är svårt att veta säkert eftersom alla danska arkiv eldas upp på valborgsmässoafton varje år. Från början var det 12 verser men det fattar ju vem som helst att ingen dansk orkar sjunga så långt. Här är den vanligast förekommande texten:
+\ditem[Der er et yndigt land]\label{dereretyndigtland}
+ \textit{Der er et yndigt land} är Danmarks (\textbf{Danmark}) nationalsång. Den första texten skrevs redan 1819 men har reviderats flera gånger när man glömt bort hur den gick. Spåkforskare tror att titeln från början var \quotetext{Der er ett Syndigt land} och att ett S föll bort när någon slarvade, men det är svårt att veta säkert eftersom alla danska arkiv eldas upp på valborgsmässoafton varje år. Från början var det 12 verser men det fattar ju vem som helst att ingen dansk orkar sjunga så långt. Här är den vanligast förekommande texten:
 
  Der er et yndigt land,
  det står med brede bøge
@@ -26,7 +26,7 @@
  runke på de danskes øer
 
  Hil kong Christian og fædreland!
- Hil hver en dannebroger (\textbackslash textbf{dannebrogen}),
+ Hil hver en dannebroger (\textbf{dannebrogen}),
  Alle er vi Anders And!
 
  Vort gamle Danmark skal bestå,

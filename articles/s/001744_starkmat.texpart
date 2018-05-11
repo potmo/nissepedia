@@ -1,7 +1,7 @@
-\textbackslash ditem[Stark mat]\textbackslash label{starkmat}
- är motsatsen till \textbackslash textbf{svag mat}.
+\ditem[Stark mat]\label{starkmat}
+ är motsatsen till \textbf{svag mat}.
  Stark mat kan för en del  människor förknippas med resor till exotiska länder och spännande upplevelser. Händer som möts och oväntade möten med trummor och sång.
- Det finns undersökningar som visar att stark mat har en välgörande effekt på hälsan och själen. Den store naturfilosofen och rabulisten Linné anmärkte varnande: \textbackslash quotetext{Vid val av födoämnen skall du eftersträva sådana som i och för sig hava smak eller angenäm lukt; de starkt luktande och de retande skall du undvika}.
+ Det finns undersökningar som visar att stark mat har en välgörande effekt på hälsan och själen. Den store naturfilosofen och rabulisten Linné anmärkte varnande: \quotetext{Vid val av födoämnen skall du eftersträva sådana som i och för sig hava smak eller angenäm lukt; de starkt luktande och de retande skall du undvika}.
 
- Exempel på stark mat är \textbackslash quotetext{Chili con carne} .
+ Exempel på stark mat är \quotetext{Chili con carne} .
 

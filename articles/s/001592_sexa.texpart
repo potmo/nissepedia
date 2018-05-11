@@ -1,4 +1,4 @@
-\textbackslash ditem[Sexa]\textbackslash label{sexa}
+\ditem[Sexa]\label{sexa}
  En sexa är det högsta man kan slå med den vanligaste typen av tärning.
- Se även: \textbackslash textbf{Etta}, \textbackslash textbf{Tvåa}, \textbackslash textbf{Trea}, \textbackslash textbf{Fyra}, \textbackslash textbf{Femma}, \textbackslash textbf{Sjua}, \textbackslash textbf{Åtta}, \textbackslash textbf{Nia}.
+ Se även: \textbf{Etta}, \textbf{Tvåa}, \textbf{Trea}, \textbf{Fyra}, \textbf{Femma}, \textbf{Sjua}, \textbf{Åtta}, \textbf{Nia}.
 

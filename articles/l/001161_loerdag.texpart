@@ -1,3 +1,3 @@
-\textbackslash ditem[Lördag]\textbackslash label{loerdag}
- är enligt många den bästa dagen, för då är man ledig och har dessutom ännu en hel ledig dag att se fram emot (dvs. söndagen) (\textbackslash textbf{söndag}). Lördagen är enligt Christian Information Service Homepage den egentliga sabbatsdagen. Därför har man i Umeå med omnejd delat ut flygblad i vilka vikten av att fira sabbaten på lördagen framgår med all önskvärd tydlighet. På lördagen får man äta lördagsgodis och spela på tipset.
+\ditem[Lördag]\label{loerdag}
+ är enligt många den bästa dagen, för då är man ledig och har dessutom ännu en hel ledig dag att se fram emot (dvs. söndagen) (\textbf{söndag}). Lördagen är enligt Christian Information Service Homepage den egentliga sabbatsdagen. Därför har man i Umeå med omnejd delat ut flygblad i vilka vikten av att fira sabbaten på lördagen framgår med all önskvärd tydlighet. På lördagen får man äta lördagsgodis och spela på tipset.
 

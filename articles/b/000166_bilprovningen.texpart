@@ -1,8 +1,8 @@
-\textbackslash ditem[Bilprovningen]\textbackslash label{bilprovningen}
+\ditem[Bilprovningen]\label{bilprovningen}
  är  en institution som syftar till att skydda bilägande medborgare från sitt fordon.
  Alla måste besiktiga vare sig det behövs eller ej, vanliga pantade knegare har inte vett att byta vindrutetorkare eller medföra varningstriangel, därför måste en betrodd kontrollant se åt så detta blir gjort.
- Det finaste man kan få på bilprovningen är ett \textbackslash textbf{blankt protokoll} och en mugg ljummet kaffe. Det sämsta är körförbud.
+ Det finaste man kan få på bilprovningen är ett \textbf{blankt protokoll} och en mugg ljummet kaffe. Det sämsta är körförbud.
 
- \textbackslash subtitle{ Bilprovningen i internationella sammanhang }
- Bilprovningen är något som typ bara finns i \textbackslash textbf{Sverige}, därför kan folk från andra länder bli ytterst förvirrade när dom plötsligt får körförbud eller böter, i regel ringer de då till trafikverkets telefon och skäller på telefonisterna. När detta inte hjälper drar man till med ett \textbackslash quotetext{\textbackslash textit{får jag prata med din chef}}. Mycket vanligt bland utbytesstudenter.
+ \subtitle{ Bilprovningen i internationella sammanhang }
+ Bilprovningen är något som typ bara finns i \textbf{Sverige}, därför kan folk från andra länder bli ytterst förvirrade när dom plötsligt får körförbud eller böter, i regel ringer de då till trafikverkets telefon och skäller på telefonisterna. När detta inte hjälper drar man till med ett \quotetext{\textit{får jag prata med din chef}}. Mycket vanligt bland utbytesstudenter.
 

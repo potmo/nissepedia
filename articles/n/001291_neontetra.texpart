@@ -1,3 +1,3 @@
-\textbackslash ditem[Neontetra]\textbackslash label{neontetra}
- n (\textbackslash textit{Paracheirodon innesi}, plural neontetris är den billigaste akvariefisken som man kan köpa på en djuraffär, men så är den också så liten att om den inte hade haft en så starkt färgad skrud hade man inte kunnat se den. Om man fixar en stor glasburk eller ett litet akvarium och skickar ner lite \textbackslash textbf{sand} och grus, vatten och ett gäng neontetror har man vips! ett akvarium som kan skänka mycket glädje åt det enklaste hushåll och som pappa kan vila blicken på efter en lång och strävsam arbetsdag.
+\ditem[Neontetra]\label{neontetra}
+ n (\textit{Paracheirodon innesi}, plural neontetris är den billigaste akvariefisken som man kan köpa på en djuraffär, men så är den också så liten att om den inte hade haft en så starkt färgad skrud hade man inte kunnat se den. Om man fixar en stor glasburk eller ett litet akvarium och skickar ner lite \textbf{sand} och grus, vatten och ett gäng neontetror har man vips! ett akvarium som kan skänka mycket glädje åt det enklaste hushåll och som pappa kan vila blicken på efter en lång och strävsam arbetsdag.
 

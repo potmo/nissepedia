@@ -1,3 +1,3 @@
-\textbackslash ditem[Oscar Dronjak]\textbackslash label{oscardronjak}
- är en jättelång göteborgare som spelar gitarr i bandet Hammerfall. Han lyssnar inte på \textbackslash textbf{Mob 47}, för hade han gjort det hade han vetat att rustning är ett brott.
+\ditem[Oscar Dronjak]\label{oscardronjak}
+ är en jättelång göteborgare som spelar gitarr i bandet Hammerfall. Han lyssnar inte på \textbf{Mob 47}, för hade han gjort det hade han vetat att rustning är ett brott.
 

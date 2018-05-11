@@ -1,5 +1,5 @@
-\textbackslash ditem[Kommunslogan]\textbackslash label{kommunslogan}
- Alla kommuner i \textbackslash textbf{Sverige} värda namnet har en kommunslogan (\textbackslash textbf{kommunistglasögon}). Här kommer de bästa eller sämsta beroende på \textbackslash textbf{perspektiv}.
+\ditem[Kommunslogan]\label{kommunslogan}
+ Alla kommuner i \textbf{Sverige} värda namnet har en kommunslogan (\textbf{kommunistglasögon}). Här kommer de bästa eller sämsta beroende på \textbf{perspektiv}.
 
  1. Alingsås - Utan oss vore korv och mos bara korv.
  2. Ska du handla i Ludvika imorgon? Handla i Ludvika idag istället!
@@ -12,10 +12,10 @@
  9. Vindeln - En sista utväg.
  10. Bjurholm - Bäverstaden.
  11. Skellefteå - Inte bara en sjukdom.
- 12. \textbackslash textbf{Malå} - Snart vänder det.
- 13. \textbackslash textbf{Norrtälje} - varken bra eller dåligt.
+ 12. \textbf{Malå} - Snart vänder det.
+ 13. \textbf{Norrtälje} - varken bra eller dåligt.
  14. Trollhättan - där drömmar dör!
- 15. Lilla Edet - en \textbackslash quotetext{stark} del av Trollhättan.
+ 15. Lilla Edet - en \quotetext{stark} del av Trollhättan.
  16. Filipstad - inte bara den blåsta nazisten på youtube!
  17. Robertsfors - Sveriges bästa kommun om cirka 85 år!
  18. Ale - En härlig blandning av kemikalieindustri och riktigt pantade nazister!
@@ -24,8 +24,8 @@
  21. Gävle - Sveriges näst mest framstående grindcore-kommun.
  22. Krokom - Center of Bullying Innovation.
  23. Sundsvall - Rastahundens hemkommun!
- 24. \textbackslash textbf{Växjö} - Duger det åt Electric Wizard duger det åt dig.
+ 24. \textbf{Växjö} - Duger det åt Electric Wizard duger det åt dig.
  25. Östhammar - kärnkraftverk och radioaktivitet är också kultur!
  26. Tierp - Bara precis över smärtgränsen för dagspendling till bättre ställen.
- 27. \textbackslash textbf{Uppsala} - Gotare, studentspex och hårt vatten.
+ 27. \textbf{Uppsala} - Gotare, studentspex och hårt vatten.
 

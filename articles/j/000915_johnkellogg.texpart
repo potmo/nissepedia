@@ -1,3 +1,3 @@
-\textbackslash ditem[John Kellogg]\textbackslash label{johnkellogg}
- var en amerikan som är mest känd för att ha uppfunnit konceptet frukostflingor. Vad han är mindre känd för är att han var en ihärdig förespråkare för yoghurtlavemang, någon som han menade lämnade tarmen \textbackslash quotetext{skinande ren}. Kellogg tyckte även att man borde hindra flickor från att onanera genom att utsätta klitoris för frätande syra. För pojkar menade Kellogg att det var lämpligt att sy ihop förhuden. Han var även, föga förvånande, vegetarian.
+\ditem[John Kellogg]\label{johnkellogg}
+ var en amerikan som är mest känd för att ha uppfunnit konceptet frukostflingor. Vad han är mindre känd för är att han var en ihärdig förespråkare för yoghurtlavemang, någon som han menade lämnade tarmen \quotetext{skinande ren}. Kellogg tyckte även att man borde hindra flickor från att onanera genom att utsätta klitoris för frätande syra. För pojkar menade Kellogg att det var lämpligt att sy ihop förhuden. Han var även, föga förvånande, vegetarian.
 

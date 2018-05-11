@@ -1,3 +1,3 @@
-\textbackslash ditem[Spanskt lättvin]\textbackslash label{spansktlaettvin}
- tillverkas genom att slå lite vatten i ett glas \textbackslash textbf{vin}. Det har många likheter med danskt lättöl (\textbackslash textbf{Dansk lättöl}), men en stor skillnad och det är att när dansken bara dricker ett glas så drar spanjacken i sig en hel pava. Det här är fortfarande inget hinder för att dra ut och köra \textbackslash textbf{bil} eller \textbackslash textbf{backa med släp} för den delen.
+\ditem[Spanskt lättvin]\label{spansktlaettvin}
+ tillverkas genom att slå lite vatten i ett glas \textbf{vin}. Det har många likheter med danskt lättöl (\textbf{Dansk lättöl}), men en stor skillnad och det är att när dansken bara dricker ett glas så drar spanjacken i sig en hel pava. Det här är fortfarande inget hinder för att dra ut och köra \textbf{bil} eller \textbf{backa med släp} för den delen.
 

@@ -1,19 +1,19 @@
-\textbackslash ditem[Post]\textbackslash label{post}
+\ditem[Post]\label{post}
  Ett populärt prefix för allehanda frifräsare. Postgult hade exempelvis hela den tyska familjen Thurn und Taxis länge förstatjing på. Men allt roligt måste ha ett slut.
- \textbackslash subtitle{Ordstammar som prefixet fästs vid}
+ \subtitle{Ordstammar som prefixet fästs vid}
 
- \textbackslash begin{itemize}
- \textbackslash item -modernism
- \textbackslash item -kolonial
- \textbackslash item -feminist
- \textbackslash item -ångare
- \textbackslash item -human
- \textbackslash item -graduate
- \textbackslash item -seminarium
- \textbackslash item --modern morförälder (\textbackslash textbf{postmodern morförälder})
- \textbackslash item -traumatiskt stressyndrom
- \textbackslash item -rock (\textbackslash textbf{postpostrock})
- \textbackslash item -ulat
- \textbackslash item -coitus (\textbackslash textbf{post-coitus})
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item -modernism
+ \item -kolonial
+ \item -feminist
+ \item -ångare
+ \item -human
+ \item -graduate
+ \item -seminarium
+ \item --modern morförälder (\textbf{postmodern morförälder})
+ \item -traumatiskt stressyndrom
+ \item -rock (\textbf{postpostrock})
+ \item -ulat
+ \item -coitus (\textbf{post-coitus})
+ \end{itemize}
 

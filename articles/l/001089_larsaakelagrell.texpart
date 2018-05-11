@@ -1,3 +1,3 @@
-\textbackslash ditem[Lars-Åke Lagrell]\textbackslash label{larsaakelagrell}
- är ca ett millenium gammal och sedan 1991 ordförande för Svenska fotbollsförbundet. Han är den enskilt största anledningen till att Sverige missade fotbolls (\textbackslash textbf{fotboll}) VM i Sydafrika 2010.
+\ditem[Lars-Åke Lagrell]\label{larsaakelagrell}
+ är ca ett millenium gammal och sedan 1991 ordförande för Svenska fotbollsförbundet. Han är den enskilt största anledningen till att Sverige missade fotbolls (\textbf{fotboll}) VM i Sydafrika 2010.
 

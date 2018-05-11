@@ -1,12 +1,12 @@
-\textbackslash ditem[Ungdomsförbund]\textbackslash label{ungdomsfoerbund}
- Ett ungdomsförbund är en organisation där politiskt intresserade ungdomar samlas för att träffa likasinnade och stärka sina kunskaper kring dagsaktuella såväl som större ideologiska och principiella frågor. Någon strikt åldersgräns uppåt för när man bör lämna ungdomsförbundet och gå över till moderpartiet finns inte så ibland blir det lite märklig stämning på möten när en \textbackslash textbf{lillgammal} trettonåring diskuterar frihandelns följder med en tjugofemåring som av olika omständigheter ännu inte gått klart gymnasiet och mest är med för att få gratis fika och inte riktigt mäktar med att mäta sig intellektuellt med sina jämnåriga. Mycket av ungdomsförbundens utbildningsverksamhet utspelar sig idag på Internet där man delar ideologiskt tillspetsade bilder på Facebook med varandra och debatterar i forum där allmänheten inte släpps in. Men fortfarande anordnas det självklart även lägerträffar över helger och sommarveckor med jämna mellanrum så att medlemmar från hela landet kan träffas ansikte mot ansikte och ägna sig åt den egentliga anledningen till att de gick med i organisationen. Detta är naturligtvis att kunna flörta, och om man har en riktig satans tur även få ligga, med personer som delar ens värdegrund. Det är trots allt ändå ungdomar vi talar om så eventuell fortsatt isolering av Kuba, genmodifierade grönsaker, Mumia Abu-Jamal och statliga alkoholmonopol får faktiskt finna sig i att komma i andra hand när chansen finns att äntligen bli av med den där satans oskulden. Ingen förnekar att det är nog så viktiga frågor, men om chansen finns att få snudda vid tros-/kalsongkanten på en dreadshippie med Che Guevara-tröja/högadlig djursholmsbo kan vi nog alla instämma i att kampen faktiskt får vänta.
- \textbackslash subtitle{Exempel på ungdomsförbund}
+\ditem[Ungdomsförbund]\label{ungdomsfoerbund}
+ Ett ungdomsförbund är en organisation där politiskt intresserade ungdomar samlas för att träffa likasinnade och stärka sina kunskaper kring dagsaktuella såväl som större ideologiska och principiella frågor. Någon strikt åldersgräns uppåt för när man bör lämna ungdomsförbundet och gå över till moderpartiet finns inte så ibland blir det lite märklig stämning på möten när en \textbf{lillgammal} trettonåring diskuterar frihandelns följder med en tjugofemåring som av olika omständigheter ännu inte gått klart gymnasiet och mest är med för att få gratis fika och inte riktigt mäktar med att mäta sig intellektuellt med sina jämnåriga. Mycket av ungdomsförbundens utbildningsverksamhet utspelar sig idag på Internet där man delar ideologiskt tillspetsade bilder på Facebook med varandra och debatterar i forum där allmänheten inte släpps in. Men fortfarande anordnas det självklart även lägerträffar över helger och sommarveckor med jämna mellanrum så att medlemmar från hela landet kan träffas ansikte mot ansikte och ägna sig åt den egentliga anledningen till att de gick med i organisationen. Detta är naturligtvis att kunna flörta, och om man har en riktig satans tur även få ligga, med personer som delar ens värdegrund. Det är trots allt ändå ungdomar vi talar om så eventuell fortsatt isolering av Kuba, genmodifierade grönsaker, Mumia Abu-Jamal och statliga alkoholmonopol får faktiskt finna sig i att komma i andra hand när chansen finns att äntligen bli av med den där satans oskulden. Ingen förnekar att det är nog så viktiga frågor, men om chansen finns att få snudda vid tros-/kalsongkanten på en dreadshippie med Che Guevara-tröja/högadlig djursholmsbo kan vi nog alla instämma i att kampen faktiskt får vänta.
+ \subtitle{Exempel på ungdomsförbund}
 
- \textbackslash begin{itemize}
- \textbackslash item LUF (\textbackslash textbf{Luf})
- \textbackslash item \textbackslash textbf{MUF}
- \textbackslash item \textbackslash textbf{KDU}
- \textbackslash item \textbackslash textbf{CUF}
- \textbackslash item Komsomol
- \textbackslash end{itemize}
+ \begin{itemize}
+ \item LUF (\textbf{Luf})
+ \item \textbf{MUF}
+ \item \textbf{KDU}
+ \item \textbf{CUF}
+ \item Komsomol
+ \end{itemize}
 

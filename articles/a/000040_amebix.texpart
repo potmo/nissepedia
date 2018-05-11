@@ -1,3 +1,3 @@
-\textbackslash ditem[Amebix]\textbackslash label{amebix}
- är inte världens bästa band. De är dock enhälligt framröstade till titeln: Världens ballaste band. Amebix är också en kisse\textbackslash textbf{katt} som bor i Prag.
+\ditem[Amebix]\label{amebix}
+ är inte världens bästa band. De är dock enhälligt framröstade till titeln: Världens ballaste band. Amebix är också en kisse\textbf{katt} som bor i Prag.
 

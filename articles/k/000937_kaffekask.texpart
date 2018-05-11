@@ -1,3 +1,3 @@
-\textbackslash ditem[Kaffe kask]\textbackslash label{kaffekask}
- se \textbackslash textbf{Kaffekask}
+\ditem[Kaffe kask]\label{kaffekask}
+ se \textbf{Kaffekask}
 

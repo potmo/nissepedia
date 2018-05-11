@@ -1,3 +1,3 @@
-\textbackslash ditem[Den gråtande gitarren]\textbackslash label{dengraatandegitarren}
- är en ballad skriven av den spanske smörsångaren Erique Gunnarzalez. Musiken går i moll och präglas av typiska spanska tongångar. Texten handlar om Eriques förtvivlan över att hans kära mor bor på andra sidan av ett berg. Varje morgon vaknar han och önskar att han var vid hennes sida, men allt han har är sin sorg och sin gråtande \textbackslash textbf{gitarr}. Låten kom på sista plats i 1978 års Eurovision song contest.
+\ditem[Den gråtande gitarren]\label{dengraatandegitarren}
+ är en ballad skriven av den spanske smörsångaren Erique Gunnarzalez. Musiken går i moll och präglas av typiska spanska tongångar. Texten handlar om Eriques förtvivlan över att hans kära mor bor på andra sidan av ett berg. Varje morgon vaknar han och önskar att han var vid hennes sida, men allt han har är sin sorg och sin gråtande \textbf{gitarr}. Låten kom på sista plats i 1978 års Eurovision song contest.
 

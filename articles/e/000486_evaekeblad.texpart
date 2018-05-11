@@ -1,3 +1,3 @@
-\textbackslash ditem[Eva Ekeblad]\textbackslash label{evaekeblad}
- \textbackslash textbf{Eva Ekeblad } (född 10 juli 1724 och död 15 maj 1786) var en svensk vetenskapskvinna, som idag främst ihågkoms för att ha informerat almogen hur man kokar brännvin av potatis.
+\ditem[Eva Ekeblad]\label{evaekeblad}
+ \textbf{Eva Ekeblad } (född 10 juli 1724 och död 15 maj 1786) var en svensk vetenskapskvinna, som idag främst ihågkoms för att ha informerat almogen hur man kokar brännvin av potatis.
 

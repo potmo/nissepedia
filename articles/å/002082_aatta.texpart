@@ -1,4 +1,4 @@
-\textbackslash ditem[Åtta]\textbackslash label{aatta}
- är en seglarknop som förhindrar att skot löper genom öglor. Det kan verka konstigt men är sant. Till utseendet liknar åttan Konsums (\textbackslash textbf{konsumbutik}) gamla logotyp ställd på högkant.
- Se även: \textbackslash textbf{Etta}, \textbackslash textbf{Tvåa}, \textbackslash textbf{Trea}, \textbackslash textbf{Fyra}, \textbackslash textbf{Femma}, \textbackslash textbf{Sexa}, \textbackslash textbf{Sjua}, \textbackslash textbf{Nia}.
+\ditem[Åtta]\label{aatta}
+ är en seglarknop som förhindrar att skot löper genom öglor. Det kan verka konstigt men är sant. Till utseendet liknar åttan Konsums (\textbf{konsumbutik}) gamla logotyp ställd på högkant.
+ Se även: \textbf{Etta}, \textbf{Tvåa}, \textbf{Trea}, \textbf{Fyra}, \textbf{Femma}, \textbf{Sexa}, \textbf{Sjua}, \textbf{Nia}.
 

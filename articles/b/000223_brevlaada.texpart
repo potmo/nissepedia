@@ -1,3 +1,3 @@
-\textbackslash ditem[Brevlåda]\textbackslash label{brevlaada}
- En brevlåda är en behållare av plåt som används för att förmedla budskap, korta och långa, över hela världen. Sändaren skriver sitt meddelande på ett papper, eller annat lämpligt material med en plan yta, och anger även en position för vart i världen den vill att meddelandet ska föras. En person i blå kläder tömmer varje dag behållaren och för sedan meddelandet till den angivna punkten och placerar den i närmsta \textbackslash textbf{postlåda}. Snabbt, enkelt, bekvämt!
+\ditem[Brevlåda]\label{brevlaada}
+ En brevlåda är en behållare av plåt som används för att förmedla budskap, korta och långa, över hela världen. Sändaren skriver sitt meddelande på ett papper, eller annat lämpligt material med en plan yta, och anger även en position för vart i världen den vill att meddelandet ska föras. En person i blå kläder tömmer varje dag behållaren och för sedan meddelandet till den angivna punkten och placerar den i närmsta \textbf{postlåda}. Snabbt, enkelt, bekvämt!
 

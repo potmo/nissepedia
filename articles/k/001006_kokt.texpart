@@ -1,5 +1,5 @@
-\textbackslash ditem[Kokt]\textbackslash label{kokt}
+\ditem[Kokt]\label{kokt}
  Blöt och sladdrig, istället för stekt och god.
 
- OBS. Gäller dock ej \textbackslash textbf{ägg}.
+ OBS. Gäller dock ej \textbf{ägg}.
 

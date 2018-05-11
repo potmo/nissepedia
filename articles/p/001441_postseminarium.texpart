@@ -1,3 +1,3 @@
-\textbackslash ditem[Postseminarium]\textbackslash label{postseminarium}
- syftar på det som händer efter ett akademiskt så kallat högre seminarium (\textbackslash textbf{post} betyder \textbackslash quotetext{efter} på hebreiska). Medan det högre seminariet består i att forskare och doktorander diskuterar och ventilerar manus till vetenskapliga artiklar och avhandlingar går postseminariet ut på att samma doktorander och forskare går till en krog och äter pubmat, dricker sig berusade och antingen idkar ohämmad älskog eller hamnar i luven på varandra.
+\ditem[Postseminarium]\label{postseminarium}
+ syftar på det som händer efter ett akademiskt så kallat högre seminarium (\textbf{post} betyder \quotetext{efter} på hebreiska). Medan det högre seminariet består i att forskare och doktorander diskuterar och ventilerar manus till vetenskapliga artiklar och avhandlingar går postseminariet ut på att samma doktorander och forskare går till en krog och äter pubmat, dricker sig berusade och antingen idkar ohämmad älskog eller hamnar i luven på varandra.
 

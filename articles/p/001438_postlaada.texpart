@@ -1,4 +1,4 @@
-\textbackslash ditem[Postlåda]\textbackslash label{postlaada}
+\ditem[Postlåda]\label{postlaada}
  En postlåda är en behållare som används av privatpersoner och företag för att ta emot information och objekt som sänts från jordens alla hörn. Det är så genialiskt att det nästan låter löjligt.
- Se även: \textbackslash textbf{posten}
+ Se även: \textbf{posten}
 

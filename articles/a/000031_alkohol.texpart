@@ -1,4 +1,4 @@
-\textbackslash ditem[Alkohol]\textbackslash label{alkohol}
+\ditem[Alkohol]\label{alkohol}
  är ett vanligt lösningsmedel. Det löser problem.
 
  Utan alkohol kan man inte ha roligt, och har man roligt utan alkohol vore det roligare med alkohol. Inte minst enligt Boris Jeltsin.

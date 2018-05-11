@@ -1,16 +1,16 @@
-\textbackslash ditem[World Wide Web]\textbackslash label{worldwideweb}
+\ditem[World Wide Web]\label{worldwideweb}
  är en låt som Nick Borgen, Norges svar på Tom Jones, hittade på. Han tävlade med den i melodifestivalen 1997 och slutade på nionde plats. På melodifestivalen körade it-pinuppan Helen Wellton.
- \textbackslash subtitle{ Text }
+ \subtitle{ Text }
 
  World wide web
  World wide web
- Här lever jag lycklig, här finns ingen \textbackslash textbf{stress}
+ Här lever jag lycklig, här finns ingen \textbf{stress}
  Här är min nya hemadress
 
  Jag väntat så länge så jag tog min chans
  Jag ville flytta nån annanstans
  Ikväll är det party, jag flyttar in
- Så följ med mig hem på ostron och \textbackslash textbf{vin}
+ Så följ med mig hem på ostron och \textbf{vin}
 
  Oh uh oh uh ohh, jag har party ikväll
  Oh uh oh uh ohh, om du vill får du gärna följa med
@@ -19,7 +19,7 @@
 
  World wide web
  World wide web
- Här lever jag lycklig, här finns ingen \textbackslash textbf{stress}
+ Här lever jag lycklig, här finns ingen \textbf{stress}
  Här är min nya hemadress
 
  Ta med dig vänner till ett häftigt place
@@ -34,6 +34,6 @@
 
  World wide web
  World wide web
- Här lever jag lycklig, här finns ingen \textbackslash textbf{stress}
+ Här lever jag lycklig, här finns ingen \textbf{stress}
  Här är min nya hemadress
 

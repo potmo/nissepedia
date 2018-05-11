@@ -1,11 +1,11 @@
-\textbackslash ditem[Historiska händelser i badrum]\textbackslash label{historiskahaendelseribadrum}
- \textbackslash begin{itemize}
- \textbackslash item Archimedes luktar så illa att han måste bada och upptäcker då sin egen princip.
- \textbackslash item \textbackslash textbf{Gustav Vasa} beträder \textbackslash textbf{Ornässtugans dass} och \textbackslash textbf{Sverige} påbörjar resan mot modern nationalstat.
- \textbackslash item Frank Zappa får idén till det där skivomslaget där han sitter på muggen.
- \textbackslash item Den jätteäckliga scenen i filmen \textbackslash textit{Trainspotting}.
- \textbackslash item Polisen upptäcker varför Plura Jonsson alltid är så glad fastän han gör så tråkig musik.
- \textbackslash item Ett av bibelns (\textbackslash textbf{bibeln}) märkligare avsnitt, \textbackslash textbf{\textbackslash textbf{Jesaja 36:12}}.
- \textbackslash item Evelyn Waugh skyndar sig på påskdagen 1966 in på dass efter att ha deltagit i högmässan och avslutar där, sittandes, ett av Storbritanniens stilistiskt viktigaste författarskap genom att dö av ansträngning.
- \textbackslash end{itemize}
+\ditem[Historiska händelser i badrum]\label{historiskahaendelseribadrum}
+ \begin{itemize}
+ \item Archimedes luktar så illa att han måste bada och upptäcker då sin egen princip.
+ \item \textbf{Gustav Vasa} beträder \textbf{Ornässtugans dass} och \textbf{Sverige} påbörjar resan mot modern nationalstat.
+ \item Frank Zappa får idén till det där skivomslaget där han sitter på muggen.
+ \item Den jätteäckliga scenen i filmen \textit{Trainspotting}.
+ \item Polisen upptäcker varför Plura Jonsson alltid är så glad fastän han gör så tråkig musik.
+ \item Ett av bibelns (\textbf{bibeln}) märkligare avsnitt, \textbf{\textbf{Jesaja 36:12}}.
+ \item Evelyn Waugh skyndar sig på påskdagen 1966 in på dass efter att ha deltagit i högmässan och avslutar där, sittandes, ett av Storbritanniens stilistiskt viktigaste författarskap genom att dö av ansträngning.
+ \end{itemize}
 

@@ -1,3 +1,3 @@
-\textbackslash ditem[Tjamstan]\textbackslash label{tjamstan}
- Ett berg som med sina 400 m ö h tornar upp över \textbackslash textbf{Malå} samhälle. På dess västra och norra sida finns skidbackar, på dessa södra ett stup. Detta stup inhyser i sin tur Ättestupan (\textbackslash textbf{Ättestupa}). Här skickades gamla och sjuka mot sin död för att inte vara sina släktingar till last. Detta kommer antagligen bli aktuellt igen med tanke på de nedskärningar landstinget försöker få igenom.
+\ditem[Tjamstan]\label{tjamstan}
+ Ett berg som med sina 400 m ö h tornar upp över \textbf{Malå} samhälle. På dess västra och norra sida finns skidbackar, på dessa södra ett stup. Detta stup inhyser i sin tur Ättestupan (\textbf{Ättestupa}). Här skickades gamla och sjuka mot sin död för att inte vara sina släktingar till last. Detta kommer antagligen bli aktuellt igen med tanke på de nedskärningar landstinget försöker få igenom.
 
