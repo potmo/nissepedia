@@ -1,0 +1,16 @@
+\textbackslash ditem[Glad och pigg tjej]\textbackslash label{gladochpiggtjej}
+ En glad och pigg tjej är en kvinna som tillhör en av Sveriges (\textbackslash textbf{Sverige}) mest utbredda sub-kulturer. Som den närbesläktade glada och spralliga tjejen är hon positiv och utåtriktad och nästan alltid redo att hitta på något kul, så som att gå och shoppa, laga middag och dricka ett glas vin tillsammans med väninnorna eller kanske gå en rask promenad. Hon sysslar kanske med mindfulness, har en spik- eller yogamatta, hänger tavlor av klassiska godisaskar så som Djungelvrål och Salta Katten och försöker att inte se så mycket på TV, även om det faktiskt blir en hel del trevliga pratprogram ändå. När den glada och pigga tjejen skriver brev eller på något vis presenterar sig på internet påpekar hon vanligtvis att hon är just en glad och pigg tjej och tillägger därefter sin ålder.
+
+ Den glada och pigga tjejen:
+ \textbackslash begin{itemize}
+ \textbackslash item Jobbar i reception
+ \textbackslash item Äter gärna lätt och fräscht
+ \textbackslash item Har alltid en flaska berikat vatten till hands
+ \textbackslash item Bor ljust
+ \textbackslash item Läser magasin
+ \textbackslash item Äger kylskåpsmagneter med kloka budskap på
+ \textbackslash item Avskyr svält och krig
+ \textbackslash item Handlar sin konst på Gallerix
+ \textbackslash item Ogillar sorgliga eller våldsamma filmer. Man tittar väl på film för att ha det trevligt?
+ \textbackslash end{itemize}
+

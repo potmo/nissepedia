@@ -1,0 +1,10 @@
+\textbackslash ditem[Sans pants]\textbackslash label{sanspants}
+ \textbackslash textit{Sans pants} (fr. Fr. \textbackslash textit{sans} ung. \textbackslash quotetext{utan} och Eng. \textbackslash textit{pants} ung. \textbackslash quotetext{byxor}) är en lite finare term för att vara utan byxor. I en exempelmening kan den användas som följer:
+ \textbackslash begin{itemize}
+ \textbackslash item \textbackslash quotetext{Sitter framför datorn och kollar på gamla foton, \textbackslash textit{sans pants}.}
+ \textbackslash end{itemize}
+
+ \textbackslash subtitle{Sans pants i politik och debatt}
+
+ \textbackslash quotetext{Realister} (\textbackslash textbf{\textbackslash quotetext{realister}}), det vill säga rasistiska träskaft, tycker att det är realistiskt att inte ha byxor på sig.
+

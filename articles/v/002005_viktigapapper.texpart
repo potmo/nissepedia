@@ -1,0 +1,12 @@
+\textbackslash ditem[Viktiga papper]\textbackslash label{viktigapapper}
+ ska, om de inte förvaras i bakfickan (\textbackslash textbf{bakficka}), alltid sättas in i en pärm. Detta går till så här:
+\textbackslash begin{enumerate}
+\textbackslash item Avlägsna eventuella kuvert och liknande.
+\textbackslash item Placera försiktigt pappret i en hålslagare (som kan köpas från välsorterade varuhus eller stjälas från privata arbetsgivare).
+\textbackslash item Kontrollera att pappret ligger rätt.
+\textbackslash item Stansa hål i pappret.
+\textbackslash item Öppna pärmen och öppna pärmens metallöglor.
+\textbackslash item Lägg pappret så att två av öglorna penetrerar två av hålen i arket.
+\textbackslash item Stäng metallöglorna och pärmen.
+\textbackslash end{enumerate}
+

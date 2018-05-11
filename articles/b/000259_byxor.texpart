@@ -1,0 +1,10 @@
+\textbackslash ditem[Byxor]\textbackslash label{byxor}
+ (a.k.a \textbackslash quotetext{hosor}) är ett plagg som är nära associerat med underkroppen. Just därför insisterar många moralister på att man ska ha sådana på sig, även i fall då det inte av praktiska skäl är direkt nödvändigt. De består av tvenne rör av tyg, gärna ett slitstarkt materiel så som jeans. Dessa är kopplade till ett slags säck som är försedd med fickor och hällor.
+
+ \textbackslash subtitle{Populärkultur}
+ 
+ \textbackslash begin{itemize}
+ \textbackslash item På omslaget till \textbackslash quotetext{Born in the USA} bär Bruce Springsteen ett par byxor.
+ \textbackslash item Många i Sveriges (\textbackslash textbf{Sverige}) ståupp-elit bär detta spännande plagg.
+ \textbackslash end{itemize}
+

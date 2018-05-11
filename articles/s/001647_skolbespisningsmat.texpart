@@ -1,0 +1,20 @@
+\textbackslash ditem[Skolbespisningsmat]\textbackslash label{skolbespisningsmat}
+ Gemensamt för all skolbespisningsmat är att den serveras i \textbackslash textbf{tråg}.
+
+ \textbackslash begin{itemize}
+ \textbackslash item Fläskpannkaka (finns utan fläsk)
+ \textbackslash item Frikadellsoppa
+ \textbackslash item Grillburgare (max tre (3) per elev)
+ \textbackslash item Mexicanasoppa
+ \textbackslash item Korvslantssoppa
+ \textbackslash item Leverbiff
+ \textbackslash item Potatisplättar
+ \textbackslash item Kokt potatis
+ \textbackslash item Fiskbullar
+ \textbackslash item Torsk
+ \textbackslash item Ryssröra
+ \textbackslash item Vad huset förmår
+ \textbackslash item Raggmunk (oätlig)
+ \textbackslash item \textbackslash textbf{Lappskojs}
+ \textbackslash end{itemize}
+

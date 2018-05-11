@@ -1,0 +1,32 @@
+\textbackslash ditem[Stort tack]\textbackslash label{storttack}
+ Dessa personer förtjänar ett stort tack:
+
+ \textbackslash begin{itemize}
+ \textbackslash item Karl Marx
+ \textbackslash item Clas Ohlsson
+ \textbackslash item Hjalmar Branting
+ \textbackslash item Mary Wollstonecraft
+ \textbackslash item Les Paul
+ \textbackslash item John Fogerty (\textbackslash textbf{The fog})
+ \textbackslash item Homi K. Bhabha
+ \textbackslash item Svetlana Aleksijevitj
+ \textbackslash item \textbackslash textbf{Antonio Gramsci}
+ \textbackslash item \textbackslash textbf{Jan Wilsgaard}
+ \textbackslash item Raewyn Connell
+ \textbackslash item Tony Iommi
+ \textbackslash item Wendy O Williams
+ \textbackslash item Bobby Liebling
+ \textbackslash item Jon Ashbourne
+ \textbackslash item Jo Bench
+ \textbackslash item Charlie Mopps
+ \textbackslash item Sara Lidman
+ \textbackslash item Tomas Tranströmer
+ \textbackslash item Jonas Claesson
+ \textbackslash item \textbackslash textbf{Artur Hazelius}
+ \textbackslash item Matt Pike
+ \textbackslash item Johan Granberg
+ \textbackslash item Judith Butler
+ \textbackslash item Åsa Linderborg
+ \textbackslash item Gurra G i Just D
+ \textbackslash end{itemize}
+

@@ -1,0 +1,10 @@
+\textbackslash ditem[Sanningssägande bloggar]\textbackslash label{sanningssaegandebloggar}
+ 2000-talets fortsättning på arga insändare i lokalpressen. Präglas ofta av överdrivet användande av versaler, grava syftningsfel och förvirrade resonemang. Trots detta läser påfallande många fullt friska detta elände och låter sina sinnen förgiftas.
+
+ Några handfasta exempel
+ \textbackslash begin{itemize}
+ \textbackslash item När \textbackslash textbf{Annika} upptäcker att hon inte kommer kunna vara hemma tills barnen börjar skolan på statens bekostnad startar hon en sanningssägande blogg.
+ \textbackslash item När Sture inte kan lämna in tipset för att Hizbollah tagit över spelbutiken startar han en sanningssägande blogg.
+ \textbackslash item När marginaliserade kvinnliga akademiker opponerar sig mot att könsroller tvingas på små barn på dagis startar \textbackslash textbf{Göran}, själv förvånansvärt nog barnlös, en sanningssägande blogg.
+ \textbackslash end{itemize}
+

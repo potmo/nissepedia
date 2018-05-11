@@ -1,0 +1,11 @@
+\textbackslash ditem[Civilpolis]\textbackslash label{civilpolis}
+ Att avslöja en civilpolis är mycket lätt. Leta efter:
+
+ \textbackslash begin{itemize}
+ \textbackslash item Öronsnäcka, mest uppseendeväckande om de går i grupp. Kanske lyssnar de alla på Scooter?
+ \textbackslash item Ful keps/rakat huvud/polisfrisyr
+ \textbackslash item Snabba skor
+ \textbackslash item Osympatiskt utseende
+ \textbackslash item Och framförallt, Jeansen som Gud glömde. Lite baggy, lite slitningar, några fräcka detaljer och en \textbackslash textbf{snutröv} som försöker rymmas
+ \textbackslash end{itemize}
+

@@ -1,0 +1,10 @@
+\textbackslash ditem[Pizza]\textbackslash label{pizza}
+ Ett runt, platt bakverk. Målet vid bakningen är att få ett cirkelformat bakverk. Oftast misslyckas detta i och med bakfulla pizzabagare. På tal om bakfylla är pizzan just ämnad för bakfulla personer. Då toppingen på pizzan kan liknas vid sopor, och den bakfulla individen också känner sig som \textbackslash textbf{skräp} bildas en harmonisk symbios mellan båda parter.
+ Den bakfulla pizzabagarens resultat är i alla fall en oval-liknande klump med tunn botten. Ovanpå detta läggs något \textbackslash textbf{rött}, något gult, samt gårdagens matrester.
+
+ \textbackslash begin{itemize}
+ \textbackslash item Författaren var här tvungen att avbryta försöket till en beskrivning av pizzan för att inhämta empirisk data kring ovan nämnda objekt.
+ \textbackslash end{itemize}
+
+ Se även \textbackslash textbf{Hawaii-pizza}
+

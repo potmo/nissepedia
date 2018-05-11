@@ -1,0 +1,30 @@
+\textbackslash ditem[Kristdemokraterna]\textbackslash label{kristdemokraterna}
+ är ett svenskt parti för människor som inte gillar:
+
+ \textbackslash begin{itemize}
+ \textbackslash item Kvinnor
+ \textbackslash item Ungdomar
+ \textbackslash item Bögar
+ \textbackslash item Flator
+ \textbackslash item Transpersoner
+ \textbackslash item Queer
+ \textbackslash item Ensamstående föräldrar
+ \textbackslash item Vilda djur (framförallt rovdjur)
+ \textbackslash item Arbetarklassen
+ \textbackslash item Sjuka människor
+ \textbackslash item Politiker (detta kan \textbackslash textbf{te} sig en smula orimligt, men det är helt i deras linje)
+ \textbackslash item Hedningar
+ \textbackslash end{itemize}
+
+ De gillar däremot:
+
+ \textbackslash begin{itemize}
+ \textbackslash item Kyrkor
+ \textbackslash item Pengar
+ \textbackslash item Färgen beige
+ \textbackslash item Familjer
+ \textbackslash item Att tala i tungor
+ \textbackslash item \textbackslash textbf{Verklighetens folk}
+ \textbackslash item \textbackslash textbf{Framgångsteologi}
+ \textbackslash end{itemize}
+

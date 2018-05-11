@@ -1,0 +1,14 @@
+\textbackslash ditem[Moderator]\textbackslash label{moderator}
+ Moderatkrigare med leveln \textbackslash textit{Warlord} eller högre. Har hög attack i när- såväl som eldstrid och kan skjuta laser med sitt fruktade (s)kullcrusher-svärd, men saknar helt försvar och babblar istället om att motståndaren önskar ha det som i Gulag.
+ \textbackslash subtitle{Grundvärden}
+
+ \textbackslash begin{itemize}
+ \textbackslash item Att. 10
+ \textbackslash item Def. 2
+ \textbackslash item Mana. 6
+ \textbackslash item Char. 1
+ \textbackslash end{itemize}
+ \textbackslash subtitle{Levels}
+
+ Om du använder till exempel \textbackslash quotetext{parrot attack} för att öka din moderators Mana till +10 kan den levla till \textbackslash textit{Harbinger}, men om den uppnår -10 i karisma blir den automatiskt Maria Abrahamsson.
+

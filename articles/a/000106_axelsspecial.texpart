@@ -1,0 +1,10 @@
+\textbackslash ditem[Axels special]\textbackslash label{axelsspecial}
+ är en uppfriskande drink som ibland lämpar sig till vardag och alltid till fest. Smaken är fruktig med inslag av röda bär och tweed. Servera gärna i bålskål men använd ingen slev utan låt istället kärlet skickas runt bordet så att alla får dricka direkt ur det. Receptet lyder:
+ \textbackslash begin{itemize}
+ \textbackslash item 10 isbitar
+ \textbackslash item 11 limeklyftor
+ \textbackslash item En skvätt \textbackslash textbf{kir}
+ \textbackslash item Ganska mycket prosecco
+ \textbackslash item En halv gindrink
+ \textbackslash end{itemize}
+

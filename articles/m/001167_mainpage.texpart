@@ -1,0 +1,14 @@
+\textbackslash ditem[Main Page]\textbackslash label{mainpage}
+ strongMediaWiki has been successfully installed./strong
+
+ Consult the  for information on using the wiki software.
+
+ \textbackslash subtitle{ Getting started }
+
+ \textbackslash begin{itemize}
+ \textbackslash item
+ \textbackslash item
+ \textbackslash item
+ \textbackslash end{itemize}
+ *
+

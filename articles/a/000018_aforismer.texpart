@@ -1,0 +1,15 @@
+\textbackslash ditem[Aforismer]\textbackslash label{aforismer}
+ Många äro de munläderförsedda som ägnat tid åt att författa aforismer - \textbackslash textbf{Oscar Wilde}, Nietzsche, Mark Twain och Platon är endast en handfull av dem. En aforism är en slagkraftig sentens som fångar upp och förmedlar en sanning om människan, varat eller något annat tidlöst och centralt.
+ \textbackslash subtitle{Exempel på aforismer}
+ 
+ \textbackslash begin{itemize}
+ \textbackslash item Av sina fiender lär sig den vise mycket. - \textbackslash textbf{Aristoteles}
+ \textbackslash item Nöden är geniets drivfjäder. - \textbackslash textbf{Honoré de Balzac }
+ \textbackslash item Moralister är människor som kliar sig själva där det kliar på andra. - \textbackslash textbf{Samuel Beckett}
+ \textbackslash item Mitt i den mörkaste vintern, lärde jag mig äntligen, att det inom mig, finns en oförgänglig sommar. \textbackslash textbf{Albert Camus}
+ \textbackslash item Det är som min far brukade säga; \textbackslash quotetext{Vi har kanske inte så mycket att leva av, men om pojken vill ha ett smörpapper så ska han fan i mig ha ett smörpapper!} - \textbackslash textbf{Mark Frygell}
+ \textbackslash item Den främsta dygden är att lägga band på sig och hålla tungan rätt i mun (\textbackslash textbf{näbbmun }). - \textbackslash textbf{Geoffrey Chaucer}
+ \textbackslash item De flesta människor lever i ruinerna av sina vanor. - \textbackslash textbf{Jean Cocteau}
+ \textbackslash item Hä ä bar å åk! - \textbackslash textbf{Ingemar Stenmark}
+ \textbackslash end{itemize}
+

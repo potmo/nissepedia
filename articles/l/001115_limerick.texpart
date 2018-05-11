@@ -1,0 +1,15 @@
+\textbackslash ditem[Limerick]\textbackslash label{limerick}
+ är en diktform populäriserad genom Hasseåtage. Tydligen kommer den från den irländka byn Limerick, men eftersom det inte är så många som hört talas om denna säkert fantastiska plats är det heller inte så många som associerar diktformsjäveln med den. Anyway.. en limerick består av fem rader och är lite rolig. De två första och den femte består av rimmande rader på åtta eller fler stavelser. De två där mellan består av fem eller sex (\textbackslash textbf{erotik}) stavelser. Den första ska innehålla ett ortsnamn och en referens till en viss person som dikten handlar om.
+
+ Till exempel:
+
+ \textbackslash textit{Det bodde en snubbe i Malå~Som hade en så vidrig stortå~Att vart han än gick~Ropa alla shit!~Herr tåbira är ute och går!~}
+
+ Och:
+
+ \textbackslash textit{John Anscha va en grabb från Malå sta'~Han skida' till Ume på under en da'  ~Han läste en bok ~Blev besatt som en tok!~Han hade upptäckt hur mäktig marxismen va'.~}
+
+ Och:
+
+ \textbackslash textit{Jon han kom från ett kärrgruvehöl~Han gilla' brodyr, klasshat \textbackslash & öl~Ibland med elegans~Dansa'an Pulpdans~Men ibland sluta dansen i en blodpöl~}
+

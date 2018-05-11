@@ -1,0 +1,7 @@
+\textbackslash ditem[Poetisk rättvisa]\textbackslash label{poetiskraettvisa}
+ Drabbar ofta onda människor såsom:
+ \textbackslash begin{itemize}
+ \textbackslash item Ayn Rand
+ \textbackslash item Jörg Haider
+ \textbackslash end{itemize}
+

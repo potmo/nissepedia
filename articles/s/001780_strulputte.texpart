@@ -1,0 +1,15 @@
+\textbackslash ditem[Strulputte]\textbackslash label{strulputte}
+ En strulputte är någon som har strulat till det för sig eller är i färd med att göra det. Kanske har man varit hemma hos en polare och rökt gräs ur \textbackslash textbf{bong} och lyssnat på \textbackslash textit{Uprising!} Senare, på vägen hem, har man kanske fulkopplat TV8-profilen Lars Adaktussons Golf GTi 2004, blivit stoppad av länsman (\textbackslash textbf{polis}) och oförhappandes hamnat i handgemäng. Exempel på kända strulputtar är:
+ \textbackslash begin{itemize}
+ \textbackslash item \textbackslash textbf{Burre}
+ \textbackslash item La Camilla
+ \textbackslash item Kungen
+ \textbackslash item Christer Pettersson
+ \textbackslash item The Hof
+ \textbackslash item Mona Sahlin
+ \textbackslash item Kurt Cobain
+ \textbackslash item Tomas de Quincey
+ \textbackslash item Hunter S. Thompson
+ \textbackslash item Mel Gibson
+ \textbackslash end{itemize}
+

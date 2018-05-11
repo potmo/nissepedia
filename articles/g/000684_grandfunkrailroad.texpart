@@ -1,0 +1,17 @@
+\textbackslash ditem[Grand Funk Railroad]\textbackslash label{grandfunkrailroad}
+ , eller GFR som fansen kallar det, är ett rockband från Flint i USA. De har gått till rockhistorien för att de var först med:
+
+ \textbackslash begin{itemize}
+ \textbackslash item Distad bas
+ \textbackslash item Att dra distratten förbi 7
+ \textbackslash item Långt hår
+ \textbackslash item Cowboyhatt
+ \textbackslash item Jeans
+ \textbackslash item Strupsång
+ \textbackslash item Gitarrsolon
+ \textbackslash item Dubbeltramp
+ \textbackslash item Att ha en \textbackslash textbf{trummis} som dör under mystiska omständigheter
+ \textbackslash item Powerackord
+ \textbackslash item \textbackslash textbf{Sjungande trummis}
+ \textbackslash end{itemize}
+

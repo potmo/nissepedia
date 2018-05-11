@@ -1,0 +1,14 @@
+\textbackslash ditem[Insändarsignaturer]\textbackslash label{insaendarsignaturer}
+ Insändare är, som alla vet, det effektivaste sättet att bilda opinion runt en viktig fråga. För att ge extra trovärdighet åt ditt inlägg är det alltid en bra idé att skriva under meddelandet med en snygg signatur. Den klassiska \textbackslash textit{Vän av ordning} fungerar naturligtvis fortfarande, men i en globaliserad värld kan det ibland löna sig att prova något nytt. Slösa dock inte tid på att återuppfinna hjulet utan låt \textbackslash textbf{Nissepedia} guida dig genom de nya slagfärdigheterna:
+
+ \textbackslash begin{itemize}
+ \textbackslash item Jag och många andra
+ \textbackslash item Missnöjd skattebetalare
+ \textbackslash item Guds sändebud på jorden
+ \textbackslash item Aldrig mera sosse
+ \textbackslash item Djurvän och varghatare
+ \textbackslash item Stolt köttätare
+ \textbackslash item \textbackslash textbf{Lennart Holmlund}
+ \textbackslash item Lär av de äldre
+ \textbackslash end{itemize}
+

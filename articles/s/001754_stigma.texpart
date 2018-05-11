@@ -1,0 +1,14 @@
+\textbackslash ditem[Stigma]\textbackslash label{stigma}
+ är ett begrepp som uppfanns av \textbackslash textbf{Jesus} men sedan återuppfanns av sociologen och teaterentusiasten Erving Goffman. Ett stigma är något som försvårar det sociala livet avsevärt.
+
+ \textbackslash subtitle{Exempel på stigman}
+
+ \textbackslash begin{itemize}
+ \textbackslash item Armsvett
+ \textbackslash item Synlig stjärtskåra
+ \textbackslash item Finnar
+ \textbackslash item Högt uppdragna byxor
+ \textbackslash item Veganism (\textbackslash textbf{Vegan})
+ \textbackslash item Tjockisflås
+ \textbackslash end{itemize}
+

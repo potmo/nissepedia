@@ -1,0 +1,24 @@
+\textbackslash ditem[Marknadskläder]\textbackslash label{marknadsklaeder}
+ På marknader, alltså inte \textbackslash quotetext{marknaden} utan marknaden; kan man utöka sin garderob med:
+ \textbackslash begin{itemize}
+ \textbackslash item Foppatofflor
+ \textbackslash item Fleecetröjor med indianmotiv,
+ \textbackslash item T-shirts med
+ \textbackslash begin{itemize}
+ \textbackslash item \textbackslash quotetext{Skojiga} texter
+ \textbackslash item Taffliga efterapningar av kända varumärken
+ \textbackslash item Indianmotiv
+ \textbackslash item Uvar (\textbackslash textbf{Uv}) i solnedgång
+ \textbackslash item \textbackslash textbf{Leggings} i skinnimitation
+ \textbackslash end{itemize}
+ \textbackslash item Cowboyhattar i skinn
+ \textbackslash end{itemize}
+
+ De som handlar kan grovt indelas i tre kategorier:
+ \textbackslash begin{itemize}
+ \textbackslash item Amfetaminister (\textbackslash textbf{Tjackad})
+ \textbackslash item White trashfetton
+ \textbackslash item Kids som inte vet bättre
+ \textbackslash item Ironiska medlemmar av medelklassen
+ \textbackslash end{itemize}
+

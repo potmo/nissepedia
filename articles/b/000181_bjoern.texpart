@@ -1,0 +1,9 @@
+\textbackslash ditem[Björn]\textbackslash label{bjoern}
+ kan vara
+ \textbackslash begin{itemize}
+ \textbackslash item En tubaspelare (\textbackslash textbf{dragbasun}) som bor på Sjöfartsgatan.
+ \textbackslash item Ett brunt djur som har förståndet att sova hela vintern. (\textbackslash textbf{Björn (djur)})
+ \textbackslash item En förståndshandikappad författare på Österlen.
+ \textbackslash item En förbjuden dansare
+ \textbackslash end{itemize}
+

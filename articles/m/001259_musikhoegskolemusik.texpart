@@ -1,0 +1,18 @@
+\textbackslash ditem[Musikhögskolemusik]\textbackslash label{musikhoegskolemusik}
+ Folk som spelar musik på musikhögskola gör inte det för att dom gillar musik eller ens är intresserade av musik. Vad dom då gör där vet dom inte ens själva så tiden fördrivs genom att bilda olika lösa konstellationer inom genren Musikhögskolemusik.
+ \textbackslash subtitle{Säkra tecken för att identifiera musikhögskolemusik:}
+
+ \textbackslash begin{itemize}
+ \textbackslash item Basisten har en bas med fler än fyra strängar.
+ \textbackslash item Gitarristen bär sin  fullkittade gitarr strax under hakan.
+ \textbackslash item Matilda är en trevlig tjej, så man har \textbackslash textbf{flöjt} med.
+ \textbackslash item Stor vikt läggs vid avancerade arrangemang, framförande åsidosätts fullständigt.
+ \textbackslash item Bandnamnet innhåller något i stil med
+ \textbackslash begin{itemize}
+ \textbackslash item \textbackslash quotetext{project}
+ \textbackslash item en sifferkombination
+ \textbackslash item intern humor
+ \textbackslash item Om man mot all förmodan spelar inför publik soundcheckar man i tre timmar och gnäller på allt tekniskt som går att gnälla på från telekablar till belysningen på toaletten.
+ \textbackslash end{itemize}
+ \textbackslash end{itemize}
+

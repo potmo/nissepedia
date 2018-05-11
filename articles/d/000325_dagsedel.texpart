@@ -1,0 +1,12 @@
+\textbackslash ditem[Dagsedel]\textbackslash label{dagsedel}
+ En dagsedel är en välförtjänt örfil som man får när man missköter sig i sällskapslivet. Kanske har man kommenterat utseendet hos världparets barn då man är på besök nästgårds och sitter till bords. Kanske har man utpekat skavanker hos sitt sällskap under en kväll på lokal, eller så har man gått och förargat en bonde genom att sova i dennes potatisåker. Hursomhelst har någon blivit vred och vill genom att ge dig en dagsedel uppmana dig att genast upphöra med detta beteende.
+ \textbackslash subtitle{Folk som ska ha en dagsedel}
+
+ \textbackslash begin{itemize}
+ \textbackslash item Carl Bildt
+ \textbackslash item Karl-Gustav XVI
+ \textbackslash item Pär Ström
+ \textbackslash item \textbackslash textbf{Adde Malmberg}
+ \textbackslash item Länsstyrelsen
+ \textbackslash end{itemize}
+

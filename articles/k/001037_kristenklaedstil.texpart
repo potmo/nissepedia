@@ -1,0 +1,33 @@
+\textbackslash ditem[Kristen klädstil]\textbackslash label{kristenklaedstil}
+ För snart tvåtusen år sedan red en excentrisk man in i Jerusalem på en åsna. Fattiga judar strödde palmbland framför honom och ropade \textbackslash textit{Hosianna, Davids son!}. Man lyssnade till mannens hoppingivande men också omstörtande ord. Han talade om sin faders rike och om att älska sin nästa, även de som lever i synd och skam. Snart stod mannen inför den ångerfulle Pontius Palatius, som inte såg någon annan utväg än att ha honom uppspikad på ett kors och pinad i trenne dagar. Så gav herren sin förstfödde son för syndernas förlåtelse. Tycker man att det här låter som en grej värd att basera sitt liv på är en av de första sakerna man bör göra att skaffa nya kläder, för enligt vissa har Herren väldigt specifik klädsmak. Den som rättar sig efter \textbackslash textbf{bibeln} har svårt att däri se vilka kläder som herren godtar och vilka som förarga honom, eftersom folk i den tid då bibeln skrevs endast gick iklädda säckväv (\textbackslash textbf{särk}) eller i bästa fall toga. Men på något vis har den svenska frikyrkorörelsen kommit fram till följande:
+
+ \textbackslash subtitle{Kläder som herren godtaga}
+
+ För män gäller:
+ \textbackslash begin{itemize}
+ \textbackslash item Chinos
+ \textbackslash item Seglarskor
+ \textbackslash item Enfärgad eller diskret randig skjorta
+ \textbackslash item Enkel kavaj
+ \textbackslash item Slips
+ \textbackslash end{itemize}
+ 
+ För kvinnor gäller:
+ \textbackslash begin{itemize}
+ \textbackslash item Långkjol eller byxdress
+ \textbackslash item Högt knäppt blus
+ \textbackslash item Låga pumps
+ \textbackslash item Ett stort halsbandssmycke. Gärna ett kors, förstås.
+ \textbackslash end{itemize}
+ 
+ \textbackslash subtitle{Kläder som förarga herren}
+ 
+ \textbackslash begin{itemize}
+ \textbackslash item Keps
+ \textbackslash item Jeans
+ \textbackslash item Kort kjol
+ \textbackslash item T-shirt
+ \textbackslash item Vindjacka.
+ \textbackslash item Boots
+ \textbackslash end{itemize}
+
