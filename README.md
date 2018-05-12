@@ -27,7 +27,7 @@ Understuken text `bla bla \underline{detta är understruket} bla bla`
 
 Referenser är bara fet stil `bla bla \textbf{AC/DC}` eller om referensen inte sitter ihop med ordet som referensen pekar på så sätter man det inom parentes `Fan vad fint med lite rock'n'roll! (\textbf{AC/DC})`
 
-Listor gör man såhär
+Punktistor gör man såhär
 ```latex
 \begin{itemize}
  \item Rad ett
