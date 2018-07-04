@@ -1,0 +1,236 @@
+\documentclass[twoside,9pt]{book}
+\usepackage{multicol}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+\usepackage{enumerate}
+\usepackage{lipsum}
+
+%%
+% For nicely typeset tabular material
+\usepackage{booktabs}
+
+%\usepackage[swedish]{babel}
+\usepackage[T2A,T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[russian,greek,german,finnish,danish,swedish]{babel}
+\usepackage{lmodern}
+\usepackage{textcomp}
+% japanese
+\usepackage{CJKutf8}
+%% phonetic chars
+\usepackage{tipa}
+
+% makes it possible to use $special$
+%\usepackage{unixode}
+\usepackage{newunicodechar}
+
+\usepackage{color}
+
+\usepackage{enumitem}
+
+%\usepackage{blindtext, showframe}
+
+%adding underlines
+\usepackage{ulem}
+
+% vector fonts
+\usepackage{ae}
+
+% large first letter
+\usepackage{lettrine}
+
+%squeezing fonts
+\usepackage{microtype}
+
+%\geometry{a5paper, margin=1in}
+\usepackage[twoside,mag=708,paperwidth=15.3truecm,paperheight=22.8truecm,bottom=1.5in]{geometry}
+%paperheight=9in,paperwidth=6in,top=1in,bottom=1in,right=1in,left=1in,showframe,showcrop,
+% Images
+\usepackage{epsfig}
+
+%% special clearpage for figures
+\usepackage{floatpag}
+
+\title{Nissepedia - i urval}
+\author{Kulturföreningen Nissepedia}
+
+%fix non breaking spaces
+\DeclareUnicodeCharacter{00A0}{ }
+
+%ignore overfull hbox
+\hfuzz=20pt
+
+%more errors
+\errorcontextlines 10000
+
+%euro sign
+\usepackage{marvosym}
+\DeclareUnicodeCharacter{20AC}{\EUR{}}
+
+% Inserts a blank page
+\newcommand{\blankpage}{\newpage\hbox{}\newpage}
+\newcommand{\subtitle}[1]{\begin{center}\uline{#1}\end{center}}
+
+\newcommand{\quotetext}[1]{``#1''} 
+\newcommand{\charaa}{\aa}
+\newcommand{\charAA}{\AA}
+\newcommand{\charae}{\"a}
+\newcommand{\charAE}{\"A}
+\newcommand{\charoo}{\"o}
+\newcommand{\charOO}{\"O}
+
+%\newcommand{\bashidoA}{\begin{CJK}{UTF8}{min}武\end{CJK}}
+%\newcommand{\bashidoB}{\begin{CJK}{UTF8}{min}士\end{CJK}}
+%\newcommand{\bashidoC}{\begin{CJK}{UTF8}{min}道\end{CJK}}
+
+
+
+% add unicode chars
+\newunicodechar{å}{\aa}
+\newunicodechar{Å}{\AA}
+\newunicodechar{ä}{\"a}
+\newunicodechar{Ä}{\"A}
+\newunicodechar{ö}{\"o}
+\newunicodechar{Ö}{\"O}
+\newunicodechar{ø}{\o}
+\newunicodechar{Ø}{\O}
+
+\newunicodechar{ʃ}{\textipa{S}}
+\newunicodechar{ŋ}{\textipa{N}}
+\newunicodechar{ŋ}{\textipa{N}}
+\newunicodechar{ʒ}{\textipa{Z}}
+%\newunicodechar{ə}{\textipa{@}}
+\newunicodechar{ə}{\textschwa}
+\newunicodechar{ɛ}{\textipa{E}}
+\newunicodechar{ˈ}{"}
+
+\newunicodechar{ɠ}{\textipa{!g}}
+\newunicodechar{Ō}{\={O}}
+\newunicodechar{ō}{\={o}}
+%\newunicodechar{武}{\begin{CJK}{UTF8}{min}武\end{CJK}}
+%\newunicodechar{士}{\unichar{22763}}
+%\newunicodechar{道}{\unichar{36947}}
+\newunicodechar{Ē}{\={E}}
+\newunicodechar{ē}{\={e}}
+\newunicodechar{Ê}{\^{E}}
+\newunicodechar{ê}{\^{e}}
+
+
+
+
+
+
+
+
+
+
+\newunicodechar{―}{-}
+
+% dash instead of bullets in items
+%\def\labelitemi{\circ}
+
+\renewcommand{\ref}[1]{\textsuperscript{\pageref{#1}}}
+\newcommand{\indexref}[1]{\textit{\pageref{#1}}}
+
+% empty \sectionmark
+\renewcommand{\sectionmark}[1]{}
+% create a command to create marks and collapse them if they are identical
+
+\setlength{\headheight}{15pt}
+
+\newcommand{\mymarks}{%
+\ifthenelse{\equal{\leftmark}{\rightmark}}
+{\rightmark} % if equal
+{\rightmark\enspace--\enspace\leftmark}} % if not equal 
+\fancyhead[LE,RO]{\mymarks} 
+\fancyhead[LO,RE]{\thepage}
+% define a wrapper on the description environment to add the marks
+% this part is quick and dirty; it would be better to define one's own
+% environment to do this, but the basic idea is the same: you need
+% to add the \markboth command to each dictionary entry
+\def\ditem[#1]{\item[#1]\markboth{#1}{#1}}
+\def\mydots{ \leavevmode\xleaders\hbox to 0.25em{\hfil. \hfil}\hfill\kern5pt}
+
+
+\begin{document}
+
+
+
+\pagestyle{empty}
+
+\setenumerate{itemindent=0em,leftmargin=1em,noitemsep,topsep=0pt}
+\setitemize{itemindent=0em,leftmargin=1em,noitemsep,topsep=0pt}
+\setdescription{itemindent=2.1em,leftmargin=0.1in,style=unboxed}
+
+
+\tolerance=1
+%\emergencystretch=\maxdimen
+%\hyphenpenalty=10000
+%\hbadness=10000
+\exhyphenpenalty=10000
+\hyphenpenalty=10000
+
+\blankpage
+
+\begin{center}
+\begin{minipage}{\linewidth}
+    \centering
+
+    \vspace{3cm}
+
+    {\uppercase{\Huge Nissepedia\par}}
+    \vspace{0.5cm}
+    {\Large i urval\par}
+    \vspace{13cm}
+    Videnskabens Førlag
+    
+\end{minipage}
+\end{center}
+\newpage
+
+\begin{minipage}{\linewidth}
+\begin{center}
+\vspace{7.0in}
+{\small	Videnskabens Førlag AS\par}
+{\small Besöksadress: Landsvægen 178\par}
+{\small 260 13 Sankt Ibb\par}
+{\small Danmark\par}
+\vspace{0.2in}
+{\small	Kulturföreningen Nissepedia\par}
+{\small	\textbf{Nissepedia - i urval}\par}
+{\small	Andra upplagan\par}
+{\small	\copyright ~ 2018 Videnskabens Førlag AS\par}
+{\small	Översättning från danska: Lorenzo Woodrose\par}
+{\small Tryckt i Litauen 2018\par}
+{\small	ISBN 978-91-637-7176-7\par}
+\end{center}
+\end{minipage}
+
+\newpage
+
+
+\begin{center}
+\begin{minipage}{\linewidth}
+\vspace{3.0in}
+\begin{flushright}
+\textit{Education is a human right with immense power to transform.\\
+On its foundation rest the cornerstones of freedom, democracy and sustainable human development.}\\
+~\\
+~\\
+- Kofi Annan
+\end{flushright}
+\end{minipage}
+\end{center}
+
+\blankpage
+
+\blankpage
+
+
+\pagestyle{fancy}
+\setcounter{page}{1}
+
+\newpage
+
+\begin{multicols}{2}
+\begin{description}[itemindent=2.1em,leftmargin=0.1in,style=unboxed]
