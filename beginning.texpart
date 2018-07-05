@@ -17,7 +17,7 @@
 \usepackage{textcomp}
 % japanese
 \usepackage{CJKutf8}
-%% phonetic chars
+% phonetic chars
 \usepackage{tipa}
 
 % makes it possible to use $special$
@@ -107,9 +107,13 @@
 \newunicodechar{ɠ}{\textipa{!g}}
 \newunicodechar{Ō}{\={O}}
 \newunicodechar{ō}{\={o}}
+
+
 %\newunicodechar{武}{\begin{CJK}{UTF8}{min}武\end{CJK}}
+%\newunicodechar{武}{\unichar{27494}}
 %\newunicodechar{士}{\unichar{22763}}
 %\newunicodechar{道}{\unichar{36947}}
+
 \newunicodechar{Ē}{\={E}}
 \newunicodechar{ē}{\={e}}
 \newunicodechar{Ê}{\^{E}}
@@ -142,7 +146,7 @@
 \ifthenelse{\equal{\leftmark}{\rightmark}}
 {\rightmark} % if equal
 {\rightmark\enspace--\enspace\leftmark}} % if not equal 
-\fancyhead[LE,RO]{\mymarks} 
+\fancyhead[LE,RO]{\mymarks}
 \fancyhead[LO,RE]{\thepage}
 % define a wrapper on the description environment to add the marks
 % this part is quick and dirty; it would be better to define one's own
@@ -183,7 +187,6 @@
     {\Large i urval\par}
     \vspace{13cm}
     Videnskabens Førlag
-    
 \end{minipage}
 \end{center}
 \newpage
